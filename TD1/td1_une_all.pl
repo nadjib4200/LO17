@@ -10,6 +10,7 @@ foreach $fic (@list) {
   $fic =~ s/LCI\///;
 }
 
+# fichiers générées
 $i = 0;
 # pour chaque fichier on appelle le script td1_une.pl
 foreach $fic (@list) {
