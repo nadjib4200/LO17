@@ -16,6 +16,7 @@ $i = 0;
 foreach $fic (@list) {
   `perl td1_2-1_une.pl $fic`; 
    $i++;
+   print $fic;
 }
 
 print "Nombre de fichiers générés : $i\n";

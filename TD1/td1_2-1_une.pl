@@ -24,9 +24,8 @@ print "Source : LCI/$fichier\n";
 open(FICIN, "LCI/$fichier") || die ("Erreur d'ouverture du fichier");
 open(FICOUT, ">LCI_2/$fichier") || die ("Erreur d'ouverture du fichier");
 
-# lecture fichier entrée
 while ($ligne = <FICIN>) {
-	if ($ligne =~ /IBL_ID=27303/) { # || /Blc=27303/
+	if ($ligne =~ /(IBL_ID|Blc)=27303/) {
 		do {
 		      # convertir la ligne DOCTYPE .. UTF-8 en DOCTYPE .. iso8859-1
 		      # pour que le document converti puisse toujours
@@ -41,25 +40,12 @@ while ($ligne = <FICIN>) {
 		      
 		      # on passe à la ligne suivante
 		      $ligne = <FICIN>;		
-		} until ($ligne =~ /IBL_ID=27916 - Temps/) # || /Blc=2716[0-9]\s-\sTemps/	
+		} until ($ligne =~ /(\/Bloc IBL_ID|\/Blc)=27916/);
+		# instancier la chaîne en objet au format "neutre"
+		$u = Unicode::String->new($ligne);
+		# rendre la chaîne sous un format iso8859-1		      
+		print FICOUT $u->latin1;
 	}
 }
 
-################
-# dernière ligne
-################
-
-# convertir la ligne DOCTYPE .. UTF-8 en DOCTYPE .. iso8859-1
-# pour que le document converti puisse toujours
-# être affiché correctement par un navigateur
-(/DOCTYPE HTML/) && (s/[Uu][Tt][Ff]\-8/iso8859-1/);
-
-# instancier la chaîne en objet au format "neutre"
-$u = Unicode::String->new($ligne);
-
-# rendre la chaîne sous un format iso8859-1		      
-print FICOUT $u->latin1;
-
 print "END\n";
-
-
