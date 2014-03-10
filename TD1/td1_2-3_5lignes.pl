@@ -25,7 +25,7 @@ $ligne = <FICIN>;
 
 print FICOUT "<UNE>";
 # if "une" existe
-if ($ligne =~ /(<!-- (Bloc IBL_ID|Blc)=27914.*Lire l'article)/) {
+if ($ligne =~ /(<!-- (Bloc IBL_ID|Blc)=27914.*?Lire l'article)/) {
 	print FICOUT $1;
 } else {
 	print FICLOG "$fichier : 'La Une' n'existe pas\n";
