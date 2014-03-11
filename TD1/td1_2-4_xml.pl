@@ -222,4 +222,4 @@ print FICOUT "<LES_RAPPELS>\n";
 	}
 print FICOUT "</LES_RAPPELS>\n";
 
-print FICOUT "</PAGE_LCI>";
+print FICOUT "</PAGE_LCI>\n";
