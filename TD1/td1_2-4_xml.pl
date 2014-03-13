@@ -27,6 +27,8 @@ print FICOUT "<FICHIER>$fichier</FICHIER>\n";
 # date
 $fichier =~ /(\d{4})-(\d{2})-(\d{2})/;
 $date_fic = $3."/".$2."/".$1;
+$date_fic_mois = $2;
+$date_fic_annee = $1;
 print FICOUT "<DATE_PAGE>$date_fic</DATE_PAGE>\n";
 
 # lecture ligne UNE
@@ -199,8 +201,38 @@ print FICOUT "<LES_RAPPELS>\n";
 		$rappel = $1;
 		print FICOUT "<RAPPEL>\n";
 			print FICOUT "<dateArticle>";
-			if ($rappel =~ /span class="S48">(.*?)<\/span>/) {
-				print FICOUT $1;
+			if ($rappel =~ /span class="S48">(\d\d) (.*?)<\/span>/) {
+				#~ %mon2num = qw(
+				  #~ janvier 01  février 02 mars 03  avril 04  mai 05  juin 06
+				  #~ juillet 07  août 08  septembre 09  octobre 10 novembre 11 décembre 12
+				#~ );
+				#~ $mois = $mon2num{lc $2};
+				
+				$jour = $1;
+				
+				if ($2 =~ /janvier/) { $m = "01"; }
+				if ($2 =~ /f.vrier/) { $m = "02"; }
+				if ($2 =~ /mars/) { $m = "03"; }
+				if ($2 =~ /avril/) { $m = "04"; }
+				if ($2 =~ /mai/) { $m = "05"; }
+				if ($2 =~ /juin/) { $m = "06"; }
+				if ($2 =~ /juillet/) { $m = "07"; }
+				if ($2 =~ /ao.t/) { $m = "08"; }
+				if ($2 =~ /septembre/) { $m = "09"; }
+				if ($2 =~ /octobre/) { $m = "10"; }
+				if ($2 =~ /novembre/) { $m = "11"; }
+				if ($2 =~ /d.cembre/) { $m = "12"; }
+				
+				$mois = $m;
+				$an = $date_fic_annee;
+				
+				# si date rappel = décembre et date fic = janvier 
+				if ($mois == "12" && $date_fic_mois == "01") {
+					$an = $date_fic_annee - 1;
+				}
+				
+				$date_finale = $jour."/".$mois."/".$an;
+				print FICOUT $date_finale;
 			}
 			print FICOUT "</dateArticle>\n";
 			print FICOUT "<themeArticle>";
