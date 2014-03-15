@@ -3,6 +3,8 @@
 # ex : script.pl nom_fic
 # script doit être à coté de LCI
 
+use Data::Dumper;
+
 # (1) quit unless we have the correct number of command-line args
 $num_args = $#ARGV + 1;
 if ($num_args != 1) {
@@ -23,8 +25,6 @@ $t_avoiraussi = 0;
 $t_focus = 0;
 $t_grostitre = 0;
 $t_rappel = 0;
-
-use Data::Dumper;
 
 # test
 $ligne = <FICIN>;
@@ -149,3 +149,6 @@ if ($ligne =~ /(<!-- (Bloc IBL_ID|Blc)=27916.*<!-- \/(Bloc IBL_ID|Blc)=27916)/) 
 	print FICOUT $1;	
 }
 print FICOUT "</LES_RAPPELS>\n";
+
+close FICIN;
+close FICOUT;

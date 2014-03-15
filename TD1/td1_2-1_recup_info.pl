@@ -1,5 +1,4 @@
 #!/usr/bin/perl
-
 # ex : script.pl nom_fic
 # script doit être à coté de LCI
 
@@ -87,3 +86,6 @@ while ($ligne = <FICIN>) {
 		print FICOUT $u->latin1;
 	}
 }
+
+close FICIN;
+close FICOUT;

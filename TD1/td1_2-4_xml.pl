@@ -254,3 +254,6 @@ print FICOUT "<LES_RAPPELS>\n";
 print FICOUT "</LES_RAPPELS>\n";
 
 print FICOUT "</PAGE_LCI>\n";
+
+close FICIN;
+close FICOUT;

@@ -26,3 +26,4 @@ $nb_fic_out = `ls LCI_2 | wc -l`;
 print "Nombre de fichiers traités : $i\n"; 
 print "Nombre de fichiers dans le dossier LCI_2 d'après commande Unix (wc -l) : $nb_fic_out";
 
+close FICLOG;

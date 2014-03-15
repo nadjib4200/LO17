@@ -22,3 +22,5 @@ print FICOUT "</CORPUS>\n";
 $nb_fic_out = `ls XML | wc -l`;
 print "Nombre de fichiers traités : $i\n"; 
 print "Nombre de fichiers dans le dossier XML d'après commande Unix (wc -l) : $nb_fic_out";
+
+close FICOUT;
