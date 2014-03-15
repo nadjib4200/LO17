@@ -5,7 +5,6 @@
 
 # (1) quit unless we have the correct number of command-line args
 $num_args = $#ARGV + 1;
-print "Nb args : $num_args\n";
 if ($num_args != 1) {
 	print "Usage: script.pl nom_fic\n";
 	exit;

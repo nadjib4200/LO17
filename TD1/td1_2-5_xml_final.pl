@@ -19,4 +19,6 @@ foreach $fic (@list) {
 
 print FICOUT "</CORPUS>\n";
 
-print "Nombre de fichiers générés : $i\n";
+$nb_fic_out = `ls XML | wc -l`;
+print "Nombre de fichiers traités : $i\n"; 
+print "Nombre de fichiers dans le dossier XML d'après commande Unix (wc -l) : $nb_fic_out";

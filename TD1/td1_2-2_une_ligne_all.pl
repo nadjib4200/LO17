@@ -12,10 +12,12 @@ foreach $fic (@list) {
 
 # fichiers générées
 $i = 0;
-# pour chaque fichier on appelle le script td1_2-2_une_ligne.pl
+# pour chaque fichier on appelle le script correspondant
 foreach $fic (@list) {
   `perl td1_2-2_une_ligne.pl $fic`; 
    $i++;
 }
 
-print "Nombre de fichiers générés : $i\n";
+$nb_fic_out = `ls LCI_3 | wc -l`;
+print "Nombre de fichiers traités : $i\n"; 
+print "Nombre de fichiers dans le dossier LCI_3 d'après commande Unix (wc -l) : $nb_fic_out";

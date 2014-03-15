@@ -10,7 +10,6 @@ Unicode::String->stringify_as('utf8');
 
 # (1) quit unless we have the correct number of command-line args
 $num_args = $#ARGV + 1;
-print "Nb args : $num_args\n";
 if ($num_args != 1) {
 	print "Usage: script.pl nom_fic\n";
 	exit;
@@ -24,6 +23,47 @@ print "Source : LCI/$fichier\n";
 open(FICIN, "LCI/$fichier") || die ("Erreur d'ouverture du fichier");
 open(FICOUT, ">LCI_2/$fichier") || die ("Erreur d'ouverture du fichier");
 
+$t_deb_info = 0;
+$t_fin_info = 0;
+
+# test
+while ($ligne = <FICIN>) {
+	if ($ligne =~ /(IBL_ID|Blc)=27303/) {
+		$t_deb_info++;
+	} elsif ($ligne =~ /(\/Bloc IBL_ID|\/Blc)=27916/) {
+		$t_fin_info++;
+	}
+}
+
+$t_err = 0;
+
+if ($t_deb_info > 1) {
+	print "Element début partie informative trouvé $deb_info fois dans le texte\n";
+	$t_err = 1;
+} elsif ($t_deb_info < 1) {
+	print "Element début partie informative NON trouvé dans le texte\n";
+	$t_err = 1;
+}
+
+if ($t_fin_info > 1) {
+	print "Element fin partie informative trouvé $fin_info fois dans le texte\n";
+	$t_err = 1;
+} elsif ($t_fin_info < 1) {
+	print "Element fin partie informative NON trouvé dans le texte\n";
+	$t_err = 1;
+}
+
+# erreur
+if ($t_err > 0) {
+	print "Arrêt programme à cause d'erreur, voir fichier log\n"; 
+	exit;
+}
+
+# on se place en première ligne
+close FICIN;
+open(FICIN, "LCI/$fichier") || die ("Erreur d'ouverture du fichier");
+
+# traitement
 while ($ligne = <FICIN>) {
 	if ($ligne =~ /(IBL_ID|Blc)=27303/) {
 		do {
@@ -47,5 +87,3 @@ while ($ligne = <FICIN>) {
 		print FICOUT $u->latin1;
 	}
 }
-
-print "END\n";
