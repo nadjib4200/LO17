@@ -25,19 +25,6 @@ while ($ligne = <FICIN>) {
 	}
 }
 
-# test nb lignes fichier sortie
-close FICOUT;
-open(FICOUT, "LCI_3/$fichier") || die ("Erreur d'ouverture du fichier");
-$i = 0;
-while ($ligne = <FICIN>) {
-	$i++;
-}
-if ($i > 1) {
-	print "Le fichier de sortie comporte plus d'une ligne\n"; 
-	print "Arrêt programme à cause d'erreur, voir fichier log\n"; 
-	exit;
-}
-
 close FICIN;
 close FICOUT;
 

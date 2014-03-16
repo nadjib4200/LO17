@@ -20,14 +20,13 @@ $fichier = $ARGV[0];
 print "Source : LCI/$fichier\n";
 
 open(FICIN, "LCI/$fichier") || die ("Erreur d'ouverture du fichier");
-open(FICOUT, ">LCI_2/$fichier") || die ("Erreur d'ouverture du fichier");
 
 $t_deb_info = 0;
 $t_fin_info = 0;
 
 # test
 while ($ligne = <FICIN>) {
-	if ($ligne =~ /(IBL_ID|Blc)=27303/) {
+	if ($ligne =~ /([^\/]Bloc IBL_ID|Blc)=27303/) {
 		$t_deb_info++;
 	} elsif ($ligne =~ /(\/Bloc IBL_ID|\/Blc)=27916/) {
 		$t_fin_info++;
@@ -61,10 +60,11 @@ if ($t_err > 0) {
 # on se place en première ligne
 close FICIN;
 open(FICIN, "LCI/$fichier") || die ("Erreur d'ouverture du fichier");
+open(FICOUT, ">LCI_2/$fichier") || die ("Erreur d'ouverture du fichier");
 
 # traitement
 while ($ligne = <FICIN>) {
-	if ($ligne =~ /(IBL_ID|Blc)=27303/) {
+	if ($ligne =~ /([^\/]Bloc IBL_ID|Blc)=27303/) {
 		do {
 		      # convertir la ligne DOCTYPE .. UTF-8 en DOCTYPE .. iso8859-1
 		      # pour que le document converti puisse toujours
