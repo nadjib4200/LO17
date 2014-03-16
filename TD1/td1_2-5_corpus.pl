@@ -3,7 +3,9 @@
 # recupération tous les fichiers HTML dans un tableau
 @list = `ls LCI_5/*.html`;
 $nb_fic = @list;
-print "Nombre de fichiers originaux : $nb_fic\n";
+
+open(FICLOG, ">log/log_corpus") || die ("Erreur d'ouverture du fichier");
+print FICLOG "Nombre de fichiers originaux : $nb_fic\n";
 
 open(FICOUT, ">CORPUS/corpus.xml") || die ("Erreur d'ouverture du fichier");
 
@@ -19,8 +21,11 @@ foreach $fic (@list) {
 
 print FICOUT "</CORPUS>\n";
 
+############################################
+# test nombre fichiers traités
+############################################
 $nb_fic_out = `ls CORPUS | wc -l`;
-print "Nombre de fichiers traités : $i\n"; 
-print "Nombre de fichiers dans le dossier XML d'après commande Unix (wc -l) : $nb_fic_out";
+print FICLOG "Nombre de fichiers traités : $i\n"; 
+print FICLOG "Nombre de fichiers dans le dossier XML d'après commande Unix (wc -l) : $nb_fic_out";
 
 close FICOUT;

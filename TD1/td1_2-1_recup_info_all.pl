@@ -3,16 +3,16 @@
 # recupération tous les fichiers HTML dans un tableau
 @list = `ls LCI/*.html`;
 $nb_fic = @list;
-print "Nombre de fichiers originaux : $nb_fic\n";
+
+open(FICLOG, ">log/log_recup_info") || die ("Erreur d'ouverture du fichier");
+print FICLOG "Nombre de fichiers originaux : $nb_fic\n";
 
 # on enlève le "LCI/" du nom
 foreach $fic (@list) {
   $fic =~ s/LCI\///;
 }
 
-open(FICLOG, ">log/log_recup_info") || die ("Erreur d'ouverture du fichier");
-
-print "Normalisation de fichiers au format iso8859-1\n";
+print FICLOG "Normalisation de fichiers au format iso8859-1\n";
 
 # fichiers générées
 $i = 0;
@@ -22,8 +22,11 @@ foreach $fic (@list) {
 	$i++;
 }
 
+############################################
+# test nombre fichiers traités
+############################################
 $nb_fic_out = `ls LCI_2 | wc -l`;
-print "Nombre de fichiers traités : $i\n"; 
-print "Nombre de fichiers dans le dossier LCI_2 d'après commande Unix (wc -l) : $nb_fic_out";
+print FICLOG "Nombre de fichiers traités : $i\n"; 
+print FICLOG "Nombre de fichiers dans le dossier LCI_2 d'après commande Unix (wc -l) : $nb_fic_out";
 
 close FICLOG;

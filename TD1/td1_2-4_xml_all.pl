@@ -1,11 +1,11 @@
 #!/usr/bin/perl
 
-use Data::Dumper;
-
 # recupération tous les fichiers HTML dans un tableau
 @list = `ls LCI_4/*.html`;
 $nb_fic = @list;
-print "Nombre de fichiers originaux : $nb_fic\n";
+
+open(FICLOG, ">log/log_xml") || die ("Erreur d'ouverture du fichier");
+print FICLOG "Nombre de fichiers originaux : $nb_fic\n";
 
 # on enlève le "LCI_4/" du nom
 foreach $fic (@list) {
@@ -21,12 +21,16 @@ foreach $fic (@list) {
 }
 $nb_fic_gen = $i;
 
+############################################
+# test nombre fichiers traités
+############################################
 $nb_fic_out = `ls LCI_5 | wc -l`;
-print "Nombre de fichiers traités : $i\n"; 
-print "Nombre de fichiers dans le dossier LCI_5 d'après commande Unix (wc -l) : $nb_fic_out";
+print FICLOG "Nombre de fichiers traités : $i\n"; 
+print FICLOG "Nombre de fichiers dans le dossier LCI_5 d'après commande Unix (wc -l) : $nb_fic_out\n";
 
-open(FICLOG, ">log/log_xml") || die ("Erreur d'ouverture du fichier");
-
+############################################
+# test existence et unicité url partie Une
+############################################
 my %hash_url = ();
 # construct hashmap url fichiers
 foreach $fic (@list) {  
@@ -50,6 +54,9 @@ foreach $fic (@list) {
 	close FICTEST;
 }
 
+############################################
+# test existence et unicité titre partie Une
+############################################
 my %hash_titre = ();
 # construct hashmap titre fichiers
 foreach $fic (@list) {  
@@ -74,6 +81,10 @@ foreach $fic (@list) {
 	close FICTEST;
 }
 
+############################################
+# statistiques
+############################################
+
 # liste des pages qui n'ont pas de URL
 @liste_fic = keys(%hash_url);
 $i = 0;
@@ -85,7 +96,7 @@ foreach $fic (@liste_fic) {
 	}
 }
 $possede_url = $nb_fic_gen - $i;
-print "Fichiers possédant une url : $possede_url/$nb_fic_gen\n";
+print FICLOG "Fichiers possédant une url : $possede_url/$nb_fic_gen\n";
 
 # liste des pages qui n'ont pas de TITRE
 @liste_fic = keys(%hash_titre);
@@ -98,6 +109,6 @@ foreach $fic (@liste_fic) {
 	}
 }
 $possede_titre = $nb_fic_gen - $i;
-print "Fichiers possédant un titre : $possede_titre/$nb_fic_gen\n";
+print FICLOG "Fichiers possédant un titre : $possede_titre/$nb_fic_gen\n";
 
 close FICLOG;

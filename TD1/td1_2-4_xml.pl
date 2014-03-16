@@ -3,18 +3,20 @@
 # ex : script.pl nom_fic
 # script doit être à coté de LCI
 
-# (1) quit unless we have the correct number of command-line args
+############################################
+# Lecture args
+############################################
 $num_args = $#ARGV + 1;
 if ($num_args != 1) {
 	print "Usage: script.pl nom_fic\n";
 	exit;
 }
-
-# lecture args
 $fichier = $ARGV[0];
+chomp($fichier);
 
-print "Source : LCI_4/$fichier\n";
-
+############################################
+# traitement
+############################################
 open(FICIN, "LCI_4/$fichier") || die ("Erreur d'ouverture du fichier");
 open(FICOUT, ">LCI_5/$fichier") || die ("Erreur d'ouverture du fichier");
 
@@ -201,6 +203,7 @@ print FICOUT "<LES_RAPPELS>\n";
 		print FICOUT "<RAPPEL>\n";
 			print FICOUT "<dateArticle>";
 			if ($rappel =~ /span class="S48">(\d\d) (.*?)<\/span>/) {
+				
 				#~ %mon2num = qw(
 				  #~ janvier 01  février 02 mars 03  avril 04  mai 05  juin 06
 				  #~ juillet 07  août 08  septembre 09  octobre 10 novembre 11 décembre 12

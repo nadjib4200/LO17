@@ -7,24 +7,23 @@ use Unicode::String qw(utf8 latin1);
 # spécifie le format par défaut des chaînes en entrée
 Unicode::String->stringify_as('utf8');
 
-# (1) quit unless we have the correct number of command-line args
+############################################
+# Lecture args
+############################################
 $num_args = $#ARGV + 1;
 if ($num_args != 1) {
 	print "Usage: script.pl nom_fic\n";
 	exit;
 }
-
-# lecture args
 $fichier = $ARGV[0];
+chomp($fichier);
 
-print "Source : LCI/$fichier\n";
-
+############################################
+# test existence et unicité
+############################################
 open(FICIN, "LCI/$fichier") || die ("Erreur d'ouverture du fichier");
-
 $t_deb_info = 0;
 $t_fin_info = 0;
-
-# test
 while ($ligne = <FICIN>) {
 	if ($ligne =~ /([^\/]Bloc IBL_ID|Blc)=27303/) {
 		$t_deb_info++;
@@ -32,37 +31,34 @@ while ($ligne = <FICIN>) {
 		$t_fin_info++;
 	}
 }
-
 $t_err = 0;
-
 if ($t_deb_info > 1) {
-	print "Element début partie informative trouvé $deb_info fois dans le texte\n";
+	print "$fichier : Element début partie informative trouvé $deb_info fois dans le texte\n";
 	$t_err = 1;
 } elsif ($t_deb_info < 1) {
-	print "Element début partie informative NON trouvé dans le texte\n";
+	print "$fichier : Element début partie informative NON trouvé dans le texte\n";
 	$t_err = 1;
 }
-
 if ($t_fin_info > 1) {
-	print "Element fin partie informative trouvé $fin_info fois dans le texte\n";
+	print "$fichier : Element fin partie informative trouvé $fin_info fois dans le texte\n";
 	$t_err = 1;
 } elsif ($t_fin_info < 1) {
-	print "Element fin partie informative NON trouvé dans le texte\n";
+	print "$fichier : Element fin partie informative NON trouvé dans le texte\n";
 	$t_err = 1;
 }
-
 # erreur
 if ($t_err > 0) {
-	print "Arrêt programme à cause d'erreur, voir fichier log\n"; 
+	print "$fichier : Arrêt programme à cause d'erreur, voir fichier log\n"; 
 	exit;
 }
-
-# on se place en première ligne
 close FICIN;
+
+############################################
+# traitement
+############################################
 open(FICIN, "LCI/$fichier") || die ("Erreur d'ouverture du fichier");
 open(FICOUT, ">LCI_2/$fichier") || die ("Erreur d'ouverture du fichier");
 
-# traitement
 while ($ligne = <FICIN>) {
 	if ($ligne =~ /([^\/]Bloc IBL_ID|Blc)=27303/) {
 		do {
