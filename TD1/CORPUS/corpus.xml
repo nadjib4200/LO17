@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?> 
 <CORPUS>
 <PAGE_LCI>
 <FICHIER>lci-monde-2005-02-25.html</FICHIER>
@@ -42,7 +43,7 @@
 <mailto>agautier@tf1.fr</mailto>
 <auteur>A.Ga. (d'après AFP)</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3204369-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Italie</themeArticle>
@@ -155,7 +156,7 @@
 <mailto>dstraus@tf1.fr</mailto>
 <auteur>D.S. (avec AFP)</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3204661-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Proche-Orient</themeArticle>
@@ -283,7 +284,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3204940-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Vatican</themeArticle>
@@ -386,7 +387,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3205127-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Allemagne</themeArticle>
@@ -485,7 +486,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3205642-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Aubenas</themeArticle>
@@ -553,7 +554,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT et R.P.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3205751-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Italie</themeArticle>
@@ -630,7 +631,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT et R.P.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3205944-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Côté d'Ivoire</themeArticle>
@@ -743,7 +744,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3206450-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Affaire Calipari</themeArticle>
@@ -840,7 +841,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3206650-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Espagne</themeArticle>
@@ -945,7 +946,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3207099-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Royaume-Uni</themeArticle>
@@ -1035,7 +1036,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3207379-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Aubenas</themeArticle>
@@ -1231,7 +1232,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3207453-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Taïwan</themeArticle>
@@ -1403,7 +1404,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3207668-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Procès Jackson</themeArticle>
@@ -1487,7 +1488,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>F.A., avec AFP</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3207914-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Irak</themeArticle>
@@ -1565,7 +1566,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3207999-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Irak</themeArticle>
@@ -1638,7 +1639,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3208476-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Liban</themeArticle>
@@ -1735,7 +1736,7 @@
 <mailto>dstraus@tf1.fr</mailto>
 <auteur>AFP</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3208521-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>UE</themeArticle>
@@ -1817,7 +1818,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3208924-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Etats-Unis</themeArticle>
@@ -1913,7 +1914,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3209171-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>UE</themeArticle>
@@ -2037,7 +2038,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3209373-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Kirghizstan</themeArticle>
@@ -2143,7 +2144,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3209555-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Kirghizstan</themeArticle>
@@ -2242,7 +2243,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3209751-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Diplomatie</themeArticle>
@@ -2371,7 +2372,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3209565-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Monaco</themeArticle>
@@ -2490,7 +2491,7 @@
 <mailto>dstraus@tf1.fr</mailto>
 <auteur>AFP</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3209565-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Monaco</themeArticle>
@@ -2634,7 +2635,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3210138-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Monaco</themeArticle>
@@ -2734,7 +2735,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3210355-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Indonésie</themeArticle>
@@ -2833,7 +2834,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3210355-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Indonésie</themeArticle>
@@ -2920,7 +2921,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3210747-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Vatican</themeArticle>
@@ -3054,7 +3055,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3211010-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Vatican </themeArticle>
@@ -3226,7 +3227,7 @@
 <mailto>aguillet@tf1.fr</mailto>
 <auteur>Alexandra GUILLET</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3211009-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Jean Paul II</themeArticle>
@@ -3357,7 +3358,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3211304-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Monaco</themeArticle>
@@ -3546,7 +3547,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3211741-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Vatican</themeArticle>
@@ -3707,7 +3708,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3212166-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Procès Jackson</themeArticle>
@@ -3850,7 +3851,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/people/0,,3212290-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Charles et Camilla</themeArticle>
@@ -4013,7 +4014,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>F.A.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3212550-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Rainier</themeArticle>
@@ -4211,7 +4212,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>F.A.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3212756-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Vatican</themeArticle>
@@ -4313,7 +4314,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3212951-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Allemagne</themeArticle>
@@ -4421,7 +4422,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>F.A.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3213069-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Monaco</themeArticle>
@@ -4528,7 +4529,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>F.A.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3213181-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Aubenas</themeArticle>
@@ -4655,7 +4656,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3213402-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Aubenas et Hanoun</themeArticle>
@@ -4768,7 +4769,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3213639-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Liban</themeArticle>
@@ -4876,7 +4877,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3213813-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Espagne</themeArticle>
@@ -5039,7 +5040,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3213804-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Japon</themeArticle>
@@ -5179,7 +5180,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3214294-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Benoît XVI</themeArticle>
@@ -5329,7 +5330,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3214603-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Equateur</themeArticle>
@@ -5499,7 +5500,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3214768-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Equateur</themeArticle>
@@ -5704,7 +5705,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3215039-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Italie</themeArticle>
@@ -5949,7 +5950,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3215487-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Togo</themeArticle>
@@ -6078,7 +6079,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3215465-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Togo</themeArticle>
@@ -6212,7 +6213,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3216144-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>GB</themeArticle>
@@ -6326,7 +6327,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3216385-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Egypte</themeArticle>
@@ -6460,7 +6461,7 @@
 <mailto>aguillet@tf1.fr</mailto>
 <auteur>AG avec afp</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3216673-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Royaume-Uni</themeArticle>
@@ -6544,7 +6545,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3217000-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Irak</themeArticle>
@@ -6648,7 +6649,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3217506-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Royaume Uni</themeArticle>
@@ -6781,7 +6782,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3217728-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Birmanie</themeArticle>
@@ -6969,7 +6970,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3217939-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Irak</themeArticle>
@@ -7070,7 +7071,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3218010-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Seconde guerre mondiale</themeArticle>
@@ -7148,7 +7149,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3218477-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Géorgie</themeArticle>
@@ -7228,7 +7229,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3218488-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Québec</themeArticle>
@@ -7328,7 +7329,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3219218-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Ouzbekistan</themeArticle>
@@ -7461,7 +7462,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3219400-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Irak</themeArticle>
@@ -7614,7 +7615,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3219556-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Ouzbékistan</themeArticle>
@@ -7747,7 +7748,7 @@
 <mailto>dstraus@tf1.fr</mailto>
 <auteur>D.S. (d'après AFP)</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3219742-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Afghanistan</themeArticle>
@@ -7838,7 +7839,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>F.A.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3219890-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Etats-Unis</themeArticle>
@@ -7942,7 +7943,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3220268-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Afghanistan</themeArticle>
@@ -8073,7 +8074,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>F.A.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3220434-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Procès Jackson</themeArticle>
@@ -8191,7 +8192,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3220529-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>JO 2012</themeArticle>
@@ -8325,7 +8326,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3220659-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>UE</themeArticle>
@@ -8448,7 +8449,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3221108-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Otages</themeArticle>
@@ -8582,7 +8583,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3221309-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Procès Jakson</themeArticle>
@@ -8712,7 +8713,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3221551-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Russie</themeArticle>
@@ -8845,7 +8846,7 @@
 <mailto>agautier@tf1.fr</mailto>
 <auteur>A.Ga.(d'après AFP)</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3221682-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Proche-Orient</themeArticle>
@@ -8958,7 +8959,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3221881-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Proche-Orient</themeArticle>
@@ -9061,7 +9062,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3222181-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Arabie saoudite</themeArticle>
@@ -9165,7 +9166,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/europe/0,,3222227-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Référendum</themeArticle>
@@ -9300,7 +9301,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3222533-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>UE</themeArticle>
@@ -9409,7 +9410,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3222830-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Russie</themeArticle>
@@ -9526,7 +9527,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3223328-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>UE</themeArticle>
@@ -9633,7 +9634,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3223584-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>RD Congo</themeArticle>
@@ -9762,7 +9763,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3223784-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Guantanamo</themeArticle>
@@ -9911,7 +9912,7 @@
 <mailto>flefebvre@tf1.fr</mailto>
 <auteur>F.L.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3224056-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Liban</themeArticle>
@@ -10026,7 +10027,7 @@
 <mailto>flefebvre@tf1.fr</mailto>
 <auteur>F.L.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3223977-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>G8</themeArticle>
@@ -10149,7 +10150,7 @@
 <mailto>flefebvre@tf1.fr</mailto>
 <auteur>F.L.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3224502-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Développement</themeArticle>
@@ -10276,7 +10277,7 @@
 <mailto>flefebvre@tf1.fr</mailto>
 <auteur>F.L.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3224647-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Terrorisme</themeArticle>
@@ -10411,7 +10412,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>F.A., avec AFP</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3224892-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Afghanistan</themeArticle>
@@ -10537,7 +10538,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3225414-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Irak</themeArticle>
@@ -10698,7 +10699,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3225414-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Aubenas/Hanoun</themeArticle>
@@ -10797,7 +10798,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>F.A., avec AFP</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3225709-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Procès Jackson</themeArticle>
@@ -10936,7 +10937,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT, sur place</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3225859-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>UE</themeArticle>
@@ -11083,7 +11084,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT, sur place</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/europe/0,,3226052-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>UE</themeArticle>
@@ -11224,7 +11225,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/europe/0,,3226374-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Europe</themeArticle>
@@ -11387,7 +11388,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3226589-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Iran</themeArticle>
@@ -11554,7 +11555,7 @@
 <mailto>dstraus@tf1.fr</mailto>
 <auteur>David STRAUS</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3226668-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Espagne</themeArticle>
@@ -11693,7 +11694,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3227114-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Proche-Orient</themeArticle>
@@ -11826,7 +11827,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>D'après AFP</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3227320-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Irak</themeArticle>
@@ -11979,7 +11980,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3227494-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Suisse</themeArticle>
@@ -12135,7 +12136,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3227570-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>UE</themeArticle>
@@ -12270,7 +12271,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3227720-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>"Mississippi Burning"</themeArticle>
@@ -12377,7 +12378,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3228093-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Iran</themeArticle>
@@ -12499,7 +12500,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3228306-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Royaume-Uni</themeArticle>
@@ -12633,7 +12634,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3228631-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Célébration</themeArticle>
@@ -12787,7 +12788,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3228519-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Jean Paul II</themeArticle>
@@ -12911,7 +12912,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3229525-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Iran</themeArticle>
@@ -13069,7 +13070,7 @@
 <mailto>dstraus@tf1.fr</mailto>
 <auteur>D'après AFP</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3229642-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Arabie Saoudite</themeArticle>
@@ -13262,7 +13263,7 @@
 <mailto>dstraus@tf1.fr</mailto>
 <auteur>David STRAUS</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3229641-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Irak</themeArticle>
@@ -13407,7 +13408,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/europe/0,,3229968-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Immigration </themeArticle>
@@ -13532,7 +13533,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3230177-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>JO 2012</themeArticle>
@@ -13667,7 +13668,7 @@
 <mailto>pmathon@tf1.fr</mailto>
 <auteur>Philippe MATHON (Avec R.P. et M.D.)</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3230398-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Londres</themeArticle>
@@ -13828,7 +13829,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3230635-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Londres</themeArticle>
@@ -14013,7 +14014,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3230625-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Londres</themeArticle>
@@ -14195,7 +14196,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3230989-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Londres</themeArticle>
@@ -14367,7 +14368,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3230989-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Londres</themeArticle>
@@ -14527,7 +14528,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3231400-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Londres</themeArticle>
@@ -14699,7 +14700,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3231429-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Israël</themeArticle>
@@ -14855,7 +14856,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3231810-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Londres</themeArticle>
@@ -15010,7 +15011,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3231949-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Proche-Orient</themeArticle>
@@ -15140,7 +15141,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3232183-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Londres</themeArticle>
@@ -15273,7 +15274,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3232352-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Irak</themeArticle>
@@ -15401,7 +15402,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3232426-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Cyclone</themeArticle>
@@ -15546,7 +15547,7 @@
 <mailto>agautier@tf1.fr</mailto>
 <auteur>A.Ga. (d'après AFP)</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3232635-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Typhon</themeArticle>
@@ -15701,7 +15702,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3232804-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Londres</themeArticle>
@@ -15831,7 +15832,7 @@
 <mailto>agautier@tf1.fr</mailto>
 <auteur>Amélie GAUTIER</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3233021-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Londres</themeArticle>
@@ -15989,7 +15990,7 @@
 <mailto>pmathon@tf1.fr</mailto>
 <auteur>Propos recueillis par Philippe MATHON</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3233253-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Londres</themeArticle>
@@ -16139,7 +16140,7 @@
 <mailto>pmathon@tf1.fr</mailto>
 <auteur>Propos recueillis par Philippe MATHON</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3233448-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Egypte</themeArticle>
@@ -16314,7 +16315,7 @@
 <mailto>pmathon@tf1.fr</mailto>
 <auteur>Propos recueillis par Philippe MATHON</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3233586-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Egypte</themeArticle>
@@ -16491,7 +16492,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3233789-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Londres</themeArticle>
@@ -16635,7 +16636,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3233892-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Egypte</themeArticle>
@@ -16804,7 +16805,7 @@
 <mailto>dstraus@tf1.fr</mailto>
 <auteur>D.S. (avec AFP)</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3233997-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Diplomatie</themeArticle>
@@ -16934,7 +16935,7 @@
 <mailto>dstraus@tf1.fr</mailto>
 <auteur>D'après AFP</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3234308-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Inde</themeArticle>
@@ -17085,7 +17086,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3234564-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Classement</themeArticle>
@@ -17263,7 +17264,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3234769-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Londres</themeArticle>
@@ -17451,7 +17452,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3234921-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Inde</themeArticle>
@@ -17609,7 +17610,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3235016-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Royaume-Uni</themeArticle>
@@ -17764,7 +17765,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3235212-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Arabie saoudite</themeArticle>
@@ -17939,7 +17940,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3235413-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Accident</themeArticle>
@@ -18162,7 +18163,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3235649-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Vol Paris-Toronto</themeArticle>
@@ -18359,7 +18360,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3235934-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Vol Paris-Toronto</themeArticle>
@@ -18579,9 +18580,9 @@
 <urlImage>http://s.tf1.fr/mmdia/i/33/5/2045335_2.jpg</urlImage>
 <resumeArticle>55.000 personnes ont assisté à la cérémonie du souvenir en hommage aux 140.000 victimes de la première bombe A, le 6 août 1945. Le Premier ministre nippon a promis que son pays resterait un pays "pacifiste et non-nucléaire".</resumeArticle>
 <mailto></mailto>
-<auteur> Mié KOHIYAMA (AFP)</span></td><td valign="top" align="right"><img src="http://s.tf1.fr/mmdia/i/13/2/627132.gif" vspace="1" border="0"> <a class="S531" href="/news/monde/0,,3236044-VU5WX0lEIDUy,00.html">Lire l'article</auteur>
+<auteur> Mié KOHIYAMA (AFP)</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3235544-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Aviation</themeArticle>
@@ -18754,7 +18755,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3236237-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Londres</themeArticle>
@@ -18961,7 +18962,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3236413-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Espagne</themeArticle>
@@ -19137,7 +19138,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Stéphane HOCQUINGHEM</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3236726-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Turquie</themeArticle>
@@ -19272,7 +19273,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3236890-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>JMJ</themeArticle>
@@ -19411,7 +19412,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3237251-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>11/9</themeArticle>
@@ -19606,7 +19607,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3237395-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Irak</themeArticle>
@@ -19866,7 +19867,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3237397-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Grèce</themeArticle>
@@ -20134,7 +20135,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3237668-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Gaza</themeArticle>
@@ -20331,7 +20332,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3237843-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Gaza</themeArticle>
@@ -20524,7 +20525,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3238041-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Suisse</themeArticle>
@@ -20752,7 +20753,7 @@
 <mailto>dstraus@tf1.fr</mailto>
 <auteur>D'après AFP</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3238249-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Jordanie</themeArticle>
@@ -20977,7 +20978,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3238468-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Helios</themeArticle>
@@ -21179,7 +21180,7 @@
 <mailto>agautier@tf1.fr</mailto>
 <auteur>A.Ga.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3238566-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Proche-Orient</themeArticle>
@@ -21431,7 +21432,7 @@
 <mailto>dstraus@tf1.fr</mailto>
 <auteur>D.S. (avec AFP)</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3238618-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Proche-Orient</themeArticle>
@@ -21599,7 +21600,7 @@
 <mailto>dstraus@tf1.fr</mailto>
 <auteur>David STRAUS (avec AFP)</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3238780-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Gaza</themeArticle>
@@ -21772,7 +21773,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>F.A.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3239189-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Inondations</themeArticle>
@@ -21940,7 +21941,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3239189-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Inondations</themeArticle>
@@ -22078,7 +22079,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3239794-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Turquie-UE</themeArticle>
@@ -22254,7 +22255,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3239946-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Cyclone</themeArticle>
@@ -22450,7 +22451,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3240003-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Proche-Orient</themeArticle>
@@ -22696,7 +22697,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3240087-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Irak</themeArticle>
@@ -22881,7 +22882,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT (avec A. Ga.)</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3240226-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>West Caribbean</themeArticle>
@@ -23091,7 +23092,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Fabrice AUBERT (avec A. Ga.)</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3240678-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Irak</themeArticle>
@@ -23321,7 +23322,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>F.A.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3240862-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Katrina</themeArticle>
@@ -23494,7 +23495,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3240777-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Presse</themeArticle>
@@ -23722,7 +23723,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3241194-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Katrina</themeArticle>
@@ -23948,7 +23949,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3241220-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Katrina</themeArticle>
@@ -24164,7 +24165,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3241791-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Katrina</themeArticle>
@@ -24410,7 +24411,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3242113-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Autriche</themeArticle>
@@ -24581,7 +24582,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3242481-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Katrina</themeArticle>
@@ -24741,7 +24742,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/people/0,,3243099-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Katrina</themeArticle>
@@ -24891,7 +24892,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3243412-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Egypte</themeArticle>
@@ -25025,7 +25026,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3243783-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Irak</themeArticle>
@@ -25174,7 +25175,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3243994-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Japon</themeArticle>
@@ -25353,7 +25354,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3244202-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Etats-Unis</themeArticle>
@@ -25514,7 +25515,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3244234-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Terrorisme</themeArticle>
@@ -25665,7 +25666,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3244739-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Gaza</themeArticle>
@@ -25866,7 +25867,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3245202-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Toronto</themeArticle>
@@ -26107,7 +26108,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3245568-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Afghanistan</themeArticle>
@@ -26247,7 +26248,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3245686-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Allemagne</themeArticle>
@@ -26417,7 +26418,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3245998-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Allemagne</themeArticle>
@@ -26562,7 +26563,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3246236-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Afghanistan</themeArticle>
@@ -26719,7 +26720,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3246665-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Allemagne</themeArticle>
@@ -26936,7 +26937,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3247071-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Allemagne</themeArticle>
@@ -27089,7 +27090,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3247280-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Cyclone</themeArticle>
@@ -27252,7 +27253,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3247910-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Etats-Unis</themeArticle>
@@ -27432,7 +27433,7 @@
 <mailto>agautier@tf1.fr</mailto>
 <auteur>Propos recueillis par Amélie GAUTIER</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3248378-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Gaza</themeArticle>
@@ -27696,7 +27697,7 @@
 <mailto>flefebvre@tf1.fr</mailto>
 <auteur>Propos recueillis par Franck LEFEBVRE</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3248568-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Cyclone</themeArticle>
@@ -27838,7 +27839,7 @@
 <mailto>flefebvre@tf1.fr</mailto>
 <auteur>Propos recueillis par Franck LEFEBVRE</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3248756-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Royaume-Uni</themeArticle>
@@ -28001,7 +28002,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3248898-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Israël</themeArticle>
@@ -28168,7 +28169,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par F.A.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3249553-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Espagne</themeArticle>
@@ -28305,7 +28306,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par F.A.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3249720-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Etats-Unis</themeArticle>
@@ -28443,7 +28444,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par F.A.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3250172-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Ceuta</themeArticle>
@@ -28606,7 +28607,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par F.A.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3250394-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Allemagne</themeArticle>
@@ -28799,7 +28800,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3249959-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>UE-Turquie</themeArticle>
@@ -28939,7 +28940,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3250906-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>UE</themeArticle>
@@ -29079,7 +29080,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3251403-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Ouragan</themeArticle>
@@ -29233,7 +29234,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3251403-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Ouragan</themeArticle>
@@ -29356,7 +29357,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3252189-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Irak</themeArticle>
@@ -29511,7 +29512,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3252047-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Tempête</themeArticle>
@@ -29701,7 +29702,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3252467-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Melilla</themeArticle>
@@ -29891,7 +29892,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3252761-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Pakistan</themeArticle>
@@ -30063,7 +30064,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3253159-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Pays-Bas</themeArticle>
@@ -30251,7 +30252,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3253540-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Syrie</themeArticle>
@@ -30417,7 +30418,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3253782-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Pakistan</themeArticle>
@@ -30603,7 +30604,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3254134-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Séisme</themeArticle>
@@ -30828,7 +30829,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3254404-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Pakistan</themeArticle>
@@ -30998,7 +30999,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3254852-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Italie</themeArticle>
@@ -31178,7 +31179,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3255374-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Irak</themeArticle>
@@ -31345,7 +31346,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3255884-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Iran</themeArticle>
@@ -31474,7 +31475,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3256118-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Wilma</themeArticle>
@@ -31635,7 +31636,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3256422-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Crash d'Helios</themeArticle>
@@ -31846,7 +31847,7 @@
 <mailto>agautier@tf1.fr</mailto>
 <auteur>Par A.Ga. (avec AFP)</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3256684-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Népal</themeArticle>
@@ -32117,7 +32118,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3256933-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Népal</themeArticle>
@@ -32314,7 +32315,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par tf1.fr</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3257216-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Cyclone</themeArticle>
@@ -32486,7 +32487,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par tf1.fr</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3257759-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Iran</themeArticle>
@@ -32658,7 +32659,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3257900-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Israël</themeArticle>
@@ -32821,7 +32822,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par F.A.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3258213-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Etats-Unis</themeArticle>
@@ -33003,7 +33004,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par F.A.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3258661-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Iran</themeArticle>
@@ -33200,7 +33201,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par F.A.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3258779-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Côte d'Ivoire</themeArticle>
@@ -33457,7 +33458,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par F.A.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3258947-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Côte d'Ivoire</themeArticle>
@@ -33588,7 +33589,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3259261-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Irak</themeArticle>
@@ -33740,7 +33741,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3259507-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Proche-Orient</themeArticle>
@@ -33897,7 +33898,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3259507-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Proche-Orient</themeArticle>
@@ -34047,7 +34048,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3259947-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Terrorisme</themeArticle>
@@ -34179,7 +34180,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3260395-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Amériques</themeArticle>
@@ -34326,7 +34327,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3260696-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Banlieues</themeArticle>
@@ -34503,7 +34504,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3260727-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Azerbaïdjan</themeArticle>
@@ -34639,7 +34640,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3260879-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Banlieues</themeArticle>
@@ -34790,7 +34791,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3261578-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Banlieues</themeArticle>
@@ -34914,7 +34915,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3261724-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Terrorisme</themeArticle>
@@ -35073,7 +35074,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3261980-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Proche-Orient</themeArticle>
@@ -35211,7 +35212,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3262603-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Jordanie</themeArticle>
@@ -35409,7 +35410,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3263155-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Liberia</themeArticle>
@@ -35561,7 +35562,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3263155-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Liberia</themeArticle>
@@ -35708,7 +35709,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3263870-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Monaco</themeArticle>
@@ -35896,7 +35897,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3264125-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Royaume-Uni</themeArticle>
@@ -36099,7 +36100,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3264445-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Pakistan</themeArticle>
@@ -36284,7 +36285,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3264672-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Egypte</themeArticle>
@@ -36471,7 +36472,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3264775-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Bosnie</themeArticle>
@@ -36622,7 +36623,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3264771-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Israël</themeArticle>
@@ -36775,7 +36776,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3264775-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Bosnie</themeArticle>
@@ -36910,7 +36911,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3265711-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Turquie</themeArticle>
@@ -37071,7 +37072,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3265711-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Turquie</themeArticle>
@@ -37223,7 +37224,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3266114-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Proche-Orient</themeArticle>
@@ -37391,7 +37392,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3266689-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Royaume-Uni</themeArticle>
@@ -37552,7 +37553,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3266803-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>West Caribbean</themeArticle>
@@ -37697,7 +37698,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3266700-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Irak</themeArticle>
@@ -37834,7 +37835,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3267658-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Belgique</themeArticle>
@@ -37990,7 +37991,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3268190-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Belgique</themeArticle>
@@ -38151,7 +38152,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3268514-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Irak</themeArticle>
@@ -38328,7 +38329,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3268639-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Sommet</themeArticle>
@@ -38510,7 +38511,7 @@
 <mailto>dstraus@tf1.fr</mailto>
 <auteur>Propos recueillis par David STRAUS</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3268938-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Royaume-Uni</themeArticle>
@@ -38649,7 +38650,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3269362-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Iran</themeArticle>
@@ -38830,7 +38831,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3269460-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Terrorisme</themeArticle>
@@ -39018,7 +39019,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par F.A.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3270106-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Ex-Yougoslavie</themeArticle>
@@ -39176,7 +39177,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3270956-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Nigeria</themeArticle>
@@ -39374,7 +39375,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3270583-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Forum</themeArticle>
@@ -39532,7 +39533,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3271702-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Royaume-Uni</themeArticle>
@@ -39715,7 +39716,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3272543-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>UE</themeArticle>
@@ -39878,7 +39879,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3272737-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>UE</themeArticle>
@@ -40036,7 +40037,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3273424-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>UE</themeArticle>
@@ -40193,7 +40194,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3273620-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>RDC</themeArticle>
@@ -40312,7 +40313,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3274086-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Israël</themeArticle>
@@ -40470,7 +40471,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3274274-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Italie</themeArticle>
@@ -40643,7 +40644,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par F.A.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3274566-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Irak</themeArticle>
@@ -40777,7 +40778,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3274854-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Italie</themeArticle>
@@ -40928,7 +40929,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3274965-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>RU</themeArticle>
@@ -41121,7 +41122,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3275245-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Russie</themeArticle>
@@ -41348,7 +41349,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Isabelle MARQUE</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3275172-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Tsunami</themeArticle>
@@ -41519,7 +41520,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3275645-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Neige</themeArticle>
@@ -41687,7 +41688,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3275796-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Cisjordanie</themeArticle>
@@ -41832,7 +41833,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3276049-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Royaume-Uni</themeArticle>
@@ -41988,7 +41989,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3276137-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Algérie</themeArticle>
@@ -42184,7 +42185,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3276254-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Russie</themeArticle>
@@ -42435,7 +42436,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3276591-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Russie</themeArticle>
@@ -42605,7 +42606,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3276797-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Justice</themeArticle>
@@ -42739,7 +42740,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3276981-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Israël</themeArticle>
@@ -42922,7 +42923,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Fabrice AUBERT et Léonard VINCENT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3277040-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Israël</themeArticle>
@@ -43062,7 +43063,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3277472-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Israël</themeArticle>
@@ -43286,7 +43287,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3277438-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Irak</themeArticle>
@@ -43453,7 +43454,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Stéphane HOCQUINGHEM</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3278133-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Allemagne</themeArticle>
@@ -43632,7 +43633,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Gennaro GRASSI (avec F.A.)</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3278378-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Guinée</themeArticle>
@@ -43832,7 +43833,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Gennaro GRASSI (avec F.A.)</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3278598-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Dakar 2006</themeArticle>
@@ -44052,7 +44053,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Gennaro GRASSI (avec F.A.)</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3278678-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Israël</themeArticle>
@@ -44337,7 +44338,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Gennaro GRASSI (avec F.A.)</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3278906-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Israël</themeArticle>
@@ -44492,7 +44493,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Gennaro GRASSI (avec F.A.)</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3279116-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Suisse</themeArticle>
@@ -44682,7 +44683,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Gennaro GRASSI (avec F.A.)</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3279258-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Côte d'Ivoire</themeArticle>
@@ -44852,7 +44853,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Gennaro GRASSI (avec F.A.)</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3279551-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Israël</themeArticle>
@@ -45047,7 +45048,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3279561-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Al-Qaïda</themeArticle>
@@ -45213,7 +45214,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3279868-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Al-Qaïda</themeArticle>
@@ -45401,7 +45402,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3280005-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Gaz</themeArticle>
@@ -45619,7 +45620,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3280140-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Autorité palestinienne</themeArticle>
@@ -45782,7 +45783,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3280343-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>CIA</themeArticle>
@@ -45975,7 +45976,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3280634-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Vatican</themeArticle>
@@ -46173,7 +46174,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3280803-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Etats-Unis</themeArticle>
@@ -46348,7 +46349,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3280996-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Italie</themeArticle>
@@ -46519,7 +46520,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3281191-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Euro Millions</themeArticle>
@@ -46705,7 +46706,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3281314-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Proche-Orient</themeArticle>
@@ -46898,7 +46899,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3281432-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Proche-Orient</themeArticle>
@@ -47069,7 +47070,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3281445-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Pologne</themeArticle>
@@ -47260,7 +47261,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3281856-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Liban</themeArticle>
@@ -47447,7 +47448,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3281857-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Etats-Unis</themeArticle>
@@ -47654,7 +47655,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3282191-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Religions </themeArticle>
@@ -47867,7 +47868,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3282547-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Religions</themeArticle>
@@ -48058,7 +48059,7 @@
 <mailto>dstraus@tf1.fr</mailto>
 <auteur>Par D.S. (d'après AFP)</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3282615-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Proche-Orient</themeArticle>
@@ -48231,7 +48232,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3282615-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Proche-Orient</themeArticle>
@@ -48386,7 +48387,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3282980-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Allemagne</themeArticle>
@@ -48537,7 +48538,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3283083-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>11 septembre</themeArticle>
@@ -48694,7 +48695,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3283387-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Pologne</themeArticle>
@@ -48855,7 +48856,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Propos recueillis par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3283585-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Polémique</themeArticle>
@@ -49006,7 +49007,7 @@
 <mailto>dstraus@tf1.fr</mailto>
 <auteur>D.S. (d'après AFP)</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3283884-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Iran</themeArticle>
@@ -49169,7 +49170,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3283883-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Haïti</themeArticle>
@@ -49370,7 +49371,7 @@
 <mailto>dstraus@tf1.fr</mailto>
 <auteur>D.S. (avec AFP)</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3284151-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Etats-Unis</themeArticle>
@@ -49553,7 +49554,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3284164-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Etats-Unis</themeArticle>
@@ -49739,7 +49740,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3284628-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Guantanamo</themeArticle>
@@ -49904,7 +49905,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3284859-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Philippines</themeArticle>
@@ -50063,7 +50064,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3285054-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Autorité Palestinienne</themeArticle>
@@ -50252,7 +50253,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3285174-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Philippines</themeArticle>
@@ -50435,7 +50436,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Emmanuel OSTIAN</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3285294-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Vietnam</themeArticle>
@@ -50608,7 +50609,7 @@
 <mailto></mailto>
 <auteur></auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3285505-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Mexique</themeArticle>
@@ -50771,7 +50772,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3285670-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Etats-Unis</themeArticle>
@@ -50944,7 +50945,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par F.A.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3286026-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Royaume-Uni</themeArticle>
@@ -51130,7 +51131,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par F.A.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3286026-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Royaume-Uni</themeArticle>
@@ -51292,7 +51293,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par F.A.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3286295-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Royaume-Uni</themeArticle>
@@ -51494,7 +51495,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par F.A.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3286026-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Royaume-Uni</themeArticle>
@@ -51706,7 +51707,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3286595-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Guantanamo</themeArticle>
@@ -51872,7 +51873,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Fabrice AUBERT</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3286767-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Etats-Unis</themeArticle>
@@ -52010,7 +52011,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par Aurélien VIERS</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3287117-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Irak</themeArticle>
@@ -52173,7 +52174,7 @@
 <mailto>faubert@tf1.fr</mailto>
 <auteur>Par F.A.</auteur>
 </FOCUS>
-<LES_GROSTITIRES>
+<LES_GROSTITRES>
 <GROSTITRE>
 <urlArticle>/news/monde/0,,3287356-VU5WX0lEIDUy,00.html</urlArticle>
 <themeArticle>Pakistan</themeArticle>

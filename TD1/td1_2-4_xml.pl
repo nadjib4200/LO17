@@ -141,7 +141,7 @@ print FICOUT "<FOCUS>\n";
 	}
 	print FICOUT "</mailto>\n";
 	print FICOUT "<auteur>";
-	if ($ligne =~ /class="S14">(.*?)<\/a>/) {
+	if ($ligne =~ /class="S14">(.*?)<\//) {
 		print FICOUT $1;
 	}
 	print FICOUT "</auteur>\n";
@@ -149,7 +149,7 @@ print FICOUT "</FOCUS>\n";
 
 # lecture ligne GROSTITRE
 $ligne = <FICIN>;
-print FICOUT "<LES_GROSTITIRES>\n";
+print FICOUT "<LES_GROSTITRES>\n";
 	while ($ligne =~ /td valign="top"(.*?)<\/table>/g) {
 		$grostitre = $1;
 		print FICOUT "<GROSTITRE>\n";
