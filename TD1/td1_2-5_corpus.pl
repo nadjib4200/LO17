@@ -9,6 +9,11 @@ print FICLOG "Nombre de fichiers originaux : $nb_fic\n";
 
 open(FICOUT, ">CORPUS/corpus.xml") || die ("Erreur d'ouverture du fichier");
 
+############################################
+# DTD CORPUS XML
+############################################
+print FICOUT "<?xml version='1.0' encoding='ISO-8859-1' ?>\n";
+
 print FICOUT "<CORPUS>\n";
 
 # fichiers générées
