@@ -5,13 +5,13 @@ $corpus_res = "CORPUS/corpus_lemmatise.xml";
 
 print "====Lemmatisation====\n";
 
-# Etape 1 : création liste mots
-print "Etape 1 (création liste mots)\n";
-#~ `cat $corpus | perl scripts/newsegmente.pl -f | sort -u | cut -f1 | uniq > res_lemm/mots.txt`;
+# Etape 1 : création liste mots à partir du nouveau corpus (stopliste)
+print "Etape 1 (création liste mots - corpus stopliste)\n";
+`cat $corpus | perl scripts/newsegmente.pl -f | perl supp_chiffres.pl | sort -u | cut -f1 | uniq > res_lemm/mots.txt`;
 
 # Etape 2 : liste successeurs
 print "Etape 2 (liste successeurs)\n";
-#~ `perl scripts/successeurs_2013.pl res_lemm/mots.txt | sort -k2 > res_lemm/succ.txt`;
+`perl scripts/successeurs_2013.pl res_lemm/mots.txt | sort -k2 > res_lemm/succ.txt`;
 
 # Etape 3 : lemm
 print "Etape 3 (lemm) : mot | lemme\n";

@@ -1,4 +1,5 @@
-a 	a 
+a320 	a320 
+a340 	a340 
 abandon 	abandon
 abandonne 	abandon
 abandonner 	abandon
@@ -1119,6 +1120,7 @@ bétail 	bétail
 béton 	béton 
 bêtes 	bêtes 
 c 	c 
+c130 	c130 
 ca 	ca 
 cabine 	cabine
 cabinet 	cabine
@@ -1514,6 +1516,7 @@ clôture 	clôture
 cm 	cm 
 cnn 	cnn 
 co 	co 
+co2 	co2 
 coalition 	coalition 
 coca 	coca 
 cockpit 	cockpit 
@@ -2359,7 +2362,7 @@ dures 	dures
 duré 	duré 
 durée 	durée 
 dus 	dus 
-du  	du  
+du 8 	du 8 
 du gouvernement 	du gouvernement 
 dynamité 	dynamité 
 dysfonctionnements 	dysfonctionnements 
@@ -2902,7 +2905,6 @@ envoyé 	envoyé
 epargnée 	epargnée 
 equateur 	equat
 equatorienne 	equat
-er 	er 
 ermite 	ermite 
 errant 	errant 
 erreur 	erreur
@@ -3081,7 +3083,7 @@ exécution 	exécut
 exécuté 	exécut
 exécutés 	exécut
 ezzat 	ezzat 
-f 	f 
+f16 	f16 
 fabrication 	fabrication 
 fabuleux 	fabuleux 
 face 	face 
@@ -3417,6 +3419,8 @@ février 	février
 fête 	fête
 fêtes 	fête
 g 	g 
+g5 	g5 
+g8 	g8 
 gabon 	gabon
 gabonais 	gabon
 gadgets 	gadgets 
@@ -4942,6 +4946,8 @@ mexique 	mexi
 me saadoun 	me saadoun 
 mgr 	mgr 
 mi 	mi 
+mi5 	mi5 
+mi6 	mi6 
 miami 	miami 
 michael 	mich
 michalowski 	mich
@@ -5350,7 +5356,9 @@ numéro 	numéro
 numéros 	numéro
 nus 	nus 
 ny 	ny 
-n° 	n° 
+n°1 	n°1 
+n°2 	n°2 
+n°3 	n°3 
 néanmoins 	néanmoins 
 nébuleuse 	nébuleuse 
 nécessaire 	nécessaire
@@ -7931,7 +7939,7 @@ testé 	test
 texane 	texane 
 texas 	texas 
 texte 	texte 
-tf 	tf 
+tf1 	tf1 
 tgv 	tgv 
 thatcher 	thatcher 
 thaïlande 	thaïlande 
@@ -8179,6 +8187,7 @@ tuée 	tuée
 tuées 	tuées 
 tués 	tués 
 tv 	tv 
+tv5 	tv5 
 twin 	twin 
 type 	type 
 typhon 	typhon 
@@ -8212,9 +8221,10 @@ tête 	tête
 têtes 	tête
 tôt 	tôt 
 töging 	töging 
-u 	u 
+u2 	u2 
 udc 	udc 
 ue 	ue 
+ue3 	ue3 
 ukraine 	ukrain
 ukrainien 	ukrainien
 ukrainienne 	ukrainien
@@ -8590,7 +8600,6 @@ zoophilie 	zoophil
  premier 	 premier 
  qui 	 qui 
 « 	« 
-°c 	°c 
 àlondres 	àlondres 
 âge 	âge 
 âgé 	âgé 
@@ -8598,9 +8607,7 @@ zoophilie 	zoophil
 âne 	âne 
 âpres 	âpres 
 ça 	ça 
-ème 	ème 
 ère 	ère 
-ères 	ères 
 ébats 	ébats 
 ébranle 	ébranl
 ébranlée 	ébranl

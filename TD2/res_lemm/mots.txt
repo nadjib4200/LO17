@@ -1,4 +1,5 @@
-a
+a320
+a340
 abandon
 abandonne
 abandonner
@@ -1119,6 +1120,7 @@ bétail
 béton
 bêtes
 c
+c130
 ca
 cabine
 cabinet
@@ -1514,6 +1516,7 @@ clôture
 cm
 cnn
 co
+co2
 coalition
 coca
 cockpit
@@ -2359,7 +2362,7 @@ dures
 duré
 durée
 dus
-du 
+du 8
 du gouvernement
 dynamité
 dysfonctionnements
@@ -2902,7 +2905,6 @@ envoyé
 epargnée
 equateur
 equatorienne
-er
 ermite
 errant
 erreur
@@ -3081,7 +3083,7 @@ exécution
 exécuté
 exécutés
 ezzat
-f
+f16
 fabrication
 fabuleux
 face
@@ -3417,6 +3419,8 @@ février
 fête
 fêtes
 g
+g5
+g8
 gabon
 gabonais
 gadgets
@@ -4942,6 +4946,8 @@ mexique
 me saadoun
 mgr
 mi
+mi5
+mi6
 miami
 michael
 michalowski
@@ -5350,7 +5356,9 @@ numéro
 numéros
 nus
 ny
-n°
+n°1
+n°2
+n°3
 néanmoins
 nébuleuse
 nécessaire
@@ -7931,7 +7939,7 @@ testé
 texane
 texas
 texte
-tf
+tf1
 tgv
 thatcher
 thaïlande
@@ -8179,6 +8187,7 @@ tuée
 tuées
 tués
 tv
+tv5
 twin
 type
 typhon
@@ -8212,9 +8221,10 @@ tête
 têtes
 tôt
 töging
-u
+u2
 udc
 ue
+ue3
 ukraine
 ukrainien
 ukrainienne
@@ -8590,7 +8600,6 @@ zoophilie
  premier
  qui
 «
-°c
 àlondres
 âge
 âgé
@@ -8598,9 +8607,7 @@ zoophilie
 âne
 âpres
 ça
-ème
 ère
-ères
 ébats
 ébranle
 ébranlée

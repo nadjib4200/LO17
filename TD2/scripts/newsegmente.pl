@@ -45,7 +45,7 @@ while (<>) {
 		s/> />/; # remplace "> " par ">"
 		s/<.*?>//g; # supprime contenu intérieur <>
 		s/\t//g; # supprime tabulation
-		s/[0-9]+//g; # supprime les chiffres
+		#s/[0-9]+//g; # supprime les chiffres
 		# remplace les séparateurs de mot par l'endroit ou a été trouvé le mot et va à la ligne
 		# ex : Attendat Paris
 		# résultat :

@@ -83,7 +83,7 @@
     120 fin
     119 unis
     116 moins
-    115 tf
+    115 tf1
     115 première
     115 mort
     114 lors
@@ -179,10 +179,9 @@
      70 victoire
      70 milliers
      69 grande
-     69 c
      68 étaient
+     68 c
      68 anti
-     67 ue
      67 semaine
      67 on
      67 lieu
@@ -193,6 +192,7 @@
      66 britanniques
      66 avion
      65 union
+     65 ue
      65 politique
      65 george
      65 crise
@@ -457,9 +457,7 @@
      34 lendemain
      34 italienne
      34 international
-     34 h
      34 espoir
-     34 e
      34 dû
      34 dollars
      34 commission
@@ -904,7 +902,6 @@
      19 personnalités
      19 pakistanais
      19 officiel
-     19 n°
      19 nombre
      19 mosquées
      19 messe
@@ -1081,7 +1078,6 @@
      17 accepte
      16 évolution
      16 édition
-     16 ème
      16 vivants
      16 violentes
      16 vieux
@@ -1328,7 +1324,6 @@
      14 grand
      14 gi
      14 gauche
-     14 g
      14 frontières
      14 fraude
      14 fonction
@@ -1337,7 +1332,6 @@
      14 extradé
      14 experts
      14 euro
-     14 er
      14 environ
      14 engage
      14 désaccord
@@ -1537,7 +1531,6 @@
      12 mondiales
      12 mobilisation
      12 miraculés
-     12 mi
      12 massacre
      12 maroc
      12 marine
@@ -1673,6 +1666,7 @@
      11 olmert
      11 offre
      11 offensive
+     11 n°1
      11 noir
      11 ni
      11 médiatique
@@ -1706,6 +1700,7 @@
      11 géante
      11 guerres
      11 gagner
+     11 g8
      11 françaises
      11 faucon
      11 famine
@@ -1894,7 +1889,6 @@
      10 condoleezza
      10 condamnés
      10 cockpit
-     10 co
      10 clementina
      10 choc
      10 charge
@@ -2120,6 +2114,7 @@
       9 agression
       9 accorder
       9 abraham
+      9 a340
       8 éventuelles
       8 évacué
       8 époque
@@ -2317,6 +2312,7 @@
       8 condition
       8 colombienne
       8 collision
+      8 co
       8 cnn
       8 clos
       8 citant
@@ -2499,6 +2495,7 @@
       7 ministres
       7 millième
       7 michel
+      7 mi
       7 meurtrières
       7 mettent
       7 mettait
@@ -2703,7 +2700,6 @@
       6 éclat
       6 zawahari
       6 yorkais
-      6 x
       6 world
       6 véhicules
       6 volontairement
@@ -2722,7 +2718,6 @@
       6 têtes
       6 téléphérique
       6 twin
-      6 tv
       6 tunisie
       6 trump
       6 trompé
@@ -2905,7 +2900,6 @@
       6 makalu
       6 magouilles
       6 macaulay
-      6 m
       6 légèrement
       6 lynndie
       6 liés
@@ -2956,6 +2950,7 @@
       6 hanovre
       6 hallucinogène
       6 hall
+      6 h
       6 gâchis
       6 guatemala
       6 grèce
@@ -3418,6 +3413,7 @@
       5 oblige
       5 négociées
       5 néerlandaises
+      5 n°2
       5 noms
       5 noirs
       5 nies
@@ -3464,6 +3460,7 @@
       5 maintient
       5 mafia
       5 macshane
+      5 m
       5 légalité
       5 légalisation
       5 luxembourgeois
@@ -3865,6 +3862,7 @@
       4 universel
       4 unie
       4 ultraconservateur
+      4 tv
       4 tulkarem
       4 trouvent
       4 troublée
@@ -4320,6 +4318,7 @@
       4 garang
       4 galère
       4 gala
+      4 g5
       4 féministes
       4 féliciter
       4 fâchent
@@ -4384,6 +4383,7 @@
       4 emprisonné
       4 emprisonnement
       4 effectuait
+      4 e
       4 déçus
       4 détruits
       4 détruit
@@ -4717,7 +4717,7 @@
       3 unesco
       3 ulster
       3 ukrainien
-      3 u
+      3 u2
       3 töging
       3 télévisé
       3 téléphoné
@@ -5072,6 +5072,7 @@
       3 népalaise
       3 néo
       3 nécessité
+      3 n°3
       3 nus
       3 nour
       3 nouakchott
@@ -5123,6 +5124,7 @@
       3 mineure
       3 mina
       3 milan
+      3 mi6
       3 mexicains
       3 meurt
       3 messes
@@ -5843,7 +5845,6 @@
       2 écartés
       2 écarter
       2 ébranle
-      2 °c
       2  premier
       2  de
       2 zambienne
@@ -5852,6 +5853,7 @@
       2 yeni
       2 yamoussoukro
       2 xxe
+      2 x
       2 word
       2 wisconsin
       2 windsor
@@ -5906,10 +5908,12 @@
       2 unanime
       2 ump
       2 ultranationalistes
+      2 ue3
       2 télévisions
       2 téléspectateurs
       2 téléphoniques
       2 tâche
+      2 tv5
       2 tunisiennes
       2 tunisien
       2 trouvant
@@ -6404,6 +6408,7 @@
       2 migrants
       2 miers
       2 michelle bachelet
+      2 mi5
       2 mgr
       2 me saadoun
       2 meurtrière
@@ -6719,7 +6724,7 @@
       2 faiblissent
       2 faibli
       2 faiblesse
-      2 f
+      2 f16
       2 exécutent
       2 extrémisme
       2 extraordinaire
@@ -6989,6 +6994,7 @@
       2 colmatées
       2 collimateur
       2 collaborer
+      2 co2
       2 cm
       2 clémence
       2 close
@@ -7050,6 +7056,7 @@
       2 cadena
       2 cachés
       2 cachaient
+      2 c130
       2 bénéficient
       2 bénit
       2 butin
@@ -7225,6 +7232,7 @@
       2 abdoul
       2 abdallah
       2 abattent
+      2 a320
       1 ôter
       1 îles
       1 évêque
@@ -7261,7 +7269,6 @@
       1 éclabousse
       1 échoué
       1 écheveau
-      1 ères
       1 âgée
       1 «
       1  qui
@@ -8213,6 +8220,7 @@
       1 gagnante
       1 gabonais
       1 gabon
+      1 g
       1 férié
       1 fédérales
       1 fécondité
@@ -8420,7 +8428,7 @@
       1 débarque
       1 dynamité
       1 du gouvernement
-      1 du 
+      1 du 8
       1 durer
       1 duck
       1 dublin

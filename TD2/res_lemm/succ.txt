@@ -1,4 +1,5 @@
-90	a 
+92110	a320 
+92110	a340 
 99211120	abandon 
 9921112220	abandonne 
 99211122210	abandonner 
@@ -1119,6 +1120,7 @@
 952110	béton 
 911110	bêtes 
 90	c 
+91110	c130 
 990	ca 
 9911120	cabine 
 99111210	cabinet 
@@ -1514,6 +1516,7 @@
 910	cm 
 9110	cnn 
 990	co 
+9910	co2 
 9911111110	coalition 
 99310	coca 
 99311110	cockpit 
@@ -2359,7 +2362,7 @@
 99420	duré 
 994210	durée 
 9910	dus 
-9920	du  
+99210	du 8 
 9921111111111110	du gouvernement 
 921111110	dynamité 
 9211111111111111110	dysfonctionnements 
@@ -2902,13 +2905,12 @@
 911111110	epargnée 
 911121110	equateur 
 9111211111110	equatorienne 
-940	er 
-9411110	ermite 
-9431110	errant 
-9431120	erreur 
-94311210	erreurs 
-94311110	erronée 
-94111111110	erythréens 
+9311110	ermite 
+9331110	errant 
+9331120	erreur 
+93311210	erreurs 
+93311110	erronée 
+93111111110	erythréens 
 942121110	escalade 
 9421220	escale 
 94212210	escales 
@@ -3081,7 +3083,7 @@
 99111320	exécuté 
 991113210	exécutés 
 911110	ezzat 
-90	f 
+9110	f16 
 992111111110	fabrication 
 992111110	fabuleux 
 99410	face 
@@ -3417,6 +3419,8 @@
 91120	fête 
 911210	fêtes 
 90	g 
+910	g5 
+910	g8 
 991120	gabon 
 991121110	gabonais 
 99211110	gadgets 
@@ -4942,6 +4946,8 @@
 99111111110	me saadoun 
 9110	mgr 
 990	mi 
+9910	mi5 
+9910	mi6 
 991110	miami 
 99122110	michael 
 991221111110	michalowski 
@@ -5350,7 +5356,9 @@
 96111210	numéros 
 9610	nus 
 910	ny 
-910	n° 
+9310	n°1 
+9310	n°2 
+9310	n°3 
 9811111110	néanmoins 
 9811111110	nébuleuse 
 98111211120	nécessaire 
@@ -7931,7 +7939,7 @@
 9722110	texane 
 972210	texas 
 972110	texte 
-910	tf 
+9110	tf1 
 9110	tgv 
 972111110	thatcher 
 9721111110	thaïlande 
@@ -8178,7 +8186,8 @@
 99320	tuée 
 993210	tuées 
 99310	tués 
-910	tv 
+920	tv 
+9210	tv5 
 91110	twin 
 92210	type 
 9221110	typhon 
@@ -8212,9 +8221,10 @@
 911210	têtes 
 9110	tôt 
 9111110	töging 
-90	u 
+910	u2 
 9110	udc 
-910	ue 
+920	ue 
+9210	ue3 
 91111210	ukraine 
 9111121120	ukrainien 
 911112112110	ukrainienne 
@@ -8590,7 +8600,6 @@
 411111110	 premier 
 41110	 qui 
 10	« 
-110	°c 
 111111110	àlondres 
 3210	âge 
 3220	âgé 
@@ -8598,9 +8607,7 @@
 3110	âne 
 311110	âpres 
 110	ça 
-2110	ème 
-2120	ère 
-21210	ères 
+1110	ère 
 921110	ébats 
 92111210	ébranle 
 921112110	ébranlée 

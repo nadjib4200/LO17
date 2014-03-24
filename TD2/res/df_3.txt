@@ -1,4 +1,6 @@
     326 a
+      2 a320
+      9 a340
       8 abandon
       1 abandonne
       5 abandonner
@@ -1122,7 +1124,8 @@
       6 bétail
       3 béton
       4 bêtes
-     69 c
+     68 c
+      2 c130
       4 ca
       3 cabine
      11 cabinet
@@ -1518,7 +1521,8 @@
       4 clôture
       2 cm
       8 cnn
-     10 co
+      8 co
+      2 co2
      36 coalition
       6 coca
      10 cockpit
@@ -2369,7 +2373,7 @@
       4 duré
       3 durée
       5 dus
-      1 du 
+      1 du 8
       1 du gouvernement
       1 dynamité
       2 dysfonctionnements
@@ -2686,7 +2690,7 @@
       4 déçus
       3 dîner
      34 dû
-     34 e
+      4 e
      24 eau
      22 eaux
       6 echange
@@ -2913,7 +2917,6 @@
       1 epargnée
       2 equateur
       1 equatorienne
-     14 er
       2 ermite
       2 errant
      24 erreur
@@ -3094,7 +3097,7 @@
      17 exécuté
       7 exécutés
       4 ezzat
-      2 f
+      2 f16
       4 fabrication
       4 fabuleux
      78 face
@@ -3429,7 +3432,9 @@
      22 février
      16 fête
       5 fêtes
-     14 g
+      1 g
+      4 g5
+     11 g8
       1 gabon
       1 gabonais
       3 gadgets
@@ -3639,7 +3644,7 @@
       3 géographie
       8 géorgie
       4 gênée
-     34 h
+      6 h
       4 habemus
       2 habilité
       1 habiller
@@ -4698,7 +4703,7 @@
       2 lésion
       3 létale
       2 léthale
-      6 m
+      5 m
       1 ma
       2 maaouiya
       1 maaouyia
@@ -4959,7 +4964,9 @@
      26 mexique
       2 me saadoun
       2 mgr
-     12 mi
+      7 mi
+      2 mi5
+      3 mi6
       1 miami
      44 michael
       6 michalowski
@@ -5368,7 +5375,9 @@
       6 numéros
       3 nus
       2 ny
-     19 n°
+     11 n°1
+      5 n°2
+      3 n°3
      27 néanmoins
       6 nébuleuse
      10 nécessaire
@@ -7959,7 +7968,7 @@
       1 texane
       9 texas
      35 texte
-    115 tf
+    115 tf1
       2 tgv
       9 thatcher
       9 thaïlande
@@ -8206,7 +8215,8 @@
      11 tuée
      34 tuées
      72 tués
-      6 tv
+      4 tv
+      2 tv5
       6 twin
       3 type
       7 typhon
@@ -8240,9 +8250,10 @@
       6 têtes
      11 tôt
       3 töging
-      3 u
+      3 u2
       1 udc
-     67 ue
+     65 ue
+      2 ue3
      11 ukraine
       3 ukrainien
       1 ukrainienne
@@ -8575,7 +8586,7 @@
       4 wonderwoman
       2 word
       6 world
-      6 x
+      2 x
      29 xvi
       2 xxe
       1 xxiii
@@ -8620,7 +8631,6 @@
       2  premier
       1  qui
       1 «
-      2 °c
     328 à
       4 àlondres
      10 âge
@@ -8629,9 +8639,7 @@
       3 âne
       3 âpres
       5 ça
-     16 ème
       5 ère
-      1 ères
       4 ébats
       2 ébranle
       4 ébranlée
