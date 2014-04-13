@@ -43,4 +43,5 @@ print "Etape 6 (création script qui élimine les mots de la stopliste du corpus
 
 # Etape 7 : Elimination des mots de la stopliste du corpus
 print "Etape 7 (élimination des mots de la stopliste du corpus)\n";
-`perl res_script_stopliste_corpus.pl $corpus > $corpus_stopliste`;
+`perl res_script_stopliste_corpus.pl $corpus > $corpus_stopliste`; 
+

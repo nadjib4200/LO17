@@ -1,4 +1,3 @@
-    326 a
       2 a320
       9 a340
       8 abandon
@@ -8,22 +7,23 @@
       6 abat
       2 abattent
       6 abattre
-     20 abattu
       5 abattue
       4 abattues
-      4 abattus
+     20 abattu
       1 abattu mercredi
+      4 abattus
      52 abbas
       2 abdallah
      12 abdel
       2 abdoul
      16 abidjan
+      1 abîmé
       1 abonnement
-     13 abord
       1 aborde
       1 aborder
-      4 abords
       1 abordé
+     13 abord
+      4 abords
       3 abortive
      31 abou
       5 abouti
@@ -39,70 +39,80 @@
       5 absorption
       3 abstention
       1 abuja
-     14 abus
       3 abuser
-      5 abusé
-      1 abîmé
+     12 abus
+      2 abusé
+      2 abus
+      3 abusé
       2 académie
       1 accablant
       1 accablants
      10 accable
       1 accablent
       4 accalmie
+      5 accède
+      2 accédera
       1 accentuer
       2 acceptables
      17 accepte
-      8 accepter
-      2 acceptera
-     23 accepté
       3 acceptée
+      2 acceptera
+      8 accepter
+     23 accepté
       1 acceptés
       1 accession
-     63 accident
       3 accidentelle
       1 accidentellement
-      5 accidents
+     12 accident
       1 accidenté
+     51 accident
+      5 accidents
+      5 accélération
+      1 accélèrent
       2 accompagnaient
       1 accompagnateurs
+      2 accompagnée
       1 accompagnent
       6 accompagner
       1 accompagné
-      2 accompagnée
       1 accompli
-     50 accord
       2 accorde
-      3 accordent
-      9 accorder
-      1 accorderaient
-     18 accords
-      7 accordé
       6 accordée
+      3 accordent
+      1 accorderaient
+      9 accorder
+      8 accord
+      1 accordé
+     17 accord
+      4 accordé
+     12 accord
+      2 accordé
+     13 accord
+     18 accords
       1 accouru
       3 accrochage
       4 accrochages
       2 accroche
       4 accroît
       2 accrus
+      5 accès
       6 accueil
       1 accueillent
-     10 accueilli
       6 accueillie
+     10 accueilli
       4 acculé
       4 accusateur
      12 accusation
       2 accusations
-     13 accuse
+      1 accusée
+      1 accuse
+      1 accusée
+     12 accuse
+      1 accusée
       6 accusent
-     25 accusé
-      3 accusée
       2 accusées
+     25 accusé
      11 accusés
-      5 accède
-      5 accès
-      2 accédera
-      1 accélèrent
-      5 accélération
       2 aceh
       1 acharnait
       2 acharner
@@ -151,10 +161,10 @@
       1 admiration
       8 adolescent
       1 adolescents
+      1 adoptée
      13 adopter
      20 adoption
      32 adopté
-      1 adoptée
       4 ados
       1 adressant
       4 adresse
@@ -163,15 +173,15 @@
       6 adversaires
       4 aeia
       2 afar
-      1 affaibli
       3 affaiblie
+      1 affaibli
       2 affaiblissement
      44 affaire
      36 affaires
-      1 affectionne
-      7 affectueux
-      5 affecté
       3 affectées
+      1 affectionne
+      5 affecté
+      7 affectueux
       2 affichaient
       6 affiche
       2 affiches
@@ -192,25 +202,26 @@
       1 affrontement
      17 affrontements
       1 affrontent
-      3 affronter
       4 affrontera
+      3 affronter
       3 affronté
       3 affréteur
-      3 afghan
       2 afghane
      19 afghanistan
+      3 afghan
       7 afghans
      25 afin
       4 afp
-      6 africain
       3 africaine
       2 africaines
+      6 africain
      16 africains
      20 afrique
       5 agace
       5 agacent
       5 agacé
      12 agca
+      1 agée
      32 agence
      12 agent
       7 agents
@@ -219,16 +230,18 @@
       3 aggraver
       1 aggravé
       6 agi
-      4 agir
       4 agirait
+      4 agir
       7 agissait
       2 agissant
       3 agisse
       2 agissements
-     22 agit
       1 agite
       1 agitent
+     11 agit
       3 agité
+     11 agit
+     14 agé
       5 agnostique
       2 agonie
       1 agrandissement
@@ -239,15 +252,12 @@
       3 agricole
       2 agricoles
       2 agriculture
-      1 aguirre
-     14 agé
-      1 agée
       1 agés
+      1 aguirre
       1 ahmadenijad
      37 ahmadinejad
       2 ahmadinejad était
       6 ahmet
-      4 ai
       2 aibrus
      38 aide
      13 aider
@@ -259,13 +269,14 @@
       7 aient
       4 aigle
       2 aigu
+      4 ai
       2 aile
      18 ailleurs
       1 aime
       6 aiment
      50 ainsi
-     15 air
       7 airbus
+     15 air
       6 airlines
       5 airways
      10 ait
@@ -276,15 +287,25 @@
       3 akbar
       1 akihiko
       1 akrotiri
-    130 al
       5 alabama
       4 alain
       4 alarmante
       2 alaska
       4 albanais
      14 albert
-      8 alcool
+     38 a
+      1 ça
+    149 a
+      1 ça
+      1 a
+      1 ça
+      1 a
+      1 ça
+      1 a
+      1 ça
+    136 a
       2 alcoolisme
+      8 alcool
      36 alerte
       4 alertes
       2 alfredo
@@ -293,9 +314,9 @@
      14 algérien
       4 algérienne
      14 algériens
-     18 ali
       2 aliev
       1 alignés
+     18 ali
       4 alimentaire
       3 alimentant
       8 alimentation
@@ -305,37 +326,37 @@
      10 allait
       1 allant
       3 allaoui
+    130 al
      52 allemagne
-     48 allemand
      28 allemande
       3 allemandes
+     48 allemand
       7 allemands
       4 allen
       1 aller
       4 allez
+      1 allégations
      17 alliance
       1 allie
       1 allié
       9 alliés
+      2 allé
       3 allocution
       1 allons
-      2 allé
-      1 allégations
       3 almere
      83 alors
       7 alourdir
      10 alourdit
       1 alpha
-      2 alpin
       7 alpiniste
      13 alpinistes
+      2 alpin
       2 altermondialistes
       5 alternative
       5 altitude
       2 alvaro
-      3 am
-      3 amal
       3 amalgame
+      3 amal
       3 amarré
       1 amassée
       2 amateurs
@@ -353,11 +374,15 @@
       1 american
       1 amerri
       1 amerrissage
-      6 ami
       2 amical
+      6 ami
       3 amine
       2 amitié
+      3 am
+      1 amélie
+      6 améliore
       6 amman
+      4 amène
       2 amnesty
       1 amnésique
      13 amour
@@ -365,22 +390,19 @@
      11 ampleur
       2 amplifier
       1 ampoules
-     12 amsterdam
-      1 amsterdam 
-      5 amuser
-      3 amusé
-      4 amène
-      1 amélie
-      6 améliore
-    132 américain
      75 américaine
      39 américaines
+    132 américain
      64 américains
       3 américano
       2 amérindien
      24 amérique
       4 amériques
-     38 an
+      6 amsterdam
+      1 amsterdam 
+      6 amsterdam
+      5 amuser
+      3 amusé
       6 analyse
       4 analyser
       5 analyses
@@ -395,68 +417,87 @@
       6 andijan
       5 andreas
       2 andré
-      1 ange
      20 angela
+      1 ange
      21 angeles
       1 angelo
       3 anges
       1 angie
-      7 anglais
       6 anglaise
+      7 anglais
      31 angleterre
       6 anglo
-     13 angoisse
       2 angélus
+     13 angoisse
       7 animaux
+      4 animée
       3 animer
       4 animé
-      4 animée
      17 ankara
+      2 aîné
+     38 an
       1 annan
       4 annapurna
+      2 année
       4 anne
+     26 année
+     43 années
      19 anniversaire
-     57 annonce
+      2 annonçant
+     10 annonce
+      3 annoncée
+      8 annonce
+      2 annoncée
+     15 annonce
+      3 annoncée
+      1 annonce
+      3 annoncée
+     15 annonce
+      1 annoncée
+      1 annonce
+      3 annoncée
+      4 annonce
+      1 annoncée
+      2 annonce
+      1 annoncée
+      1 annonce
       3 annoncent
       1 annoncer
-     76 annoncé
-     17 annoncée
       1 annoncées
+     76 annoncé
       2 annoncés
-      2 annonçant
       1 annoné
       9 annuel
+      1 annulée
       1 annule
+      1 annulée
       8 annulé
-      2 annulée
-     28 année
-     43 années
       3 anomalie
       2 anomalies
       3 anonymes
       1 anormal
     173 ans
       1 ante
-     68 anti
      10 anticipées
       1 anticonstitutionnelle
       2 antijaponaises
+     68 anti
       3 antillais
       2 antilles
       1 antinucléaire
-      5 antisyrien
       4 antisémitisme
+      5 antisyrien
       3 antiterrorisme
      17 antiterroriste
       3 antonio
       3 antépénultième
       2 antérieurs
       1 anxiété
-      7 aoun
      36 août
-      1 ap
+      7 aoun
       2 apaiser
       1 apitoiement
+      1 ap
       1 apostolique
       3 apparaît
       2 apparaître
@@ -470,43 +511,91 @@
       4 appartenant
       1 appartenir
       1 apparu
-     75 appel
       3 appelant
+      3 appelée
      12 appeler
+      3 appel
+      1 appelé
+      1 appel
+      1 appelé
+      1 appel
+      1 appelé
+      7 appel
+      1 appelé
+      1 appel
+      1 appelé
+      6 appel
+      5 appelé
+      1 appel
+      1 appelé
+      1 appel
+      2 appelé
+      4 appel
+      2 appelé
+     10 appel
+      1 appelé
+      1 appel
+      1 appelé
+      1 appel
+      4 appelé
+      5 appel
+      5 appelé
+      2 appel
+      1 appelé
+      1 appel
+      1 appelé
+      9 appel
+      2 appelé
+      4 appel
+      1 appelé
+      7 appel
+      6 appelé
+      1 appel
+      1 appelé
+      2 appel
+      3 appelé
+      1 appel
+      2 appelé
+      6 appel
+      1 appelé
      34 appelle
       5 appellent
-     22 appels
-     44 appelé
-      3 appelée
-     22 appelés
+     10 appelés
+      1 appels
+      1 appelés
+      3 appels
+      1 appelés
+      9 appels
+     10 appelés
+      9 appels
       5 applaudissements
       4 apple
       4 application
       2 appliquer
       4 apporte
       6 apportent
-      4 apporté
       4 apportées
+      4 apporté
+      3 apprécie
       2 apprend
       4 apprendre
+      3 appréhendées
       1 approbation
       1 approchait
      10 approche
       2 approches
+      3 approuvée
       1 approuve
       2 approuver
      13 approuvé
-      3 approuvée
       4 approuvés 
       5 approvisionnement
       2 approvisionnements
-      3 apprécie
-      3 appréhendées
       1 apprêtaient
       5 apprête
       1 apprêtent
-      5 appui
       3 appuie
+      5 appui
       1 appuyer
     266 après
       2 apôtre
@@ -519,57 +608,115 @@
      11 arafat
       4 aragoncillo
       1 arbres
-      2 arc
       6 archevêque
      11 archipel
       2 archéologique
       4 archéologue
       3 archétype
+      2 arc
       2 arctique
       3 ardente
       4 ardoise
-     13 argent
-      2 argentin
       4 argentine
+      2 argentin
+     13 argent
       3 argument
       6 arguments
      29 ariel
+     22 aérien
+     12 aérienne
+      4 aériennes
+     17 aériens
       1 arik
       2 arizona
-     24 arme
-     35 armes
+     33 armée
+      2 arme
+      1 armée
+      1 arme
+      1 armée
+      1 arme
+      1 armée
+      1 arme
+     41 armée
+      1 arme
+     10 armée
+      2 arme
+      1 armée
+      1 arme
+      1 armée
+      3 arme
+      1 armée
+      1 arme
+      1 armée
+      4 arme
+      1 armée
+      5 arme
+      1 armée
+      1 arme
+      1 armée
+      1 arme
+      9 armée
+     14 armes
+      2 armées
+     12 armes
+      2 armées
+      1 armes
+      2 armées
+      2 armes
+      1 armées
+      1 armes
+      2 armées
+      5 armes
       4 armin
-      6 army
      15 armé
-    103 armée
-      9 armées
       3 arménie
      15 armés
+      6 army
       4 arnaud
      11 arnold
+      5 aérogare
+     23 aéroport
+     10 aéroports
+      2 aéroportuaires
       4 arrachent
       7 arraché
       1 arrachés
      37 arrestation
      31 arrestations
-      1 arrivaient
-      5 arrive
-     10 arrivent
-      5 arriver
-      1 arrivera
-     30 arrivé
-     24 arrivée
-      2 arrivées
-     11 arrivés
       2 arrière
+      1 arrivaient
+      1 arrivée
+      2 arrive
+     14 arrivée
+      3 arrive
+      9 arrivée
+     10 arrivent
+      1 arrivera
+      5 arriver
+      2 arrivées
+     30 arrivé
+     11 arrivés
       6 arrogants
       3 arroyo
-     20 arrêt
       1 arrêtant
-     10 arrêter
-     59 arrêté
       4 arrêtée
+     10 arrêter
       8 arrêtées
+      3 arrêté
+      1 arrêt
+      2 arrêté
+      1 arrêt
+      2 arrêté
+      5 arrêt
+      1 arrêté
+      3 arrêt
+      1 arrêté
+      1 arrêt
+      1 arrêté
+      1 arrêt
+     37 arrêté
+      8 arrêt
+     12 arrêté
      32 arrêtés
       3 arsenal
       1 arthur
@@ -581,8 +728,8 @@
       2 artificielle
       4 artificier
       2 artillerie
-      1 artisanal
       1 artisanale
+      1 artisanal
       4 artistique
       3 artémis
       2 aruba
@@ -600,50 +747,54 @@
       1 assaillants
       1 assaillie
       4 assaillis
-      6 assassin
      54 assassinat
       4 assassinats
       6 assassiner
-     25 assassiné
+      6 assassiné
+      6 assassin
+     19 assassiné
      28 assaut
       1 assauts
+      1 assèchement
      11 assemblée
       4 assez
+      5 assiégées
       6 assimilation
       6 assise
       6 assistance
+      5 assistée
       1 assistent
      13 assister
      11 assisté
-      5 assistée
-      5 assiégées
+      4 assène
      11 association
       6 associations
       2 associe
       1 associé
       1 assombries
-      3 assommé
       2 assommée
+      3 assommé
       9 assume
       2 assumerait
       3 assumé
       2 assurait
       2 assurances
       9 assurant
-     21 assure
+      5 assure
+      4 assurée
+      5 assure
+      2 assurée
+     11 assure
       6 assurent
       2 assurer
-     15 assuré
-      6 assurée
       1 assurées
+     15 assuré
       3 assurés
-      1 assèchement
-      4 assène
       1 astronomique
       9 aswat
+      3 athée
       6 athlètes
      10 athènes
-      3 athée
       5 atlanta
       9 atlantique
       8 atmosphère
@@ -652,24 +803,25 @@
       2 atrocités
       1 atsmona
       2 attache
-     58 attaque
+      5 attaque
+      2 attaquée
+     53 attaque
      14 attaquer
      63 attaques
-      2 attaquée
       1 atteignant
       9 atteindre
-     21 atteint
       2 atteinte
+     21 atteint
       6 attelage
-     14 attend
       3 attendait
      10 attendant
      15 attendent
+     14 attend
       4 attendra
       5 attendre
-      8 attendu
       4 attendue
       2 attendues
+      8 attendu
       2 attendus
     114 attentat
     109 attentats
@@ -685,20 +837,19 @@
       3 attirer
       1 attiré
       3 attiser
-      3 attisé
       2 attisées
+      3 attisé
      11 attitude
       2 attorney
       3 attractif
       5 attribue
-      1 attribution
      15 attribué
+      1 attribution
       4 atypique
-    320 au
       4 aube
      17 aubenas
-     47 aucun
      19 aucune
+     47 aucun
       3 audacieux
       4 aude
      17 audience
@@ -706,15 +857,17 @@
       7 audio
       6 audition
       3 auditionnées
+      1 au détriment
       3 augmentation
       4 augmentent
      21 aujourd
+    320 au
       2 auparavant
       3 auprès
       1 auquel
-     23 aura
      38 auraient
      81 aurait
+     23 aura
       1 auriez
      15 auront
       5 auschwitz
@@ -729,20 +882,21 @@
       5 authentifié
       5 authentifiés
       6 authentiques
-      3 auto
       1 autoaccusation
       8 autobus
       8 autocar
+      3 auto
       4 automne
       3 automobilistes
       2 autopsie
      12 autorisant
+      3 autorisée
       8 autorise
+      5 autorisée
       8 autorisent
       8 autoriser
-     17 autorisé
-      8 autorisée
       4 autorisées
+     17 autorisé
       8 autorisés
       5 autoritaires
      24 autorité
@@ -757,68 +911,59 @@
     243 aux
       1 auxquels
       1 aux urnes
-      1 au détriment
      47 avaient
       1 avais
     134 avait
-      2 aval
       4 avaler
-     11 avance
+      2 aval
+      1 avance
       2 avancée
+     10 avance
       5 avancées
-     99 avant
       5 avantage
+     99 avant
     232 avec
      35 avenir
       2 aventure
       1 avertir
       5 avertissement
       6 avertissements
-      1 aveu
       4 aveugle
+      1 aveu
       1 avez
       4 aviation
      66 avion
      24 avions
       6 avis
      14 aviv
-     17 avocat
+      4 avènement
       3 avocate
+     17 avocat
      12 avocats
     142 avoir
       4 avons
       9 avortement
       1 avoue
       7 avoué
-     21 avril
-      4 avènement
-      4 avérer
       2 avérée
-      2 axes
+      4 avérer
+     21 avril
       2 axée
+      2 axes
      26 ayant
-      9 ayman
       2 aymane
+      9 ayman
       2 ayons
       2 azadliq
-      2 azerbaïdjan
       1 azerbaïdjanaise
+      2 azerbaïdjan
       4 azimuts
       8 aziz
       2 azouz
       2 azrou
-     22 aérien
-     12 aérienne
-      4 aériennes
-     17 aériens
-      5 aérogare
-     23 aéroport
-     10 aéroports
-      2 aéroportuaires
-      2 aîné
       1 baaqouba
-      1 baas
       1 baasiste
+      1 baas
       7 bachar
      10 bachelet
       3 bachir
@@ -840,8 +985,8 @@
       4 bakri
       3 balad
       2 balakot
-      3 balayé
       1 balayée
+      3 balayé
       4 balcon
       6 bali
       2 balkarie
@@ -868,14 +1013,14 @@
       1 bannir
       3 bannis
       7 banque
-      4 baptistes
-      9 baptisé
       2 baptisée
+      9 baptisé
+      4 baptistes
       8 barah
       4 barbare
       2 barbares
-      1 barbe
       1 barbecue
+      1 barbe
       2 barcelone
       1 bari
       1 baron
@@ -887,25 +1032,30 @@
       2 barrie
       8 barroso
       1 bars
-     12 bas
       3 basculé
      10 base
       5 baser
-      1 bases
       1 basescu
+      1 bases
+      1 basées
      10 basilique
+      8 bas
+      4 basé
+      4 bas
+      5 basé
       7 basque
       6 basques
       1 basse
       2 bassorah
       1 bastions
-      9 basé
-      1 basées
-      2 bat
      17 bataille
       2 batailles
       4 bateaux
       4 bathyscaphe
+     16 béatification
+      5 béatifié
+      2 bat
+      4 ébats
       3 battante
       5 battre
      12 battu
@@ -914,27 +1064,30 @@
      11 bavière
       4 bavure
      12 bbc
+      5 bébé
+      1 béchir
+      1 bâclée
       6 bea
       1 beatle
-      4 beau
      17 beaucoup
+      4 beau
       1 beaumont
       4 beersheva
       2 begag
-      1 bel
       5 belge
       6 belges
      14 belgique
       5 belgrade
+      1 bel
       1 belles
-     27 ben
       6 bendit
       1 benghazi
       2 benito
       8 benjamin
+     27 ben
       3 benoit
-     28 benoît
       1 benoûit
+     28 benoît
      15 berlin
      38 berlusconi
      17 bernard
@@ -958,9 +1111,9 @@
       3 bilans
       3 bild
       3 bilici
-      9 bill
       2 billet
       5 billets
+      9 bill
       3 binge
       2 biographie
       4 biométrique
@@ -970,33 +1123,39 @@
       5 birmingham
       7 bis
      96 blair
-      6 blanc
      42 blanche
       4 blanches
       7 blanchi
+      6 blanc
       2 blancs
       8 blason
       3 blasy
      15 blazy
-      4 blesser
-     21 blessé
+      1 bâle
       3 blessée
+      4 blesser
      28 blessées
+     21 blessé
      91 blessés
       7 bleus
-      6 bloc
       1 blocage
+      6 bloc
       5 blocus
       4 bloomberg
       2 bloquaient
       2 bloquant
       4 bloque
+      2 bloquée
       1 bloquent
       6 bloquer
-      8 bloqué
-      2 bloquée
       1 bloquées
+      8 bloqué
      12 bloqués
+      5 bénédiction
+      8 bénéficie
+      2 bénéficient
+      1 béni
+      2 bénit
       4 bnn
      28 boeing
       1 boire
@@ -1010,15 +1169,15 @@
       3 bombardement
       1 bombardements
       3 bombarder
-      4 bombardé
       2 bombardées
+      4 bombardé
       5 bombay
      36 bombe
      16 bombes
-     11 bon
-      2 bondsteel
       2 bondé
+      2 bondsteel
       2 bongo
+     11 bon
      11 bonne
       5 bonnes
       4 bono
@@ -1026,13 +1185,15 @@
      18 bord
      13 bosnie
       5 boston
+      3 boîte
+     11 boîtes
       2 bouche
       3 bouchons
       6 bouclage
+      1 bouclée
       7 boucle
       2 bouclier
       2 bouclé
-      1 bouclée
       6 boude
       8 boudent
       3 boue
@@ -1042,59 +1203,64 @@
       1 bourse
       9 bousculade
       1 bousculaient
-      6 bout
      27 bouteflika
+      6 bout
       8 bouyeri
       1 bowles
       2 boycotte
       1 boycotter
       3 boyd
-      3 boîte
-     11 boîtes
       1 bp
       3 branche
       2 brandies
       6 brandit
+      2 ébranle
+      4 ébranlée
       5 braquage
      21 bras
       1 bratislava
       2 bravant
+      2 brèches
       1 brefs
      17 bretagne
       1 brevet
       3 bricolage
       1 bridge
      10 brigades
-      1 briguera
       2 briguerait
+      1 briguera
       3 brio
     124 britannique
      66 britanniques
       5 brièvement
+      1 brûler
+      3 brûlé
       2 broncho
       6 bronzés
       2 brookfield
       2 brother
       3 broussailles
       7 brown
-      1 bruley
-      5 brusque
-      2 brut
-      3 brutalisé
-     25 bruxelles
-      2 brèches
-      9 brève
-      5 brésil
       1 brésilen
      11 brésilien
       2 brésiliens
-      1 brûler
-      3 brûlé
-      2 bu
+      5 brésil
+      1 bruley
+      5 brusque
+      3 brutalisé
+      2 brut
+     25 bruxelles
+      9 brève
+      6 bétail
+      4 bêtes
+      6 bâtiment
+      4 bâtiments
+      3 béton
       6 bucarest
       3 buchenwald
      26 budget
       2 budgets
+      2 bu
      12 bulgares
       4 bulgarie
       9 bulletin
@@ -1104,29 +1270,11 @@
       2 bureau
       6 bureaux
       1 burundaise
-     18 bus
     166 bush
-      5 but
+     18 bus
       2 butin
-      1 bâclée
-      1 bâle
-      6 bâtiment
-      4 bâtiments
-     16 béatification
-      5 béatifié
-      5 bébé
-      1 béchir
-      1 béni
-      2 bénit
-      5 bénédiction
-      8 bénéficie
-      2 bénéficient
-      6 bétail
-      3 béton
-      4 bêtes
-     68 c
+      5 but
       2 c130
-      4 ca
       3 cabine
      11 cabinet
       2 cachaient
@@ -1140,6 +1288,7 @@
       3 caillaissée
      18 caire
       2 caisses
+      4 ca
       2 calciné
       3 calderoli
      13 calendrier
@@ -1163,11 +1312,12 @@
       4 camionnette
       3 camorra
       2 camouflet
-     29 camp
      28 campagne
       1 campent
-      3 camps
+     19 camp
       2 campé
+     10 camp
+      3 camps
       2 caméras
      12 canada
       4 canadien
@@ -1179,40 +1329,39 @@
       1 canaries
       4 cancer
      15 cancun
-     17 candidat
      17 candidate
       1 candidates
+     17 candidat
      27 candidats
       1 candidature
       1 candidatures
       9 cannibale
-      3 canon
       6 canonisation
+      3 canon
       1 cantal
-      3 canton
       4 cantoni
+      3 canton
       1 cantonné
       4 cantons
       3 canular
       4 caoutchouc
-      3 cap
       1 capable
       2 capables
       7 capacité
      48 capitale
       2 capitales
       1 capitulation
+      3 cap
       1 capoter
       3 caprices
       5 captivité
       9 capture
       9 capturé
       1 capturés
-      8 car
+      2 caraïbes
       4 carabiniers
       2 caracas
       6 caractère
-      2 caraïbes
       2 carbone
       8 carburant
       7 cardiaque
@@ -1226,6 +1375,7 @@
      17 caricatures
       2 caricaturiste
       1 carla
+      8 car
       2 carles
       1 carlingue
       1 carlos
@@ -1234,10 +1384,15 @@
       9 caroline
       2 carrière
       8 carroll
-     12 carte
+      6 carte
+      4 écarte
+      6 carte
+      2 écarter
       5 cartes
+     10 écarté
       3 carton
       1 cartons
+      2 écartés
      30 cas
       7 casques
       2 cassation
@@ -1249,44 +1404,51 @@
      18 catastrophes
       6 catastrophique
       1 catastrophiques
+      7 catégorie
+      7 cathédrale
       3 catholicisme
      30 catholique
      15 catholiques
-      7 cathédrale
       5 cathéter
       1 cathéther
-      7 catégorie
      14 caucase
       8 cauchemar
-     52 cause
+     33 cause
+      3 causée
+     19 cause
       9 causes
      10 causé
-      3 causée
       2 caution
       1 cautionné
       4 cavaco
       3 cavale
       6 cave
+      2 câbles
+      1 cédant
+      4 cède
+      7 céder
+      7 cédé
+      3 cèdre
      27 cdu
-    223 ce
       7 ceaucescu
       1 ceausescu
       4 ceinture
      12 cela
+    223 ce
       2 celebrity
      11 celle
      10 celles
       6 cellule
       3 cellules
      24 celui
-      4 censure
       2 censée
-      7 cent
+      4 censure
      13 centaine
      35 centaines
       3 center
-     13 central
+      7 cent
      19 centrale
+     13 central
      56 centre
       5 centres
       5 centriste
@@ -1313,20 +1475,26 @@
      10 ceuta
      34 ceux
       5 chacun
-      1 chaleur
       6 chaleureux
+      1 chaleur
      18 chambre
-      2 champ
       4 champion
+      2 champ
       2 chamy
       2 chance
      11 chancelier
       7 chancelière
      27 chancellerie
       6 chances
+     31 chaîne
+      3 chaînes
+     12 échange
       9 changement
       3 changent
+      2 échanger
+      3 échanges
       5 changé
+      2 échangés
       7 chantage
      29 chanteur
       2 chanteuse
@@ -1335,13 +1503,19 @@
       7 chapelle
       5 chapitre
       1 chapman
+      3 échappait
+     11 échappe
+      2 échappé
       3 chaque
       7 charbon
-     10 charge
+      1 charge
+      1 chargée
+      1 charge
+      1 chargée
+      8 charge
       2 chargerait
-     13 chargé
-      2 chargée
       3 chargées
+     13 chargé
       9 chargés
       1 charismatique
       2 charité
@@ -1361,17 +1535,18 @@
       3 chauds
       3 chauffard
       9 chauffeur
+      2 échauffourées
       7 chavez
-     31 chaîne
-      3 chaînes
       4 chebaa
+      8 échec
     111 chef
      20 chefs
       1 cheick
      18 cheikh
+     18 échelle
+      4 cheminée
      12 chemin
       9 chemins
-      4 cheminée
      18 cheney
       1 cherchait
       2 cherchant
@@ -1381,6 +1556,7 @@
      16 chercheur
       4 cherie
       4 chesnot
+      1 écheveau
       1 chevet
       7 chez
       1 chiapas
@@ -1391,15 +1567,15 @@
      16 chiite
      28 chiites
       2 children
-      7 chili
       4 chilienne
       1 chiliens
+      7 chili
       2 chimique
       3 chimiques
       7 chimiste
      21 chine
-     13 chinois
      16 chinoises
+     13 chinois
     104 chirac
       1 chirurgical
       2 chitte
@@ -1414,6 +1590,7 @@
       3 choisissez
       6 choisit
      19 choix
+      3 écho
       3 choléra
       1 choquante
       3 choque
@@ -1421,11 +1598,14 @@
       6 choqués
       6 chorzow
       3 chose
+      2 échouer
       4 chouet
+      1 échoué
+      3 chèque
       5 chris
-      7 christ
-      2 christian
       1 christianisme
+      2 christian
+      7 christ
       4 christophe
       6 chronique
       3 chronologie
@@ -1433,28 +1613,30 @@
       6 chrétienne
       1 chrétiennes
       8 chrétiens
+      1 château
       8 chute
       1 chuter
       5 chutes
      14 chypre
       8 chypriote
-      1 château
-      3 chèque
-      9 ci
      42 cia
-     24 cible
-      6 cibles
+     13 cible
       1 ciblée
-      4 ciblées
+     11 cible
+      5 cibles
+      3 ciblées
+      1 cibles
+      1 ciblées
       1 cicr
       8 ciel
+      9 ci
+      8 cinéaste
       6 cindy
       1 cinglante
      95 cinq
       7 cinquantaine
       3 cinquante
       8 cinquième
-      8 cinéaste
       3 cio
       1 circonspect
       3 circonstances
@@ -1465,21 +1647,29 @@
      23 cisjordanie
       8 citant
       2 citerne
+      3 citées
+     12 cité
       5 citoyen
       3 citoyens
-     12 cité
-      3 citées
-     11 civil
      18 civile
       1 civiles
       4 civilisation
       2 civilisé
+     11 civil
       9 civils
       3 civique
       5 civiques
-      5 clair
+      3 éclaboussée
+      1 éclabousse
+      5 éclaboussé
+      1 éclaircissements
       2 claire
       2 clairement
+      2 éclair
+      2 clair
+      4 éclair
+      3 clair
+      4 éclair
       2 clamant
       1 clamer
       1 clameur
@@ -1494,34 +1684,51 @@
       2 clarke
       1 classe
       4 classé
+      2 éclate
+      4 éclaté
+      3 éclat
+      2 éclaté
+      3 éclat
       4 claude
       2 claudia
       2 clause
       1 clavicule
+      1 célébraient
+      5 célébration
+      1 célébrations
+     16 célèbre
+      5 célébrée
+      1 célèbre
+      9 célébrer
+      3 célèbres
+      1 célébrité
+      1 célébrités
+     10 célébré
+     68 c
       4 clemenceau
      10 clementina
+      4 célibat
       3 clichés
       2 client
       5 clients
-     12 climat
       4 climatique
+     12 climat
       6 clinton
       2 clip
       6 clivage
-      1 cloches
-      1 clore
-      8 clos
-      2 close
-      5 closes
-      1 club
-      6 clubs
      12 clé
       2 clémence
+      1 cloches
+      1 clore
+      2 close
+      5 closes
+      8 clos
       9 clés
       4 clôture
+      1 club
+      6 clubs
       2 cm
       8 cnn
-      8 co
       2 co2
      36 coalition
       6 coca
@@ -1532,31 +1739,36 @@
       6 cogite
       4 cohabitation
       6 cohn
+      8 co
+     15 école
+      7 écoles
+      3 écolière
       1 colis
       1 collaborateurs
       2 collaborer
       3 collecter
       4 collectif
       4 collective
+      4 collège
+      1 collèges
       2 collimateur
       3 collines
       8 collision
-      4 collège
-      1 collèges
       2 colmatées
+      2 écologiste
      11 cologne
       4 colombie
       6 colombien
       8 colombienne
-      1 colon
       6 colonel
       2 colonie
      21 colonies
       1 colonisation
+      1 colon
       1 colonne
      31 colons
-      3 columbine
      32 colère
+      3 columbine
      11 coma
      11 combat
       2 combats
@@ -1564,31 +1776,37 @@
       6 combattants
       5 combattre
       1 combustible
+      2 comédie
       9 comité
       4 commanautés
       2 commandemants
      19 commando
       1 commandos
     113 comme
-     12 commence
+      1 commençait
+      1 commençant
+      1 commence
+      1 commencée
+     11 commence
       7 commencent
       5 commencer
      34 commencé
-      1 commencée
       2 commencés
-     60 comment
       1 commentaire
       2 commentaires
       3 commenter
-      1 commençait
-      1 commençant
-      2 commercial
+     60 comment
       1 commerciales
+      2 commercial
       4 commettre
      35 commis
       2 commissaire
      34 commission
-     11 commun
+      4 commémorant
+      4 commémoration
+      1 commémorations
+      1 commémorent
+      5 commémoré
       1 communautaire
       3 communautaires
      38 communauté
@@ -1596,18 +1814,14 @@
      16 commune
       5 communes
       5 communication
+      2 communiquée
       4 communique
       2 communiquer
      22 communiqué
-      2 communiquée
       5 communiqués
       5 communiste
+     11 commun
       2 communs
-      4 commémorant
-      4 commémoration
-      1 commémorations
-      1 commémorent
-      5 commémoré
      47 compagnie
       2 compagnon
       2 compagnons
@@ -1616,9 +1830,9 @@
       2 comparaissent
       3 comparaît
       3 comparaître
-      2 comparution
       3 comparé
       1 comparés
+      2 comparution
       1 compatriotes
       4 compenser
       4 complet
@@ -1628,13 +1842,13 @@
       5 complices
       2 complicité
       1 compliquaient
+      4 compliquée
       1 complique
       1 compliquent
       4 compliqué
-      4 compliquée
       3 complot
-      6 complètement
       1 complétant
+      6 complètement
       3 comportait
       2 comportement
       2 comportements
@@ -1654,10 +1868,9 @@
       1 comptables
       1 comptait
      18 compte
+      2 compétences
       5 compter
       2 comptes
-      2 compétences
-      2 comédie
       3 concentration
       1 concentre
       3 concentrent
@@ -1665,15 +1878,17 @@
      16 concernant
       3 concernées
       2 concernés
-      2 concerts
       2 concertées
+      2 concerts
      12 concession
+      2 coïncide
+      4 coïncider
       3 conciliation
       4 concitoyens
      19 conclave
-     14 conclu
       1 conclue
       3 concluent
+     14 conclu
       2 conclure
       4 conclurent
       6 conclusion
@@ -1684,10 +1899,12 @@
       2 condamnant
       9 condamnation
       3 condamnations
-      4 condamne
+      2 condamnée
+      2 condamne
+     10 condamnée
+      2 condamne
       2 condamner
      40 condamné
-     12 condamnée
      10 condamnés
       1 conde
      13 condi
@@ -1699,38 +1916,45 @@
      10 condoleezza
       4 condor
       2 conduira
-     12 conduit
       2 conduite
+      7 conduit
+      4 éconduit
+      5 conduit
+      1 confédération
       2 confession
       4 confiance
       9 confiant
       1 confidentiel
       3 confinés
       4 confirmait
-     22 confirme
+      5 confirme
+      1 confirmée
+      4 confirme
+      4 confirmée
+      4 confirme
+      4 confirmée
+      9 confirme
       3 confirment
       4 confirmer
      21 confirmé
-      9 confirmée
      10 conflit
       3 conflits
       1 conforme
       5 conformément
       1 confortable
+     12 conférence
       2 confrontation
-      6 confronté
       2 confrontée
       3 confrontées
+      6 confronté
       4 confrontés
      10 confrérie
       9 confusion
-      1 confédération
-     12 conférence
-      2 congo
-      3 congolais
-     18 congrès
-     11 congrégation
       3 congédier
+      3 congolais
+      2 congo
+     11 congrégation
+     18 congrès
       1 conjointe
       2 conjoints
       4 connaissance
@@ -1739,17 +1963,24 @@
       1 connaître
       2 connor
       1 connotation
-     16 connu
       1 connue
       3 connues
+     16 connu
       5 connus
+      2 économie
+      8 économique
+      4 économiques
+      6 économiste
       4 conquérir
+      9 consacrée
       3 consacre
+      2 consacrée
      17 consacré
-     11 consacrée
       4 consacrés
       6 conscience
       2 conscient
+      2 consécutif
+      2 consécutive
      54 conseil
      16 conseiller
       3 conseillé
@@ -1763,46 +1994,46 @@
       3 conservatrice
       1 conserve
       1 conserver
-      6 considère
-      2 considèrent
       4 considérable
      13 considérables
       2 considération
-     15 considéré
+      3 considère
       2 considérée
+      3 considère
+      2 considèrent
+     15 considéré
       4 consignes
       1 consolider
       1 consolidé
       4 consommation
       4 consommé
+      7 conséquence
+     15 conséquences
       2 constatations
+      2 constatée
       2 constater
       1 constaté
-      2 constatée
       2 constituaient
       1 constituait
       1 constituante
       1 constitue
       2 constituent
       4 constituer
+      2 constitués
      58 constitution
       3 constitutionnel
-      2 constitués
       3 constructeurs
      13 construction
       8 consulat
       6 consultation
       1 consultative
-      2 consécutif
-      2 consécutive
-      7 conséquence
-     15 conséquences
-      8 contact
       1 contactant
       5 contacter
-      5 contacts
-      3 contacté
       3 contactées
+      1 contact
+      3 contacté
+      7 contact
+      5 contacts
       2 contagion
       1 contamine
       4 contaminée
@@ -1811,27 +2042,31 @@
       3 contenter
       2 contenu
       5 contestataire
-      5 conteste
+      1 contestée
+      1 conteste
+      1 contestée
+      1 conteste
+      1 contestée
+      3 conteste
       8 contesté
-      3 contestée
       3 contexte
-      9 continent
       3 continentale
+      9 continent
       6 contingent
       3 continuaient
       1 continuait
      23 continue
       2 continuent
-     10 continuer
       2 continuera
+     10 continuer
       5 continué
       2 contourner
       2 contradictions
       1 contradictoires
       3 contraindre
-     13 contraint
       1 contrainte
       3 contraintes
+     13 contraint
       6 contraire
       4 contrairement
       5 contraires
@@ -1839,20 +2074,21 @@
       1 contrariétés
       1 contrastant
       5 contrat
-    215 contre
       1 contrecarrer
       6 contredit
+    215 contre
       4 contrepartie
       8 contres
-      1 contributions
       1 contribué
-      8 controverse
+      1 contributions
      24 contrôle
       2 contrôler
       2 contrôles
       4 contrôleur
       1 contrôlé
+      8 controverse
       1 contumace
+      4 conçus
       4 convaincre
       2 convalescence
       2 convalescent
@@ -1863,29 +2099,31 @@
       3 conversation
       1 conversations
       6 conversion
-      4 converti
       2 convertie
+      4 converti
       1 conviés
       9 convoi
+      2 convoquée
       4 convoquer
       3 convoqué
-      2 convoquée
       3 convoyé
-      4 conçus
       2 cook
       5 coopérante
      15 coopération
       7 coopérer
-      1 coordonner
       3 coordonnée
+      1 coordonner
       2 cope
       2 copilote
+      1 écopé
       2 coppenbrügge
       1 copvilla
       9 coran
       3 corde
       3 cordiale
+      2 coréen
       1 corne
+      2 écornée
      49 corps
       3 corrects
       5 correspondante
@@ -1893,62 +2131,82 @@
      13 corruption
       3 corsair
       1 cortège
-      2 coréen
+      1 écossaise
+      1 coûta
+      3 coûte
       2 cote
+      2 coûte
+      3 coûter
+      5 coûté
       1 coté
+      7 coûté
       5 couac
       2 coulaient
+      2 écoulée
       2 coule
+      3 écoulées
       2 couleur
       3 coulisses
-     53 coup
      12 coupable
       2 coupables
       2 coupant
+      2 coupée
       1 coupe
       6 couper
+     12 coup
+      2 coup 
+     41 coup
      22 couple
      18 couples
       3 coups
+      4 coupés
       2 coupure
       3 coupures
-      2 coup 
-      2 coupée
-      4 coupés
-     41 cour
       2 courage
       7 courant
       1 courants
       2 coureur
+     41 cour
       4 couronne
       6 couronnées
       1 courrier
-     44 cours
       3 course
+     44 cours
+      1 écourte
       9 court
       6 cousin
       2 couteau
+      9 écoute
+      1 écouter
+      8 écoutes
       3 couvert
       3 couverts
       2 couverture
       1 couvrait
       4 couvre
      14 couvrir
-      2 coïncide
-      4 coïncider
-      1 coûta
-      5 coûte
-      3 coûter
-     12 coûté
       6 cracovie
       8 craignant
       6 craignent
      18 craindre
       4 craintes
+      2 écrans
       1 crapuleux
-     40 crash
+     12 écrase
+      2 écrasement
       5 crasher
+     40 crash
+     21 écrasé
+     16 création
+      3 créationnisme
       7 crawford
+      9 cérébrale
+      2 cérébral
+      1 crédité
+      3 crédulité
+      6 crée
+      4 créent
+      2 créer
       4 creux
       2 criaient
       2 criblés
@@ -1957,18 +2215,25 @@
      10 crimes
       1 criminalité
       1 criminelle
-      4 cris
      65 crise
       8 crises
+      4 cris
       1 cristal
-     15 critique
-      1 critiquer
-     11 critiques
-     10 critiqué
+      1 critique
       1 critiquée
+     14 critique
+      1 critiquer
+      4 critiques
       1 critiquées
+      7 critiques
+     10 critiqué
+      2 écrit
       7 critères
+      4 écrivain
+     13 créé
       3 crl
+     19 cérémonie
+      6 cérémonies
       9 croate
      11 croatie
       2 croient
@@ -1983,23 +2248,20 @@
       9 croyant
       4 croyants
       3 crs
-      6 crucial
       4 cruciale
+      6 crucial
       4 crue
       3 cruelle
       5 crues
       3 crypte
-     16 création
-      3 créationnisme
-      1 crédité
-      3 crédulité
-      6 crée
-      4 créent
-      2 créer
-     13 créé
       3 csu
-      9 cuba
+     16 côte
+     15 côtes
+      1 côtière
+     17 côté
+      5 côtés
       3 cubain
+      9 cuba
       1 cuisant
       1 cuisine
       6 culkin
@@ -2009,9 +2271,9 @@
       6 culture
       5 culturel
       5 culturelle
-     13 cur
       4 curie
       1 curieux
+     13 cur
       4 cuves
       4 cyberdissident
       2 cycliste
@@ -2021,49 +2283,22 @@
       4 cynique
       3 cyril
       2 czestochowa
-      2 câbles
-      4 cède
-      3 cèdre
-      1 cédant
-      7 céder
-      7 cédé
-      4 célibat
-     17 célèbre
-      3 célèbres
-      1 célébraient
-      5 célébration
-      1 célébrations
-      9 célébrer
-      1 célébrité
-      1 célébrités
-     10 célébré
-      5 célébrée
-      2 cérébral
-      9 cérébrale
-     19 cérémonie
-      6 cérémonies
-     16 côte
-     15 côtes
-      1 côtière
-     17 côté
-      5 côtés
-    325 d
-      4 da
       3 daily
       5 dakar
+      4 da
       1 dallas
      15 damas
       2 dame
       2 dames
-      3 dan
       7 danemark
-     12 danger
       1 dangereuse
       6 dangereux
+     12 danger
       7 dangers
       2 daniel
-     10 danois
+      3 dan
       2 danoise
+     10 danois
     319 dans
       3 dans l
       5 danube
@@ -2076,23 +2311,123 @@
       2 david
       2 day
       7 dayton
-    328 de
+      1 débarque
+      2 débarqués
+      3 débarrasser
+     25 débat
+      7 débats
+      3 débâcle
+      2 débit
+      1 déblaiement
+      3 déblayer
+      5 déblayeurs
+      1 déboires
+      1 débouché
+      2 déboutés
+      1 débranchement
+      4 débusquer
+     11 débute
+      9 débutera
+      3 débuter
+      1 débuteront
+      1 débuté
+      1 début
+      3 débuté
+     14 début
+      1 débuté
+      1 début
+      1 débuté
+      4 début
+      9 débuté
+      4 début
+      1 débuté
+      4 début
+      1 débuté
+     17 début
+      3 débuts
+      6 décédée
+     24 décédé
+     21 décembre
+      1 décennie
+      6 décennies
+      1 décentralisation
+      8 déception
+      5 déchaînent
+      6 décharge
+     13 déchu
+      2 décident
+      5 décider
+     42 décidé
+      5 décimée
+     57 décision
+      1 décisions
+      1 décisive
+      9 déclaration
+     10 déclarations
+      1 déclare
+     49 déclaré
+      1 déclarés
+      1 déclenchant
+      7 déclenche
+      1 déclenchement
+      7 déclenché
+      1 décliner
+      4 décollage
+      3 décollent
+      1 décoller
+     18 décombres
+      7 décompte
+      1 découlé
+      5 découverte
+      4 découvert
+      5 découverts
+      2 découvre
+      6 découvrez
+      3 découvrir
+      2 décret
+      1 décrisper
+      5 décrit
+      3 décrits
+      6 décrivent
+      2 décrocher
+     17 décrété
+      2 décrétés
+      8 décrue
+      1 décryptage
+      5 décrypte
+     28 décès
+      1 dédommagements
+      1 de belmarsh
       1 degré
       1 degrés
       4 deif
       3 dekalim
       1 dekelim
-      7 del
       1 delagrange
+      1 de la
       3 delay
+    130 de
+      1  de
+      1 de
+      1  de
+     23 de
+      1 deçà
+      1 de
+      1 deçà
+      1 de
+      1 deçà
+      1 de
+      1 deçà
+    171 de
       7 delhi
+      7 del
       3 demain
       1 demandaient
       8 demandant
      44 demande
       9 demandent
-     11 demander
       3 demanderait
+     11 demander
       1 demandes
      36 demandé
       1 demeure
@@ -2106,53 +2441,103 @@
       3 dernièrement
      28 dernières
      10 derrière
-    325 des
+      1 de sang
       3 descendance
       1 descendus
       4 descente
+      2 des etats
+    325 des
       2 desquels
       5 dessine
       7 dessins
-      7 destin
       6 destination
-      6 destiné
       4 destinée
       1 destinées
+      3 destin
+      1 destiné
+      2 destin
+      1 destiné
+      1 destin
+      1 destiné
+      1 destin
+      3 destiné
       4 destinés
-      4 destitution
       2 destitué
+      4 destitution
       3 destremau
      15 destruction
       4 destructions
       3 destructrice
-      2 des etats
       1 detlev
       6 dette
      29 deuil
-    201 deux
      48 deuxième
+    201 deux
      11 devaient
      25 devait
-      1 devancer
       2 devancerait
-     79 devant
+      1 devancer
+     61 devant
+      3  devant
+     18 devant
       1 devenant
      16 devenir
-     24 devenu
      16 devenue
+     24 devenu
       6 devenus
       7 devient
       4 devoir
-     15 devra
      12 devraient
      48 devrait
+     15 devra
       8 devront
-      1 de belmarsh
-      1 de la
-      1 de sang
-      4 deçà
+      7 défaillance
+      1 défaillances
+      2 défaillant
+      9 défaite
+      3 défaitisme
+      3 défavorables
+      3 défavorisée
+      4 défection
+      3 défendant
+     14 défend
+      2 défendra
+      8 défendre
+      1 défendue
+      3 défendu
+     43 défense
+      1 défenseur
+      1 défenseurs
+      1 déferlent
+     14 défie
+      6 défient
+      3 défier
+      1 défilaient
+     15 défi
+      1 défile
+      4 défilent
+      1 défileront
+      8 défilé
+      3 défilés
+      8 définitif
+      3 définitive
+      7 définitivement
+      4 définit
+      6 défis
+      1 déflagration
+      3 déformé
+      3 déféré
+      4 défunt
+      2 dégageant
+      6 dégagés
+      1 dégel
+      3 dégénère
+      7 dégénéré
+      3 dégradation
+      3 dégradé
       5 dgse
-      3 di
+      3 dégât
+     29 dégâts
       1 diabolique
       2 diagnostic
      23 dialogue
@@ -2166,81 +2551,86 @@
       2 dictature
       2 dictatures
       3 didier
-      2 die
       2 diego
+      2 die
      22 dieu
       2 diffamation
       9 difficile
       1 difficilement
      11 difficiles
      13 difficultés
-      1 diffuse
-      5 diffuser
-      6 diffusion
-     35 diffusé
-     22 diffusée
-      4 diffusées
-      4 diffusés
       1 différend
       4 différente
       4 différentes
       7 différents
+      1 diffuse
+     22 diffusée
+      5 diffuser
+      4 diffusées
+      6 diffusion
+     35 diffusé
+      4 diffusés
+      4 édifices
       2 digestif
       2 digestifs
       1 dignitaire
       5 dignitaires
+      3 di
       4 diluviennes
     151 dimanche
       1 dimanche un
       2 dimension
       1 diminuer
       1 diocèse
+      5 diplômés
       5 diplomate
       6 diplomates
      13 diplomatie
       4 diplomatique
       1 diplomatiques
-      5 diplômés
-     12 dire
-     10 direct
       1 directe
       3 directement
       4 directes
      20 directeur
       9 direction
       6 directive
-      7 dirige
+     10 direct
+     12 dire
       3 dirigeait
      20 dirigeant
      30 dirigeants
-     13 diriger
+      2 dirigée
+      3 dirige
+      3 dirigée
+      4 dirige
+      9 dirigée
       1 dirigera
+     13 diriger
       9 dirigé
-     14 dirigée
       7 discorde
      17 discours
+      2 discréditer
+      5 discrédit
       1 discret
       3 discrimination
       2 discrètes
-      5 discrédit
-      2 discréditer
       3 discrétion
       5 disculpe
      16 discussions
      13 discuter
       9 disent
       7 disparition
-     17 disparu
       1 disparue
       4 disparues
+     17 disparu
      25 disparus
       2 dispensant
       3 dispense
       3 disposant
       6 dispose
      12 disposent
-      2 disposer
       2 disposera
+      2 disposer
       5 dispositif
       3 dispute
       1 disputé
@@ -2251,15 +2641,17 @@
       4 dissous
       3 dissout
       1 distance
-      6 distribution
       2 distribuée
-     54 dit
+      6 distribution
       2 dite
+     16 édition
+     54 dit
+      3 éditorialistes
       4 dits
       1 divergeaient
       3 divergences
-      1 divergent
       1 divergentes
+      1 divergent
       4 diversité
       4 divin
       1 divisant
@@ -2272,11 +2664,141 @@
      10 dizaine
      40 dizaines
       3 djerba
-      9 djihad
+      1 déjeuner
       3 djihadistes
+      9 djihad
+     58 déjà
+      3 déjouée
+     15 déjoué
+      5 déjoués
+     18 délai
+      1 délais
+     10 d
+      1 dû
+     11 d
+      1 dû
+     21 d
+      1 dû
+      1 d
+      1 dû
+      1 d
+      1 dû
+      1 d
+      1 dû
+      3 d
+      1 dû
+      1 d
+      1 dû
+      9 d
+      1 dû
+      1 d
+      1 dû
+     23 d
+      1 dû
+      1 d
+      1 dû
+      1 d
+      1 dû
+     36 d
+      1 dû
+     31 d
+      1 dû
+     31 d
+      1 dû
+     14 d
+      1 dû
+      1 d
+      1 dû
+     54 d
+      1 dû
+      1 d
+      1 dû
+      1 d
+      1 dû
+     14 d
+      1 dû
+      1 d
+      1 dû
+      1 d
+      1 dû
+      5 d
+      1 dû
+      1 d
+      1 dû
+      3 d
+      1 dû
+      1 d
+      1 dû
+     28 d
+      1 dû
+      1 d
+      1 dû
+      1 d
+      1 dû
+      1 d
+      1 dû
+      1 d
+      1 dû
+      1 d
+      1 dû
+     13 d
+      3 délégation
+      2 délégué
+      9 délibérations
+      3 délibérément
+      1 délicate
+      2 délicat
+      5 délinquants
+      2 délivre
+      6 délivré
+      1 déloge
+      1 délogé
+      2 déluge
+      1 démanteler
+      3 démantelé
+      4 démantèlement
+      1 démarré
+      2 démasqué
+      8 démentent
+      6 démenti
+      2 démentir
+      5 démentis
+     15 dément
+      2 démilitarisée
+      1 démineurs
+     21 démission
+      2 démissionnaire
+     14 démissionne
+      1 démissionnera
+      4 démissionner
+     12 démissionné
+      1 démêle
+     12 démocrate
+     24 démocrates
+     14 démocratie
+      5 démocraties
+      3 démocratique
+      4 démocratiquement
+      3 démocratisation
+      3 démocratiser
+      1 démolitions
+      7 démonstration
+      2 démonstrative
+      4 démontrer
+      1 démunis
+      1 déneigée
+      3 dîner
+      1 dénombre
+     23 dénonce
+      2 dénoncent
+      6 dénoncer
+      3 dénoncé
+      3 dénouement
+      6 dénuement
+      1 dénué
       6 doctrine
-      3 document
       5 documentaire
+      3 document
      15 documents
       4 documentvidéo
       2 dogmes
@@ -2298,12 +2820,15 @@
      11 donc
       1 donnaient
       2 donnant
-     14 donne
+      1 donne
+      2 donnée
+      5 donne
+      1 donnée
+      8 donne
       6 donnent
      29 donner
-     33 donné
-      3 donnée
       1 données
+     33 donné
       3 donnés
      16 dons
      77 dont
@@ -2334,251 +2859,28 @@
       9 downing
       2 doyen
       4 doyenne
-      5 dramatique
-     19 drame
-      1 drames
-      4 drapeaux
-      3 drastique
-      1 drastiques
-      4 dresde
-      4 dressent
-      1 dresser
-      5 dresseraient
-      3 drinking
-      6 drogues
-     38 droit
-     25 droite
-     33 droits
-      1 druze
-      8 drôle
-    323 du
-      1 dublin
-      2 duché
-      1 duck
-      4 due
-      2 duekoué
-      2 duel
-      2 dues
-      2 dumas
-      2 duplicité
-      3 duquel
-      4 durand
-      6 durant
-      9 durcit
-      7 dure
-      2 durement
-      3 durent
-      1 durer
-      3 dures
-      4 duré
-      3 durée
-      5 dus
-      1 du 8
-      1 du gouvernement
-      1 dynamité
-      2 dysfonctionnements
-     21 dès
-      1 débarque
-      2 débarqués
-      3 débarrasser
-     25 débat
-      7 débats
-      2 débit
-      1 déblaiement
-      3 déblayer
-      5 déblayeurs
-      1 déboires
-      1 débouché
-      2 déboutés
-      1 débranchement
-      4 débusquer
-     45 début
-     11 débute
-      3 débuter
-      9 débutera
-      1 débuteront
-      3 débuts
-     17 débuté
-      3 débâcle
-     21 décembre
-      1 décennie
-      6 décennies
-      1 décentralisation
-      8 déception
-      6 décharge
-      5 déchaînent
-     13 déchu
-      2 décident
-      5 décider
-     42 décidé
-      5 décimée
-     57 décision
-      1 décisions
-      1 décisive
-      9 déclaration
-     10 déclarations
-      1 déclare
-     49 déclaré
-      1 déclarés
-      1 déclenchant
-      7 déclenche
-      1 déclenchement
-      7 déclenché
-      1 décliner
-      4 décollage
-      3 décollent
-      1 décoller
-     18 décombres
-      7 décompte
-      1 découlé
-      4 découvert
-      5 découverte
-      5 découverts
-      2 découvre
-      6 découvrez
-      3 découvrir
-      2 décret
-      1 décrisper
-      5 décrit
-      3 décrits
-      6 décrivent
-      2 décrocher
-      8 décrue
-      1 décryptage
-      5 décrypte
-     17 décrété
-      2 décrétés
-     28 décès
-     24 décédé
-      6 décédée
-      1 dédommagements
-      7 défaillance
-      1 défaillances
-      2 défaillant
-      9 défaite
-      3 défaitisme
-      3 défavorables
-      3 défavorisée
-      4 défection
-     14 défend
-      3 défendant
-      2 défendra
-      8 défendre
-      3 défendu
-      1 défendue
-     43 défense
-      1 défenseur
-      1 défenseurs
-      1 déferlent
-     15 défi
-     14 défie
-      6 défient
-      3 défier
-      1 défilaient
-      1 défile
-      4 défilent
-      1 défileront
-      8 défilé
-      3 défilés
-      4 définit
-      8 définitif
-      3 définitive
-      7 définitivement
-      6 défis
-      1 déflagration
-      3 déformé
-      4 défunt
-      3 déféré
-      2 dégageant
-      6 dégagés
-      1 dégel
-      3 dégradation
-      3 dégradé
-      3 dégât
-     29 dégâts
-      3 dégénère
-      7 dégénéré
-      1 déjeuner
-     15 déjoué
-      3 déjouée
-      5 déjoués
-     58 déjà
-     18 délai
-      1 délais
-      9 délibérations
-      3 délibérément
-      2 délicat
-      1 délicate
-      5 délinquants
-      2 délivre
-      6 délivré
-      1 déloge
-      1 délogé
-      2 déluge
-      3 délégation
-      2 délégué
-      1 démanteler
-      3 démantelé
-      4 démantèlement
-      1 démarré
-      2 démasqué
-     15 dément
-      8 démentent
-      6 démenti
-      2 démentir
-      5 démentis
-      2 démilitarisée
-      1 démineurs
-     21 démission
-      2 démissionnaire
-     14 démissionne
-      4 démissionner
-      1 démissionnera
-     12 démissionné
-     12 démocrate
-     24 démocrates
-     14 démocratie
-      5 démocraties
-      3 démocratique
-      4 démocratiquement
-      3 démocratisation
-      3 démocratiser
-      1 démolitions
-      7 démonstration
-      2 démonstrative
-      4 démontrer
-      1 démunis
-      1 démêle
-      1 déneigée
-      1 dénombre
-     23 dénonce
-      2 dénoncent
-      6 dénoncer
-      3 dénoncé
-      3 dénouement
-      6 dénuement
-      1 dénué
-     31 départ
       1 départageant
       5 départager
       4 département
+     31 départ
       5 départs
+      6 dépassée
      11 dépasse
       3 dépasser
       2 dépassé
-      6 dépassée
+      6 dépêché
       3 dépendance
       2 dépendante
       2 dépendrait
       1 dépenses
       2 déphasée
-      2 dépit
       6 dépitée
+      2 dépit
+      2 déplaçant
       1 déplace
      13 déplacement
       5 déplacer
       3 déplacés
-      2 déplaçant
       1 déploiement
       4 déplorant
       3 déplore
@@ -2587,38 +2889,58 @@
       2 déploré
      13 déployé
       1 déployés
+      1 déposée
       6 dépose
+      6 déposée
       2 déposer
       3 déposition
      10 déposé
-      7 déposée
       1 dépotoir
       4 dépouille
       6 dépouillement
-      2 dépression
       2 déprédations
+      2 dépression
+     10 dépôt
      18 député
      21 députés
-      6 dépêché
-     10 dépôt
       1 déraciné
       5 déraille
       1 déraillement
       6 déraillé
+      5 dramatique
+     19 drame
+      1 drames
+      4 drapeaux
+      3 drastique
+      1 drastiques
+      4 dresde
+      4 dressent
+      5 dresseraient
+      1 dresser
+      3 drinking
       1 dérives
+      8 drôle
       1 dérobé
       7 dérobés
+      6 drogues
+     25 droite
+     38 droit
+     33 droits
       5 déroulaient
-     10 déroule
+      3 déroule
+      2 déroulée
+      3 déroule
+      2 déroulée
+      4 déroule
       3 déroulement
       1 déroulent
       5 dérouler
-      3 déroulé
-      4 déroulée
       3 déroulées
+      3 déroulé
       2 déroute
       2 dérouter
      10 dérouté
+      1 druze
      14 désaccord
       1 désaccords
       2 désaffection
@@ -2629,19 +2951,20 @@
       6 désastre
       1 désastreuses
      12 désengagement
-      4 désert
+      1 désertée
       3 déserteur
       2 désertique
       1 déserté
-      1 désertée
+      4 désert
       7 désespérés
       4 désignation
+      3 désignée
       6 désignent
      10 désigner
       4 désigneront
      26 désigné
-      3 désignée
       1 désignés
+     21 dès
       3 désorganisation
      48 désormais
       2 déstabilisation
@@ -2652,45 +2975,79 @@
       5 détenir
       2 détenteurs
      28 détention
-      8 détenu
       1 détenues
+      8 détenu
      40 détenus
       4 détermination
+      2 déterminée
       3 déterminer
       1 déterminé
-      2 déterminée
       3 détiendrait
       1 détonateur
       1 détonateurs
       1 détournant
+      3 détournée
       2 détournement
       5 détourner
       4 détourné
-      3 détournée
       3 détresse
+      2 détérioration
       5 détroit
       1 détruire
-      4 détruit
       1 détruite
+      4 détruit
       4 détruits
-      2 détérioration
+      1 du 8
+      1 dublin
+      4 éducation
+      2 duché
+      1 duck
+      2 duekoué
+      2 due
+      1 déçue
+      2 due
+      2 duel
+      2 dues
+      1 du gouvernement
+    173 du
+      1 déçu
+    108 du
+      1 déçu
+      1 du
+      1 déçu
+      1 du
+      1 déçu
+      1 du
+      1 déçu
+     39 du
+      2 dumas
+      2 duplicité
+      3 duquel
+      4 durand
+      6 durant
+      9 durcit
+      7 dure
+      3 durée
+      2 durement
+      3 durent
+      1 durer
+      3 dures
+      4 duré
+      4 déçus
+      5 dus
       6 dévastateur
+      3 dévastée
       1 dévaste
      10 dévasté
-      3 dévastée
       1 dévastés
       6 développe
+      3 développée
       7 développement
       3 développer
       3 développé
-      3 développée
       1 déviance
-      5 déçu
-      1 déçue
-      4 déçus
-      3 dîner
-     34 dû
-      4 e
+      1 dynamité
+      2 dysfonctionnements
      24 eau
      22 eaux
       6 echange
@@ -2698,8 +3055,8 @@
       2 echec
       1 economie
       5 ecosse
-      3 edgar
       5 edgard
+      3 edgar
       3 edimbourg
       2 edmund
       2 eduardo
@@ -2710,41 +3067,42 @@
       4 effectuait
       5 effectue
       7 effectuer
-      3 effectué
       3 effectuées
+      3 effectué
       2 effectués
      11 effet
       6 effets
       2 efficacement
+      1 effondrée
       2 effondre
      15 effondrement
       3 effondré
-      1 effondrée
+      2 efforçant
       3 efforcé
       1 efforcés
       7 effort
      12 efforts
-      2 efforçant
+      3 egée
      28 eglise
      31 egypte
       5 egyptiens
-      3 egée
      11 ehud
       3 eilat
-     31 el
       7 elbaradei
+      4 e
       3 election
       2 elections
       1 electorale
       2 elias
       1 elisabeth
       9 elizabeth
+     31 el
     109 elle
       9 ellen
      27 elles
+      2 eléments
       2 elu
      15 elysée
-      2 eléments
       2 embargo
       6 embarrassent
       1 embarrassé
@@ -2766,27 +3124,26 @@
       2 emotion
       1 empare
       3 emparé
+      1 empêchent
+     10 empêchera
+     12 empêcher
+      3 empêcherons
+      1 empêché
       2 empereur
       1 empiré
      16 emploi
       3 emplois
-      8 employé
       3 employée
+      8 employé
       8 employés
       1 empocher
       7 emporte
       2 emporterait
       5 emporté
+      3 emprisonnée
       4 emprisonnement
       4 emprisonné
-      3 emprisonnée
       3 emprisonnés
-      1 empêchent
-     12 empêcher
-     10 empêchera
-      3 empêcherons
-      1 empêché
-    327 en
       1 enceinte
       2 encerclent
       1 encerclé
@@ -2797,8 +3154,8 @@
      76 encore
       2 encourus
       2 encyclique
-     20 end
       1 endeuillée
+     20 end
       3 endoctrinement
       3 energie
      21 enfant
@@ -2809,13 +3166,13 @@
       2 enfonce
       1 enfoncée
      14 engage
+      2 engagée
       3 engagement
       6 engagements
       2 engagent
       4 engager
-     15 engagé
-      2 engagée
       1 engagées
+     15 engagé
       4 engendrée
       6 engin
       1 engins
@@ -2823,10 +3180,11 @@
       1 englouti
       1 enjeu
       3 enjeux
-      1 enlever
-     31 enlevé
+    327 en
      18 enlevée
+      1 enlever
       6 enlevées
+     31 enlevé
      18 enlevés
       9 enlise
      27 enlèvement
@@ -2840,11 +3198,11 @@
      22 enquêteurs
       5 enrayer
       1 enregistre
+      1 enregistrée
      11 enregistrement
       2 enregistrements
-      3 enregistré
-      1 enregistrée
       2 enregistrées
+      3 enregistré
       8 enrichissement
       2 enrichissemnt
       1 enrôlement
@@ -2853,17 +3211,18 @@
       3 enseignement
       5 ensemble
      26 ensuite
-      8 entame
+      4 entame
+      1 entamée
+      4 entame
       1 entament
       2 entamer
-     11 entamé
-      1 entamée
       6 entamées
+     11 entamé
       2 entamés
-     17 entend
       2 entendaient
       2 entendait
       1 entendent
+     17 entend
       7 entendre
       5 entendu
       4 entendus
@@ -2878,23 +3237,50 @@
       5 entraînant
       4 entraînement
       5 entraîné
-    126 entre
+      9 entre
+      1 entrée
+     46 entre
+      5 entrée
+     18 entre
+      1 entrée
+      1 entre
+      2 entrée
+     21 entre
+      1 entrée
+      1 entre
+      1 entrée
+      1 entre
+      1 entrée
+      1 entre
+      1 entrée
+      4 entre
+      2 entrée
+      9 entre
+      2 entrée
+      1 entre
+      1 entrée
+      1 entre
+      1 entrée
+      1 entre
+      1 entrée
+      4 entre
+      2 entrée
+      8 entre
       1 entrent
       1 entrepreneur
       7 entreprise
       2 entreprises
-     11 entrer
       2 entrera
+     11 entrer
+      2 entrées
       2 entretenant
       5 entretenir
      12 entretien
       2 entretiens
-      7 entré
-     22 entrée
-      2 entrées
-      6 entrés
       2 entériner
       5 entériné
+      7 entré
+      6 entrés
       3 envahi
       1 envahisseur
       2 enveloppe
@@ -2904,13 +3290,16 @@
       2 envi
      14 environ
       2 environs
-     18 envisage
+     10 envisage
+      1 envisagée
+      7 envisage
+      2 envisagée
+      1 envisage
       1 envisagent
       3 envisager
       5 envisagé
-      3 envisagée
-     11 envoi
       7 envoie
+     11 envoi
       5 envoyer
       4 envoyez
       5 envoyé
@@ -2929,8 +3318,8 @@
       7 escroquerie
       3 espace
      28 espagne
-     12 espagnol
      20 espagnole
+     12 espagnol
      13 espagnols
       4 espionnage
       6 espionnait
@@ -2939,43 +3328,44 @@
       5 esplanade
      34 espoir
       2 espoirs
-      6 esprit
-      4 espère
-      1 espèrent
       1 espérances
-      1 espérent
-      3 essai
+      4 espère
+      2 espérent
+      6 esprit
       2 essaiera
+      3 essai
       3 essayant
       5 essayer
       3 essayé
       6 essentiellement
-    292 est
       3 estaing
       1 estimait
       5 estimant
       6 estimation
       5 estimations
-     47 estime
+     22 estime
+      3  estime
+     25 estime
      23 estiment
      11 estimé
-    326 et
-     18 eta
+    292 est
       1 etait
+     18 eta
     111 etat
     113 etats
       4 etchanchu
       3 ethiopiens
       5 ethniquement
       3 ethniques
+    326 et
       1 etzion
-     54 eu
       1 eucharistique
-     14 euro
+     54 eu
       5 eurodéputés
-      1 euromed
+     14 euro
       4 euroméditerranée
       1 euroméditerranéen
+      1 euromed
     100 europe
      37 européen
      75 européenne
@@ -2986,11 +3376,10 @@
      31 eux
       5 evacuation
       3 evacuations
-      6 eve
       4 eveille
+      6 eve
       2 evian
       5 evo
-     76 ex
       4 exacerbe
       2 exacerbées
       1 exacte
@@ -2998,8 +3387,8 @@
       7 examen
       2 examens
       1 examinent
-      5 examiner
       3 examinera
+      5 examiner
       1 examiné
       4 exception
       8 exceptionnelle
@@ -3007,17 +3396,22 @@
       3 excessif
       2 excessive
       2 exclamé
-      3 exclu
       1 excluent
+      3 exclu
       5 exclusion
       1 exclusivement
       5 exclut
       1 excommunié
+      5 excès
       2 excuse
       8 excuser
       5 excuses
       4 excusé
-      5 excès
+      2 exécutent
+      1 exécutif
+     17 exécution
+     17 exécuté
+      7 exécutés
       4 exemplaire
       2 exemple
       1 exemples
@@ -3033,6 +3427,7 @@
       7 existence
       8 existent
       9 existé
+     76 ex
       5 exode
       8 expatriés
       3 expertise
@@ -3044,8 +3439,8 @@
       1 expliquant
      41 explique
       6 expliquent
-      6 expliquer
       3 expliquerait
+      6 expliquer
       7 expliqué
       2 exploitant
       2 exploitations
@@ -3060,23 +3455,23 @@
       9 explosé
       2 expo
       1 exportations
+      2 exposée
      10 expose
       9 exposition
       4 expositions
       7 exposé
-      2 exposée
-      2 express
       6 expression
+      2 express
+      4 expérience
+      6 expériences
       1 exprimait
       8 exprime
      11 exprimé
-     12 expulser
       3 expulsera
+     12 expulser
      15 expulsion
       1 expulsions
       7 expulsé
-      4 expérience
-      6 expériences
       2 exterminées
       3 extrade
       2 extrader
@@ -3086,18 +3481,14 @@
       2 extraits
       2 extraordinaire
       6 extremis
-      2 extrémisme
-     18 extrémistes
+      1 extérieur
       9 extrême
       6 extrêmement
-      1 extérieur
-      2 exécutent
-      1 exécutif
-     17 exécution
-     17 exécuté
-      7 exécutés
+      2 extrémisme
+     18 extrémistes
       4 ezzat
       2 f16
+      3 façade
       4 fabrication
       4 fabuleux
      78 face
@@ -3117,25 +3508,26 @@
       3 failles
       5 faillite
       9 faim
-      4 fair
      77 faire
+      4 fair
      16 faisait
      32 faisant
-    194 fait
       3 faite
+    194 fait
      11 faits
       1 falloujah
       1 fallu
       1 falsification
       1 fameuse
-      4 familial
       2 familiales
+      4 familial
      36 famille
      18 familles
      11 famine
       2 fan
       7 fans
       8 fantômes
+     10 façon
       1 faraj
       4 farc
       1 farouche
@@ -3143,20 +3535,20 @@
       4 fasciné
       2 fascisme
       2 fastidieux
-      1 fat
      13 fatah
       3 fatale
       3 fatalité
+      1 fat
       1 faucher
      11 faucon
-      6 faudra
       1 faudrait
+      6 faudra
       4 faure
      13 fausse
       5 fausses
-     39 faut
      10 faute
       2 fauteuil
+     39 faut
       2 faux
      15 faveur
       9 favorable
@@ -3166,26 +3558,33 @@
       1 favorisant
       1 favoriser
       2 favorite
-      3 façade
-     10 façon
       6 fbi
+      4 fâchent
+      3 fécondation
+      1 fécondité
+      7 fédérale
+      1 fédérales
+      3 fédéralisme
+      7 fédéral
+      3 fédéraux
       1 felt
      46 femme
      23 femmes
       2 fenêtre
       1 fenêtres
-     22 fer
-      2 fera
       5 ferait
-      7 ferme
+      2 fera
+     22 fer
+      1 ferme
+      2 fermée
+      6 ferme
       6 fermement
       2 ferment
       2 fermer
       4 fermes
+      2 fermées
       7 fermeture
      14 fermé
-      2 fermée
-      2 fermées
       1 fermés
       1 feront
       1 ferroviaire
@@ -3193,8 +3592,8 @@
       2 ferveur
       2 festive
       7 festivités
-     46 feu
       1 feuille
+     46 feu
       6 feux
       2 fiancée
       3 fichiers
@@ -3211,23 +3610,23 @@
       9 figure
       1 figurent
       2 figurerait
-     18 fil
       2 file
      21 filet
       1 filiale
       1 filière
       4 filières
+     18 fil
      12 fille
       5 filles
       1 fillette
-     16 film
       3 filmaient
-      5 filmer
-      5 films
-      1 filmé
       2 filmée
+      5 filmer
+     10 film
+      1 filmé
+      6 film
+      5 films
      32 fils
-    120 fin
       4 finale
      25 finalement
       4 finales
@@ -3241,23 +3640,29 @@
       9 financière
       3 financières
       2 fini
-      4 finir
       2 finira
+      4 finir
       4 finit
       2 finlande
+    120 fin
       1 fins
-      4 fisc
       8 fiscale
       1 fiscalité
+      4 fisc
+      2 fièvre
+      3 fixée
       3 fixer
       1 fixeur
       6 fixé
-      3 fixée
-      2 fièvre
       2 flambée
      14 flammes
       1 flatteur
+      4 fléau
+      1 fléaux
       3 fleuron
+      3 félicitant
+      2 félicite
+      4 féliciter
       2 fln
       1 flops
      26 florence
@@ -3267,8 +3672,8 @@
       4 flotte
       4 flottement
       1 flux
-      4 fléau
-      1 fléaux
+      2 féminin
+      4 féministes
       3 focalisée
       9 foi
     106 fois
@@ -3279,23 +3684,25 @@
       4 fonctionner
       7 fonctionné
       9 fonctions
-     13 fond
       2 fondamentaliste
       1 fondamentaux
       6 fondateur
-     18 fonds
       4 fondé
+     13 fond
+     18 fonds
      29 font
-      6 football
       4 footballeur
       4 footballeurs
+      6 football
+      1 forçant
       2 forbes
-     26 force
+      9 force
+      2 forcée
+     17 force
       6 forcené
       1 forcer
      32 forces
       5 forcé
-      2 forcée
       6 forcément
       1 forcés
       1 formait
@@ -3307,43 +3714,46 @@
       3 formelles
      31 former
       4 formidable
+      6 formé
       3 formule
       3 formulé
-      6 formé
-      5 fort
      13 forte
       4 fortement
       2 forteresse
       5 forteresses
       8 fortes
+      3 fort
+      3 forêt
+      2 fort
       1 forts
+      2 forêts
       2 forum
       2 forza
-      1 forçant
-      3 forêt
-      2 forêts
       3 fossé
-      7 fou
       5 foucauld
       3 foudre
       3 foulard
-     20 foule
+      7 fou
+     18 foule
       2 foulée
+      2 foule
       2 fourni
       8 fourniret
       1 fournitures
       3 foyer
       1 foyers
-    113 fr
       8 fragile
       2 fragilise
-      2 fragilisé
       1 fragilisée
+      2 fragilisé
+     60 française
+     11 françaises
+    167 français
     152 france
       1 francesco
       4 francfort
-      4 franchi
       2 franchie
+      4 franchi
       4 franchissent
       1 franchit
       3 franciliennes
@@ -3353,21 +3763,24 @@
       4 francophones
       4 francs
       4 frange
-      2 franz
-    167 français
-     60 française
-     11 françaises
       2 françois
+      2 franz
       4 frappait
       2 frappant
-     27 frappe
+      8 frappée
+      5 frappe
+      1 frappée
+     11 frappe
+      3 frappée
+     11 frappe
       1 frappent
-      6 frapper
       1 frappera
-      2 frappes
+      6 frapper
+      1 frappes
+      2 frappées
+      1 frappes
+      5 frappées
      33 frappé
-     12 frappée
-      7 frappées
       8 frappés
      14 fraude
       2 fraudes
@@ -3376,21 +3789,25 @@
       6 frayeur
       5 freiner
       2 frictions
+      1 férié
+      2 frôlant
+    113 fr
+      5 frôlent
      28 froid
-     18 front
       2 frontalière
       1 frontalières
      27 frontière
      14 frontières
-      8 fruit
+     18 front
+      2 fréquemment
+      1 fréquentées
+      4 fréquenté
      16 frère
      20 frères
-      2 fréquemment
-      4 fréquenté
-      1 fréquentées
-      2 frôlant
-      5 frôlent
+      8 fruit
       3 fsb
+     16 fête
+      5 fêtes
       2 fugitif
       2 fugueuse
       3 fuient
@@ -3398,10 +3815,10 @@
      25 fuite
       8 fuji
       3 fulgurante
-      7 fumer
-      3 fumeurs
       6 fumée
+      7 fumer
       1 fumées
+      3 fumeurs
       1 funèbre
       3 funèbres
      13 funérailles
@@ -3411,38 +3828,21 @@
       3 fusils
       2 fustigé
      12 fut
-     27 futur
       4 future
+     27 futur
       1 fuyaient
       1 fuyant
-      4 fâchent
-      3 fécondation
-      1 fécondité
-      7 fédéral
-      7 fédérale
-      1 fédérales
-      3 fédéralisme
-      3 fédéraux
-      3 félicitant
-      2 félicite
-      4 féliciter
-      2 féminin
-      4 féministes
-      1 férié
      22 février
-     16 fête
-      5 fêtes
-      1 g
       4 g5
      11 g8
-      1 gabon
       1 gabonais
+      1 gabon
       3 gadgets
       3 gadid
       5 gaghan
-     13 gagnant
       1 gagnante
       1 gagnantes
+     13 gagnant
       3 gagne
       7 gagnent
      11 gagner
@@ -3451,6 +3851,9 @@
       2 gains
       4 gala
       3 galatasaray
+     34 également
+      2 égalerait
+      6 égalité
       7 galles
       1 galloway
       4 galère
@@ -3458,44 +3861,53 @@
       5 gandhi
       6 gang
       2 gangster
+     11 géante
+      2 géantes
+      7 géant
       4 garang
       4 garantir
       4 gardait
       4 gardant
      44 garde
-      1 garder
       1 gardera
+      1 garder
       5 gardes
       5 gardien
       5 gardiens
+      2 égard
       2 gare
       1 gares
-      3 gary
       9 garçon
       5 garçonnet
+      7 égarés
+      3 gary
       1 gastronomie
       4 gates
      14 gauche
       3 gaulle
      33 gay
      33 gays
-     20 gaz
      90 gaza
       4 gaze
       1 gazier
       2 gazière
       2 gazières
+     20 gaz
       3 gazoduc
       1 gazoducs
       7 gazprom
       7 gbagbo
+      6 gâchis
       2 gcse
       3 gebran
       1 geert
       2 geisha
       2 geishas
-      3 gel
+     10 âge
+      1 âgée
       5 geler
+      8 geôliers
+      3 gel
       1 gelé
       4 gelés
       4 gemelli
@@ -3512,54 +3924,75 @@
       3 geste
      23 gestion
       4 gestionnaire
-      8 geôliers
       6 ghandour
       3 ghazi
      21 ghraib
-     14 gi
+      5 égide
       8 giflent
      15 gigantesque
       1 gign
-      2 gil
       2 gilchrist
+     14 gi
+      2 gil
       3 gilles
       1 girls
       3 giscard
       3 giuliana
       1 giulio
-      2 glacial
       1 glaciale
       1 glaciales
+      2 glacial
       1 glamour
+      4 âgé
+      1 g
+      6 âgé
+      5 gèle
       5 gleneagles
+      4 église
+      6 églises
       9 glissement
       3 glissements
       3 glitter
-      2 global
       4 globale
      10 globalement
       1 globalisation
+      2 global
       1 globe
       3 gloire
       3 gloria
       6 gnassingbé
+      4 gênée
+      1 génocidaire
+      7 génocide
+      7 générale
+      1 générales
+      5 généralisée
+     29 général
+      1 génération
+      1 généraux
+      3 généré
+      3 générosité
+      3 génétiques
       6 godes
       1 goethe
      13 gogh
+      3 géographie
       2 goldsmith
      15 golfe
       1 golias
       2 gongadzé
       3 gonnet
       3 gorge
+      8 géorgie
+      5 égoïsmes
       6 gotovina
       4 goulag
       1 goush
       1 gouvernator
-    136 gouvernement
       4 gouvernementale
       5 gouvernementales
       1 gouvernementaux
+    136 gouvernement
       3 gouvernements
       4 gouverner
      15 gouverneur
@@ -3571,11 +4004,11 @@
       4 gracié
       3 gradé
       7 gradés
-     14 grand
      69 grande
      14 grandes
       1 grandi
       4 grandit
+     14 grand
      15 grands
       2 graner
       3 gras
@@ -3585,13 +4018,17 @@
      25 grave
       7 graves
       1 gravissime
+     34 grâce
       5 grec
       1 grecque
       2 grecques
       1 grecs
       2 greenpeace
+      4 gère
       2 grenade
       4 grenades
+      1 grégoire
+      3 égérie
       1 grilles
       6 grimper
       6 grise
@@ -3604,10 +4041,7 @@
      49 groupe
      21 groupes
       3 groupuscules
-     28 grâce
-      6 grèce
       7 grève
-      1 grégoire
       4 guadalajara
      21 guantanamo
       3 guardian
@@ -3618,33 +4052,16 @@
      11 guerres
      14 guide
       5 guideront
-      1 guiness
       7 guinée
-      3 gutierrez
+      1 guiness
       4 guère
      18 guérilla
       5 guérilleros
-      6 gâchis
-      5 gèle
-      4 gère
-      7 géant
-     11 géante
-      2 géantes
-      1 génocidaire
-      7 génocide
-     29 général
-      7 générale
-      1 générales
-      5 généralisée
-      1 génération
-      1 généraux
-      3 générosité
-      3 généré
-      3 génétiques
-      3 géographie
-      8 géorgie
-      4 gênée
-      6 h
+      3 gutierrez
+     10 égyptien
+     10 égyptienne
+      4 égyptiennes
+      2 égyptiens
       4 habemus
       2 habilité
       1 habiller
@@ -3653,17 +4070,17 @@
       1 habitation
       2 habitations
       1 habite
+      2 habités
       3 habitude
       1 habitués
-      2 habités
       5 habré
       3 hachémi
       4 hadera
       5 haine
       2 haitang
       3 halberstadt
-      2 halim
       4 halimi
+      2 halim
       6 hall
       6 hallucinogène
      58 hamas
@@ -3685,19 +4102,23 @@
       2 harriet
       1 hasard
       4 hassan
+      5 haïtienne
+      2 haïtiens
+      3 haïti
       8 hausse
-     23 haut
      11 haute
       5 hautement
       1 hauteur
+     23 haut
      12 hauts
       3 hawi
       1 hayam
       3 hayari
       7 haye
-      3 haïti
-      5 haïtienne
-      2 haïtiens
+      1 hébergement
+      2 hébergements
+     29 hébreu
+      5 hébron
       2 heathrow
      14 hebdomadaire
       3 hectares
@@ -3710,14 +4131,14 @@
      74 heures
       4 heureux
       6 heurte
-      8 heurts
       3 heurté
+      8 heurts
       7 hexagone
       7 hezbollah
      11 hier
-      1 hill
       1 hilla
       7 hillary
+      1 hill
       3 hindoue
       6 hindous
       3 hiroshima
@@ -3730,13 +4151,18 @@
       5 hitler
       4 hitlériennes
      11 hiver
+      6 h
+      8 hélicoptère
+      4 hélicoptères
+      1 hémorragie
       2 holding
       1 hollande
       1 hollywood
       6 holocauste
-      1 homes
       3 homesh
+      1 homes
       1 homicide
+      5 homélie
      42 hommage
       5 hommages
      83 homme
@@ -3749,7 +4175,6 @@
       2 homosexuelle
       4 homosexuelles
      23 homosexuels
-      5 homélie
       2 hongroisont
       5 honneur
       2 honorable
@@ -3762,9 +4187,9 @@
      13 hosni
       1 hospitalier
       4 hospitalisation
-     24 hospitalisé
       1 hospitalisée
       4 hospitalisées
+     24 hospitalisé
       1 hospitalisés
       2 hostile
       3 hostilité
@@ -3772,79 +4197,72 @@
       1 houleux
       3 houston
       1 howard
+     29 hôpital
+      2 hôpitaux
+      7 héraut
+     11 héros
+      2 hésite
+      3 hésité
+      2 hôte
+      1 hôtelière
+     11 hôtel
+      6 hôtels
+      1 hétérosexuels
+      4 hétéros
       6 huang
+      1 huées
       7 hugo
      21 hui
       2 huilées
       8 huis
-     21 huit
       7 huitième
-      5 huma
-      2 humain
+     21 huit
       7 humaine
       4 humaines
-      3 human
+      2 humain
+      5 huma
      19 humanitaire
       1 humanitaires
       8 humanité
+      3 human
       3 humiliant
       3 humilier
       4 humilié
      51 hussein
       1 hutus
-      1 huées
       1 hygiène
       8 hypothèse
       3 hypothèses
-      1 hébergement
-      2 hébergements
-     29 hébreu
-      5 hébron
-      8 hélicoptère
-      4 hélicoptères
-      1 hémorragie
-      7 héraut
-     11 héros
-      2 hésite
-      3 hésité
-      4 hétéros
-      1 hétérosexuels
-     29 hôpital
-      2 hôpitaux
-      2 hôte
-     11 hôtel
-      1 hôtelière
-      6 hôtels
       2 ian
       8 ibrahim
      36 ici
       2 icône
+      1 idéaux
+      3 idée
       3 idem
       4 identification
-     14 identifié
       1 identifiée
       2 identifiées
+     14 identifié
      10 identifiés
       1 identique
       9 identité
-      1 idole
-      1 idéaux
-      3 idée
       6 idées
+      1 idole
       3 iekhanourov
       3 ifri
       1 ignoraient
       1 ignore
       4 ignorés
-     75 ii
       9 iii
-    286 il
+     75 ii
       4 ilan
       5 ile
       2 ilham
-      6 illégal
+    286 il
       7 illégalement
       2 illégales
+      6 illégal
       4 illégitime
     146 ils
       1 iltaiens
@@ -3853,6 +4271,10 @@
       2 imam
      14 imbroglio
       2 imitateur
+      3 immédiate
+     11 immédiatement
+      1 immédiatemment
+      7 immédiat
       8 immense
       2 immenses
       7 immeuble
@@ -3860,16 +4282,12 @@
      10 immigrants
      16 immigration
      15 immigrés
-      3 imminent
      15 imminente
+      3 imminent
       3 immobilier
       4 immobilisé
       5 immobilisés
       2 immunité
-      7 immédiat
-      3 immédiate
-     11 immédiatement
-      1 immédiatemment
       1 impact
       5 impacts
       3 impardonnable
@@ -3885,33 +4303,34 @@
       2 imploré
       5 impopularité
       5 importance
-     13 important
      11 importantes
+     13 important
      15 importants
       5 importer
       1 imposant
-      7 impose
+      2 imposée
+      1 impose
+      1 imposée
+      6 impose
       2 imposent
       8 imposer
       7 imposé
-      3 imposée
       2 imposés
       4 impotent
       7 impression
-      1 impressionnant
       3 impressionnantes
+      1 impressionnant
       2 imprimé
       8 impulsion
       2 imputé
-      6 in
       7 inacceptable
       3 inacceptables
       1 inaccessibles
       2 inadmissibles
       2 inapte
       3 inaptes
-      1 inattendu
       2 inattendue
+      1 inattendu
       1 inaugurale
       2 inaugurant
       2 inauguration
@@ -3922,32 +4341,36 @@
       3 incarcéré
       6 incarnait
      26 incendie
-      9 incendies
+      6 incendies
+      3 incendiées
+      3 incendies
+      6 incendiées
       1 incendié
-      9 incendiées
       2 incertain
       3 inchangé
       6 incident
      19 incidents
       3 incitation
       3 inciter
-      3 incliner
       5 inclinée
+      3 incliner
       3 incohérences
       3 incompétence
-     15 inconnu
       7 inconnue
       1 inconnues
+     15 inconnu
       5 inconnus
       3 incontournable
       2 incontrôlable
      10 inculpation
       1 inculpations
+      2 inculpée
       2 inculper
      13 inculpé
-      2 inculpée
       1 inculpés
       3 incursions
+      1 indécision
+      1 indécis
      19 inde
       3 indemnes
       1 indemnités
@@ -3965,23 +4388,23 @@
       2 indiquer
      16 indiqué
       2 indirectes
+      2 inédite
+      4 inédites
       2 individu
+      2 indélicate
      19 indonésie
       3 indonésien
       5 indonésienne
+      5 indépendance
+      6 indépendante
+      2 indépendantiste
+      8 indépendant
+      4 indéterminée
       1 indulgent
       1 industrialisés
       5 industrie
       1 industriel
       2 industriels
-      1 indécis
-      1 indécision
-      2 indélicate
-      5 indépendance
-      8 indépendant
-      6 indépendante
-      2 indépendantiste
-      4 indéterminée
       1 inexactitudes
       2 inexplicables
       1 inexpérimentés
@@ -3991,15 +4414,15 @@
       5 infiltrer
      12 infirmières
       1 infligeant
-      3 infligé
       2 infligées
+      3 infligé
       4 infligés
       4 influence
-      6 influent
       5 influente
+      6 influent
       5 influer
-      5 info
      17 infographie
+      5 info
      24 information
      28 informations
       2 informel
@@ -4007,11 +4430,12 @@
       1 informées
       3 infortunés
       1 infrastuctures
-      2 infructueuse
       2 inférieur
-      6 ingrid
+      2 infructueuse
+      3 inégalités
       5 ingénieur
       3 ingérence
+      6 ingrid
       3 inhabituellement
       3 inhalé
       3 inhumaine
@@ -4027,6 +4451,7 @@
       5 injection
       2 injuste
       5 inlassable
+      6 in
       3 inn
       5 innocence
       2 innocent
@@ -4038,28 +4463,30 @@
       2 inondés
       5 inouï
      13 inquiet
-      7 inquiète
-      2 inquiètent
+      1 inéquitable
       1 inquiétait
       4 inquiétant
+      7 inquiète
+      2 inquiètent
+      1 inquiété
      18 inquiétude
       4 inquiétudes
-      1 inquiété
       3 insectes
       3 insecticides
       6 insel
       1 insinué
       1 insistance
       1 insisté
+      6 inès
       4 inspecteurs
       4 inspections
       5 inspire
       1 instabilité
       1 installation
       7 installations
+      1 installée
       4 installer
       5 installé
-      1 installée
      15 installés
       1 instamment
       9 instant
@@ -4068,18 +4495,18 @@
       3 instauration
       3 instauré
       2 instigateurs
-      2 institut
       4 institution
       3 institutionnelle
       9 institutions
+      2 institut
       2 instruction
       1 instrumentalisée
       2 instruments
-      3 insu
       5 insubmersible
       2 insuffisamment
       3 insuffisant
       1 insuffler
+      3 insu
       5 insultantes
       5 insurgés
       5 insurrection
@@ -4095,45 +4522,45 @@
       5 intensité
      17 intention
       3 intenté
-      3 inter
       4 interactif
       2 intercepté
       2 interconfessionnels
       6 interdiction
       1 interdire
       5 interdisant
-     11 interdit
       3 interdite
       1 interdites
+     11 interdit
       4 interdits
       5 interethnique
       4 interethniques
+      3 inter
       1 interminable
-     34 international
      63 internationale
      10 internationales
+     34 international
      14 internationaux
       4 internautes
       1 interne
      36 internet
       1 interpalestinien
       3 interpellent
-      9 interpellé
       2 interpellées
+      9 interpellé
       5 interpellés
       1 interposée
       4 interprète
       3 interrogatoire
       1 interrogatoires
+      4 interrogée
       1 interroge
       3 interrogent
       3 interroger
-      2 interrogé
-      4 interrogée
       5 interrogées
+      2 interrogé
       3 interrogés
-      4 interrompu
       2 interrompue
+      4 interrompu
       6 interruption
      14 intervention
       1 interventions
@@ -4142,6 +4569,10 @@
       5 intervient
       6 interview
       1 interviews
+      2 intégral
+      1 intégrante
+      7 intégration
+      1 intégrer
       4 intifada
       2 intime
       2 intimidations
@@ -4150,16 +4581,12 @@
       3 intoxication
       4 intransigeance
       1 intransigeant
+      8 intérieure
+     35 intérieur
+      7 intérimaire
+     15 intérim
       4 intronisation
      10 intronisé
-      2 intégral
-      1 intégrante
-      7 intégration
-      1 intégrer
-     35 intérieur
-      8 intérieure
-     15 intérim
-      7 intérimaire
       3 intérêt
       4 intérêts
       3 invalidité
@@ -4169,41 +4596,35 @@
      10 investissement
       1 investissent
       3 investiture
+      7 inévitable
       3 invitation
       5 invité
       1 invités
       3 invoquant
       2 invoquer
       2 invérifiable
-      6 inès
-      2 inédite
-      4 inédites
-      3 inégalités
-      1 inéquitable
-      7 inévitable
       3 iouchtchenko
       1 ioukos
       3 ioulia
       5 iouri
-     16 ira
-    133 irak
      55 irakien
      30 irakienne
      11 irakiennes
      38 irakiens
-     57 iran
+    133 irak
+     16 ira
      43 iranien
      13 iranienne
       6 iraniennes
       8 iraniens
+     57 iran
      13 iris
-      3 irlandais
       8 irlandaise
+      3 irlandais
       3 irlande
       2 irrespect
       6 irréversible
       7 isabelle
-     25 islam
       6 islamabad
      29 islamique
       9 islamiques
@@ -4211,22 +4632,22 @@
      53 islamiste
      41 islamistes
       2 islamiyah
+     25 islam
       2 islmabad
       7 ismaïl
       2 isolée
       4 isolées
       7 isolés
       6 ispahan
-     91 israélien
+     92 israélien
      45 israélienne
       4 israéliennes
      30 israéliens
-      7 israélo
     104 israël
-      1 israëlien
+      7 israélo
       2 isreaélienne
-     11 issu
      35 issue
+     11 issu
       6 istanbul
       1 istendael
       2 italia
@@ -4243,7 +4664,6 @@
       5 ivoirien
       5 ivoirienne
       1 ivoiriens
-     10 j
       2 jaafari
      17 jack
      38 jackson
@@ -4259,24 +4679,24 @@
       4 james
       3 janabi
      43 janvier
-     22 japon
-     10 japonais
      15 japonaise
       3 japonaises
+     10 japonais
+     22 japon
       3 jaune
      30 jazira
-     26 je
      81 jean
       3 jeb
       1 jeff
+     26 je
       1 jenifer
       3 jennifer
-      2 jet
-      9 jette
-      4 jeté
       1 jetée
-     22 jeu
+      2 jet
+      4 jeté
+      9 jette
     174 jeudi
+     22 jeu
      30 jeune
      39 jeunes
      15 jeunesse
@@ -4287,8 +4707,9 @@
       3 jilbab
       8 jill
       1 jimbaran
+     10 j
       5 jmj
-     16 jo
+      1 jénine
       1 joaquin
       2 johannesburg
       8 john
@@ -4296,6 +4717,7 @@
      12 joie
       2 joindre
       1 joint
+     16 jo
       3 jonction
       3 jordanie
       3 jordanien
@@ -4305,41 +4727,54 @@
       4 josh
       2 josé
       5 jouant
+      1 jouée
       3 joue
       7 jouent
       8 jouer
       2 joueur
       2 joueurs
+      8 joué
       1 joumblatt
       1 jounieh
      53 jour
-     13 journal
      47 journaliste
      30 journalistes
+     13 journal
      35 journaux
      39 journée
      12 journées
     111 jours
       7 joute
-      8 joué
-      1 jouée
       3 jovial
       4 joyeuses
       5 joyeux
+      3 jéricho
+     17 jérusalem
+     10 jésus
       1 jt
       3 juba
      13 judiciaire
       4 judiciaires
       5 judicieux
-     47 juge
       3 jugeant
+      1 jugée
+      6 juge
+      2 jugée
+     14 juge
+      1 jugée
+      1 juge
+      1 jugée
+      1 juge
+      1 jugée
+     23 juge
+      7 jugée
+      2 juge
       3 jugement
       3 jugent
      15 juger
       7 juges
       5 jugez
      12 jugé
-     13 jugée
       4 jugés
      10 juif
      15 juifs
@@ -4354,10 +4789,10 @@
       1 juridiction
       4 juridique
       2 juristes
-      8 jury
       9 jurés
-     67 jusqu
+      8 jury
       8 jusque
+     67 jusqu
       3 juste
       3 justes
       4 justesse
@@ -4366,10 +4801,6 @@
       4 justifier
       3 justifié
       2 jyllands
-      1 jénine
-      3 jéricho
-     17 jérusalem
-     10 jésus
       2 kabardino
       2 kabatiya
       9 kaboul
@@ -4405,21 +4836,21 @@
       1 kenya
       1 kerem
       3 keys
-      2 kfar
       2 kfarchouba
+      2 kfar
       4 khaddam
       1 khalili
       2 khan
       3 khartoum
       4 khodorkovski
       2 khoshaba
+      1 kidnappée
       1 kidnappeurs
       1 kidnapping
-      1 kidnappée
       7 kiev
-      7 kill
       8 killen
       1 killer
+      7 kill
       3 kilomètre
       4 kilomètres
       1 kilos
@@ -4434,30 +4865,31 @@
       6 klux
      10 km
       1 knesset
-      3 ko
+      1 kényane
       1 kofi
       5 koizumi
+      3 ko
      11 kosovo
       2 kouchner
       2 kourmanbek
       2 koursk
-      1 koweït
       1 koweïtienne
+      1 koweït
       2 kravtchenko
       2 kremlin
+      1 kérosène
       6 ku
      17 kurde
       3 kusadasi
       1 kuta
       2 kyoto
       2 kyushu
-      1 kényane
-      1 kérosène
-    327 l
-    328 la
-      4 laborieux
-      4 labour
       3 labé
+      1 élaborer
+      4 laborieux
+      3 élaboré
+      4 labour
+      2 laïcité
       1 lac
       2 lacunes
      27 laden
@@ -4468,34 +4900,47 @@
       3 laissaient
       1 laissant
       7 laisse
-      1 laisser
-      1 laissera
-      5 laisseront
-      1 laissons
-     13 laissé
       4 laissée
+      1 laissera
+      1 laisser
+      5 laisseront
       1 laissées
+     13 laissé
+      1 laissons
       2 lake
+    328 la
       1 lamentations
-     13 lance
+      2 lançait
+      1 lance
+      5 lancée
+      2 lance
+      4 lancée
+      5 lance
+      1 lancée
+      3 lance
+      6 lancée
+      2 lance
       7 lancement
       4 lancer
-     47 lancé
-     16 lancée
       4 lancées
+     47 lancé
       2 lancés
       6 lanka
-      2 lançait
+      4 élan
+      1 laïque
      19 laquelle
+      4 laïques
      16 large
      18 largement
+      2 élargie
+      2 élargissement
       3 largués
       5 larijani
       3 larmes
       3 larry
       1 las
-      1 latin
       2 latine
+      1 latin
       5 latino
       1 latitude
       7 laurence
@@ -4503,20 +4948,66 @@
       5 lausanne
       1 law
       4 laxiste
-      2 laïcité
-      1 laïque
-      4 laïques
+      3 lâcher
+      1 lâchez
       8 lci
-    328 le
+    328 à
      19 leader
       7 leaders
       4 leandro
+      2 le bouclage
       8 lech
       2 lecomte
       2 leconte
+     14 électeurs
       7 lecteurs
+      5 électeurs
+     41 élection
+     48 élections
+     13 électorale
+      2 électorales
+      4 électoral
+      5 électorat
+      4 électricien
+     15 électricité
+      3 électrique
       1 lecture
       2 leeds
+     24 le
+      1 île
+      1 le
+      1 île
+    104 le
+      1 île
+      1 le
+      1 île
+      1 le
+      1 île
+     14 le
+      1 île
+      1 le
+      1 île
+     19 le
+      1 île
+      1 le
+      1 île
+      1 le
+      1 île
+      1 le
+      1 île
+     16 le
+      1 île
+      6 le
+      1 île
+      1 le
+      1 île
+      1 le
+      1 île
+     94 le
+      1 île
+      1 le
+      1 île
+     41 le
      34 lendemain
       1 lennon
       1 lenrichissement
@@ -4526,167 +5017,36 @@
       1 lents
       3 leo
       1 leonardo
+      9 leçons
      14 lequel
-    325 les
       2 lesbien
       2 lesbienne
+    208 les
+      1 îles
+    117 les
       3 lesquelles
       6 lesquels
       8 lettre
     143 leur
      80 leurs
       1 levant
+      3 levée
+      2 élevée
+      1 levée
+      3 élevée
+      1 levée
+      1 élevée
       2 lever
+      2 éleveur
+      1 élevé
      11 levé
-      5 levée
       2 levés
+      1 élevés
       4 lewis
       3 leydier
-      2 le bouclage
-      9 leçons
-      7 liaison
-      5 liant
-     42 liban
-     32 libanais
-     14 libanaise
-      8 libanaises
-      1 libbi
-      4 libby
-      5 liberia
-     29 liberté
-      4 librairie
-     24 libre
-      1 librement
-      1 libres
-      5 libye
-      2 libyen
-      2 libyenne
-      1 libyennes
-      2 libyens
-     10 libéral
-      9 libérale
-      1 libérateur
-     53 libération
-      6 libéraux
-     16 libérer
-      6 libérez
-      1 libéria
-      7 libérienne
-     26 libéré
-      2 libérée
-     26 libérés
-      5 licencie
-      2 licenciement
-      3 licorne
-     17 lien
-      8 liens
-      2 lier
-     67 lieu
-      4 lieutenant
-      6 lieutenants
-     25 lieux
-     28 ligne
-      8 lignes
-     17 likoud
-      2 limbourg
-      2 limitant
-      4 limitation
-      2 limite
-      3 limiter
-      6 limites
-      5 limités
-      1 linguistique
-      1 linguistiques
-      4 lionceau
-      1 liquidations
-      1 liran
-      3 lire
-     21 liste
-      1 listes
-      2 lituanien
-      1 liturgie
-      5 live
-      3 livingstone
-      6 livraisons
-     23 livre
-      1 livrer
-      7 livres
-      4 livré
-      1 livrées
-      2 livrés
-     12 lié
-      5 liée
-     11 liées
-      6 liés
-      1 ll
-      8 lobbyiste
-      8 local
-     18 locale
-      1 locales
-      1 localisé
-      3 localité
-      3 localités
-     10 locaux
-     44 loi
-     16 loin
-      2 lois
-      4 lomé
-      2 londonien
-      3 londonienne
-      7 londoniens
-     12 londonistan
-     94 londres
-      8 long
-     14 longtemps
-     20 longue
-      7 longues
-      2 lord
-      1 lords
-    114 lors
-     11 lorsqu
-      9 lorsque
-     21 los
-      2 lot
-      4 loteries
-      3 loti
-     28 louisiane
-      3 lourd
-      5 lourde
-      2 lourdement
-      3 lousiane
-      2 louxor
-      2 lu
-      2 luc
-      1 lucide
-      2 lucio
-      3 lue
-     75 lui
-      3 lumières
-      3 lunatique
-    171 lundi
-      1 luranium
-      4 lusaka
-      4 luton
-      3 luttaient
-      2 luttant
-     35 lutte
-      2 luttent
-     11 lutter
-      7 luxembourg
-      5 luxembourgeois
-      3 luxembourgeoise
-      2 lycée
-      1 lycéenne
-      3 lyncher
-      6 lynndie
-      3 lyon
-     22 là
-      3 lâcher
-      1 lâchez
-      4 lève
-      9 légal
       5 légalisation
       5 légalité
+      9 légal
       4 légaux
       3 léger
      10 légers
@@ -4700,11 +5060,225 @@
       4 légitime
      10 légère
       6 légèrement
+      7 liaison
+      5 liant
+     14 libanaise
+      8 libanaises
+     32 libanais
+     42 liban
+      1 libbi
+      4 libby
+      5 liberia
+     29 liberté
+      4 librairie
+      9 libérale
+     10 libéral
+      1 libérateur
+     53 libération
+      6 libéraux
+      1 libérée
+     10 libre
+      1 libérée
+     14 libre
+      1 librement
+     16 libérer
+      1 libres
+      6 libérez
+      1 libéria
+      7 libérienne
+     26 libéré
+     26 libérés
+      5 libye
+      2 libyen
+      2 libyenne
+      1 libyennes
+      2 libyens
+      5 licencie
+      2 licenciement
+      3 licorne
+      5 liée
+     17 lien
+      8 liens
+      2 lier
+     11 liées
+     67 lieu
+      4 lieutenant
+      6 lieutenants
+     25 lieux
+     28 ligne
+      8 lignes
+     17 likoud
+     12 lié
+      2 limbourg
+      2 éliminations
+      2 éliminer
+      2 limitant
+      4 limitation
+      2 limite
+      3 limiter
+      6 limites
+      5 limités
+      1 linguistique
+      1 linguistiques
+      4 lionceau
+      1 liquidations
+      1 liran
+      2 lire
+     11 élire
+      1 lire
+      7 élire
+      2 élisaient
+      3 élisent
+      6 liés
+     21 liste
+      1 listes
+      3 élit
+      2 lituanien
+      1 liturgie
+      5 live
+      3 livingstone
+      6 livraisons
+     23 livre
+      1 livrer
+      1 livrées
+      7 livres
+      4 livré
+      2 livrés
+     15 l
+      1 là
+      7 l
+      1 là
+     27 l
+      1 là
+      1 l
+      1 là
+     91 l
+      1 là
+      1 l
+      1 là
+      1 l
+      1 là
+      1 l
+      1 là
+      1 l
+      1 là
+      1 l
+      1 là
+      1 l
+      1 là
+      1 l
+      1 là
+      1 l
+      1 là
+      1 l
+      1 là
+      1 l
+      1 là
+      8 l
+      1 là
+      1 l
+      1 là
+      1 l
+      1 là
+    128 l
+      1 là
+      1 l
+      1 là
+      1 l
+      1 là
+      1 l
+      1 là
+     35 l
+      1 ll
+      5 éléments
+      8 lobbyiste
+     18 locale
+      1 locales
+      1 localisé
+      3 localité
+      3 localités
+      8 local
+     10 locaux
+      8 éloigne
+      1 éloignée
+      2 éloigner
+      2 éloignés
+     44 loi
+     16 loin
+      2 lois
+      4 lomé
+      2 londonien
+      3 londonienne
+      7 londoniens
+     12 londonistan
+     54 londres
+      1 àlondres
+      1 londres
+      1 àlondres
+      1 londres
+      1 àlondres
+      1 londres
+      1 àlondres
+     37 londres
+      8 long
+     14 longtemps
+     20 longue
+      7 longues
+      2 lord
+      1 lords
+    114 lors
+      9 lorsque
+     11 lorsqu
+     21 los
+      4 loteries
+      3 loti
+      2 lot
+     28 louisiane
+      5 lourde
+      2 lourdement
+      3 lourd
+      3 lousiane
+      2 louxor
       2 lésion
       3 létale
       2 léthale
-      5 m
-      1 ma
+      1 lucide
+      2 lucio
+      2 luc
+      2 lue
+      2 élue
+      1 lue
+      4 élue
+     75 lui
+      1 lu
+      2 élu
+      1 lu
+     29 élu
+      3 lumières
+      3 lunatique
+    171 lundi
+      1 luranium
+      4 lusaka
+      9 élus
+      4 luton
+      3 luttaient
+      2 luttant
+     35 lutte
+      2 luttent
+     11 lutter
+      3 luxembourgeoise
+      5 luxembourgeois
+      7 luxembourg
+      4 lève
+      2 élève
+      2 élèvent
+      1 élèverait
+     11 élèves
+      2 lycée
+      1 lycéenne
+      3 lyncher
+      6 lynndie
+      3 lyon
       2 maaouiya
       1 maaouyia
       6 macaulay
@@ -4726,17 +5300,18 @@
      64 mahmoud
      17 mahomet
      20 mai
-     12 main
+      1 émaillées
       2 maine
+     12 main
       1 mainmise
      16 mains
       1 maintenait
      14 maintenant
       3 maintenir
-      1 maintenu
       7 maintenue
-      2 maintien
+      1 maintenu
       2 maintiendra
+      2 maintien
       5 maintient
      12 maire
       2 mairie
@@ -4744,32 +5319,33 @@
      49 maison
       8 maisons
       3 majesté
-      3 majeur
       5 majeure
-      1 major
+      3 majeur
       1 majoritairement
      43 majorité
+      1 major
       6 makalu
-     38 mal
       9 malade
       9 maladie
       2 maladies
       4 malaise
       4 malbrunot
+      1 ma
       1 malfaiteurs
       2 malformations
      43 malgré
       1 malheureusement
       3 malheureux
       2 mali
+     38 mal
       5 malsain
       3 malveillance
       3 malvenus
      13 maman
       5 mamma
-      9 man
       7 manche
       5 manchots
+      1 émancipe
       2 mandalan
      15 mandat
       6 mandats
@@ -4784,6 +5360,7 @@
       3 manille
       9 manipulation
      18 manière
+      9 man
       1 manoeuvre
       4 manoeuvres
       6 manque
@@ -4794,12 +5371,12 @@
       6 manuel
       3 manuels
       3 maquette
-      6 mar
       5 maracaibo
+     10 maraîcher
       2 maradona
       2 maraicabo
       1 marathon
-     10 maraîcher
+      1 marécage
       5 marchandages
      16 marche
       1 marchent
@@ -4807,53 +5384,55 @@
       2 marcinkiewicz
     142 mardi
       1 mardion
-      6 margaret
+     26 marée
       2 margareth
+      6 margaret
       5 marge
       7 marginalisés
       1 margo
-      4 mari
-     17 maria
      34 mariage
       2 mariages
+     17 maria
       1 marienfeld
       6 marier
-      5 marin
+      5 marié
+      1 mari
+      1 marié
+      3 mari
      12 marine
       5 marines
       2 mariniers
+      5 marin
       2 marins
       1 mario
-      2 maritime
-      6 marié
       6 mariés
-      2 mark
+      2 maritime
       2 marketing
-     12 maroc
-      6 marocain
+      2 mark
+      6 mar
       2 marocaine
+      6 marocain
       5 marocains
+     12 maroc
      10 maroco
       2 marquaient
       2 marquant
-      8 marque
-      2 marquer
-      3 marquera
-     22 marqué
       2 marquée
+      8 marque
+      3 marquera
+      2 marquer
       3 marquées
+     22 marqué
       1 marriott
-     34 mars
       2 marshall
-      2 martin
-      3 martiniquais
+     34 mars
       2 martiniquaises
+      3 martiniquais
       1 martinique
+      2 martin
+      4 martèle
       3 marty
       9 martyrs
-      4 martèle
-      1 marécage
-     26 marée
       3 maskhadov
       2 masque
       4 masri
@@ -4866,28 +5445,42 @@
       4 massives
       1 masturbait
       1 masturber
-      2 mathématiquement
-    170 matin
-      8 matinée
-      7 matière
-      3 matsa
       2 matées
+      2 mathématiquement
+      8 matinée
+    170 matin
+      7 matière
+      1 maître
+      5 maîtrisé
+      3 matsa
       4 mauff
       3 maumousseau
       2 mauritanie
       4 mausolée
-     15 mauvais
      10 mauvaise
       3 mauvaises
-      1 maximal
+     15 mauvais
      10 maximale
+      1 maximal
       3 maximum
       2 mayer
-      1 maître
-      5 maîtrisé
+      1 mécanique
       3 mcclellan
+      2 méconnaissable
+      2 méconnu
+      5 médecin
+     20 médecins
+      2 média
+     28 médias
+      2 médiation
+     11 médiatique
+      2 médicalement
+      2 médicales
+      8 médical
+      2 médicaux
+      3 médiocre
+      3 méditerranée
      11 md
-      1 me
       5 mea
       3 mecque
       2 meeting
@@ -4898,28 +5491,50 @@
       7 melbourne
       2 melchemie
       2 melchers
+      1 me
       9 melilla
       3 melinda
       3 melville
      20 membre
      36 membres
-     64 menace
-      7 menacent
-      3 menacer
-     47 menaces
-     19 menacé
-      8 menacée
-     13 menacées
-      7 menacés
       1 menaçaient
       1 menaçait
       3 menaçant
       7 menaçants
+     36 menace
+      1 menacée
+      1 menace
+      1 menacée
+      1 menace
+      1 menacée
+     12 menace
+      5 menacée
+     14 menace
+      7 menacent
+      3 menacer
+      4 menacées
+      1 menaces
+      2 menacées
+      9 menaces
+      2 menacées
+      5 menaces
+      2 menacées
+     12 menaces
+      1 menacées
+      1 menaces
+      1 menacées
+      1 menaces
+      1 menacées
+     18 menaces
+     19 menacé
+      7 menacés
+     23 menée
       1 menendes
       2 mener
       7 menet
       6 meneur
       8 menezes
+     10 mené
       3 menottée
       2 mentale
       4 mentent
@@ -4929,20 +5544,21 @@
       4 mentionné
       3 mentir
       8 menu
-     10 mené
-     23 menée
-     18 mer
       3 merci
     152 mercredi
+      2 émergents
      39 merkel
+     18 mer
+      2 me saadoun
      23 message
       2 messages
      19 messe
       3 messes
-      4 mesure
+      3 mesure
+      2 mesurée
+      1 mesure
       2 mesurer
      21 mesures
-      2 mesurée
       2 mesurés
      29 met
       4 metro
@@ -4959,27 +5575,33 @@
      15 meurtriers
       2 meurtrière
       7 meurtrières
+      2 émeute
+     14 émeutes
       5 mexicaine
       3 mexicains
      26 mexique
-      2 me saadoun
+      3 méfiance
+      2 mégapole
       2 mgr
-      7 mi
       2 mi5
       3 mi6
       1 miami
      44 michael
       6 michalowski
-      7 michel
       1 michelin
-      5 michelle
+      7 michel
       2 michelle bachelet
+      5 michelle
      36 midi
       2 miers
       6 mieux
+      6 émigrants
       2 migrants
+      4 émigration
+      2 émigrés
       8 mikhaïl
       3 milan
+      7 mi
       2 milices
       4 miliciens
       6 milieu
@@ -4988,35 +5610,66 @@
      18 militaires
       1 militant
       9 militants
-      6 milliard
       4 milliardaire
+      6 milliard
      13 milliards
      15 millier
      70 milliers
+      7 millième
      22 million
      66 millions
-      7 millième
-      1 mills
       5 millénaire
+      1 mills
       3 mina
       1 minant
       4 mine
+      6 éminence
       2 minerait
       5 mines
-      5 mineur
       3 mineure
+      5 mineur
      10 mineurs
-      9 mini
       3 minibus
+      9 mini
       2 minimisant
      11 minimiser
       1 minimum
-    186 ministre
-      7 ministres
       1 ministre jean
-     17 ministère
-      5 ministères
+     14 ministre
+      1 ministère
+      2 ministre
+      1 ministère
+      7 ministre
+      1 ministère
+     15 ministre
+      1 ministère
+      1 ministre
+      1 ministère
+     32 ministre
+      1 ministère
+     16 ministre
+      2 ministère
+     31 ministre
+      2 ministère
+      6 ministre
+      1 ministère
+      1 ministre
+      2 ministère
+     43 ministre
+      1 ministère
+      1 ministre
+      1 ministère
+      1 ministre
+      1 ministère
+      1 ministre
+      1 ministère
+     15 ministre
+      1 ministères
+      5 ministres
+      4 ministères
+      2 ministres
       1 ministérielle
+      1 miné
       1 minnesota
       2 minoritaire
       1 minoritaires
@@ -5024,34 +5677,64 @@
       6 minuit
      20 minute
      27 minutes
-      1 miné
       3 miqati
      10 miracle
       1 miracles
      12 miraculés
      10 mire
       3 mirror
-     33 mis
      21 mise
+     27 mis
+      2 émis
+      6 mis
+      2 misère
       2 missile
-     11 mission
+      3 mission
+      2 émission
+      4 mission
+      5 émission
+      3 mission
+      4 émission
+      1 mission
+      3 émission
+      2 émissions
       4 missions
       6 mississippi
       4 mister
-      2 misère
       6 mitigée
       2 mitraillé
       1 mixtes
       7 mladic
+      1 mélange
+      1 mélanie
+      5 m
+      4 mêler
+     82 même
+      7 mêmes
+      1 mémoire
+      3 mémoires
+      1 ménage
+      3 ménages
+      2 ménagé
+      2 ménard
+      7 mène
+      1 mènent
+      3 mènerait
+      3 mènera
+      6 münster
+      2 müntefering
       1 mobile
       1 mobiles
       1 mobilisait
      12 mobilisation
-     20 mobilise
+     10 mobilisée
+      1 mobilise
+      1 mobilisée
+     19 mobilise
+      5 mobilisée
       6 mobilisent
       9 mobiliser
       3 mobilisé
-     16 mobilisée
       3 mobilisés
       4 modalités
      14 mode
@@ -5061,8 +5744,8 @@
       1 moderniser
       3 modes
       2 modeste
-      1 modifier
       1 modifiée
+      1 modifier
       7 modèle
       6 modèles
       3 modération
@@ -5071,58 +5754,62 @@
       8 mohamed
      15 mohammed
       2 moi
+      2 émoi
       2 moindre
       2 moine
     116 moins
      75 mois
       3 moitié
-      3 mollesse
       1 moléculaire
+      3 mollesse
      29 moment
       3 moments
-     14 mon
      22 monaco
       5 monarque
       1 monastère
      85 monde
-     13 mondial
       1 mondiale
      12 mondiales
       1 mondialisation
+     13 mondial
       1 moneda
+      6 monégasque
+      4 monégasques
       1 mongolie
       1 monica
       2 monique
+     14 mon
       3 monnayées
       5 monney
       2 monoxyde
       4 monstre
       1 montagne
       2 montagnes
+      3 montée
       2 monter
+      1 montréal
       8 montrant
-     17 montre
+      4 montre
+      4 montrée
+      4 montre
+      1 montrée
+      9 montre
       9 montrent
       8 montrer
-      8 montré
-      1 montréal
-      5 montrée
       3 montrées
-      3 montée
-      6 monégasque
-      4 monégasques
+      8 montré
       2 moque
-      2 moral
       6 morales
+      2 moral
       2 morceler
       1 morgues
       6 moribonde
-    115 mort
       8 morte
       5 mortel
       1 mortellemet
      12 mortes
       1 mortier
+    115 mort
     178 morts
       3 mortuaires
      23 moscou
@@ -5131,31 +5818,50 @@
      19 mosquées
       4 mossad
       1 mossoul
-      1 mot
       2 motassadeq
       3 moteur
       1 moteurs
       4 motif
-      4 motion
+      2 motion
+      8 émotion
+      2 motion
       1 motivations
+      1 mot
       1 motorisation
      22 moubarak
       1 mouillée
       2 mounir
       2 mourir
-      5 moussa
       5 moussab
+      5 moussa
       8 moussaoui
       2 moussayeb
       2 mousson
       3 mouvance
-     58 mouvement
+     16 mouvement
+      3 mouvementé
+      9 mouvement
+      5 mouvementé
+     33 mouvement
       5 mouvements
-      8 mouvementé
       7 moyen
       8 moyens
+      2 méprise
+     32 mère
+      2 mères
+      2 méridionale
+      2 mérite
       3 mr
       3 msf
+      8 méthode
+      2 métier
+      9 météo
+      3 météorologiques
+      1 météorologues
+     13 mètres
+     15 métro
+     13 métropole
+      2 métros
       3 muet
       2 mulltiplient
       6 multiculturalisme
@@ -5165,8 +5871,8 @@
       2 multiplication
       6 multiplie
      29 multiplient
-      2 multiplié
       1 multipliées
+      2 multiplié
       5 munich
       3 municipales
       2 municipalités
@@ -5174,14 +5880,15 @@
       1 munitions
       2 mur
       2 murr
+      3 musée
       5 musharraf
       2 musicale
+      4 émus
       4 mussolini
-     17 musulman
      11 musulmane
       4 musulmanes
+     17 musulman
      51 musulmans
-      3 musée
       4 mutile
       3 mutilé
       3 mutinerie
@@ -5191,56 +5898,10 @@
       2 mystérieux
       3 mythe
       3 mythique
-      7 mène
-      1 mènent
-      3 mènera
-      3 mènerait
-     32 mère
-      2 mères
-     13 mètres
-      1 mécanique
-      2 méconnaissable
-      2 méconnu
-      5 médecin
-     20 médecins
-      2 média
-     28 médias
-      2 médiation
-     11 médiatique
-      8 médical
-      2 médicalement
-      2 médicales
-      2 médicaux
-      3 médiocre
-      3 méditerranée
-      3 méfiance
-      2 mégapole
-      1 mélange
-      1 mélanie
-      1 mémoire
-      3 mémoires
-      1 ménage
-      3 ménages
-      2 ménagé
-      2 ménard
-      2 méprise
-      2 méridionale
-      2 mérite
-      8 méthode
-      2 métier
-     15 métro
-     13 métropole
-      2 métros
-      9 météo
-      3 météorologiques
-      1 météorologues
       3 mézières
-      4 mêler
-     82 même
-      7 mêmes
-      6 münster
-      2 müntefering
-    188 n
+     11 n°1
+      5 n°2
+      3 n°3
       5 nabi
       2 nachar
       5 nacional
@@ -5251,19 +5912,20 @@
       1 naissance
       4 naltchik
       3 namur
+     27 néanmoins
       5 naples
       5 napolitaine
       1 nast
-      6 natal
       2 natale
+      6 natal
       1 natanz
-      4 nation
-     12 national
      29 nationale
       1 nationales
       1 nationaliste
       4 nationalité
+     12 national
       2 nationaux
+      4 nation
      30 nations
       1 nativité
       3 naturaliste
@@ -5277,14 +5939,32 @@
       2 nazie
       7 nazis
       6 nazisme
-    173 ne
+      6 nébuleuse
+     10 nécessaire
+      1 nécessaires
+      3 nécessité
       7 nee
       2 neenus
       9 neige
       4 neil
-      1 net
-      5 netanya
+     71 ne
+      1 âne
+      1 née
+      1 ne
+      1 âne
+      1 née
+      1 ne
+      1 âne
+    100 ne
+     11 énergie
+      2 énergétique
+      7 néerlandaise
+      5 néerlandaises
+     21 néerlandais
+      1 néerlandophone
      14 netanyahu
+      5 netanya
+      1 net
       2 nette
       1 nettement
       3 neuchâtel
@@ -5294,7 +5974,14 @@
      51 new
       5 news
      14 newsweek
-     11 ni
+      9 négative
+      2 négociable
+      4 négociateurs
+     50 négociations
+      6 négocie
+      7 négocier
+      5 négociées
+      2 négocié
       1 niant
       2 nias
       1 niche
@@ -5304,41 +5991,51 @@
       4 nie
       5 nies
       1 niet
-      8 niger
       4 nigeria
+      8 niger
       1 nigérian
       2 nigérien
-      3 nippon
+      1 nié
+      2 ni
+      3 nié
+      9 ni
+      2 nié
       2 nippone
       2 nippones
+      3 nippon
      14 niveau
       4 niveaux
       1 nixon
-      6 nié
-     10 no
+    188 n
       8 nobel
       1 noie
-     11 noir
      10 noire
      14 noires
+     11 noir
       5 noirs
-     38 nom
+      5 no
+      3 néo
+      5 no
+      7 noël
      19 nombre
      33 nombreuses
      41 nombreux
       2 nomination
       1 nominations
       1 nominé
+     38 nom
       4 nommant
       6 nommé
       2 nommément
       5 noms
      99 non
     101 nord
-      3 normal
       3 normale
       3 normalement
+      3 normal
+      1 énormes
       2 normes
+      1 énormes
       8 norvégien
       2 norvégiens
      18 nos
@@ -5361,100 +6058,75 @@
      99 nouvelles
      13 novembre
       4 novice
-      2 noyé
       1 noyée
       4 noyées
-      7 noël
+      2 noyé
+      3 népalaise
+      6 népalais
+      4 népal
+      1 nétait
       2 nuage
      49 nucléaire
      23 nucléaires
      58 nuit
       1 nulle
       4 nullement
+      2 énumère
      32 numéro
       6 numéros
       3 nus
       2 ny
-     11 n°1
-      5 n°2
-      3 n°3
-     27 néanmoins
-      6 nébuleuse
-     10 nécessaire
-      1 nécessaires
-      3 nécessité
-      2 née
-     21 néerlandais
-      7 néerlandaise
-      5 néerlandaises
-      1 néerlandophone
-      9 négative
-      2 négociable
-      4 négociateurs
-     50 négociations
-      6 négocie
-      7 négocier
-      2 négocié
-      5 négociées
-      3 néo
-      4 népal
-      6 népalais
-      3 népalaise
-      1 nétait
-      4 o
+      4 obéi
      16 objectif
       2 objectifs
       4 objet
       3 objets
      12 obligatoire
-      5 oblige
       1 obligeant
+      5 oblige
       3 obligés
-      5 obscur
       3 obscènes
+      5 obscur
       3 observateur
       4 observateurs
-      3 observer
-      5 observé
       3 observée
+      3 observer
       2 observées
-      4 obstacles
+      5 observé
      15 obsèques
+      4 obstacles
       6 obtenant
      10 obtenir
       7 obtention
-     20 obtenu
       1 obtenue
+     20 obtenu
       1 obtiendraient
       4 obtiendrait
       7 obtiennent
       3 obtient
-      4 obéi
       4 ocalan
+      5 océan
      17 occasion
       3 occasions
-     12 occident
       3 occidentales
      21 occidentaux
+     12 occident
       1 occupaient
       4 occupait
       2 occupant
       5 occupants
      10 occupation
+      1 occupée
       2 occupe
       3 occupent
       3 occuper
-      2 occupé
-      1 occupée
       3 occupées
+      2 occupé
      38 octobre
-      5 océan
       1 oecuménisme
       5 oeil
       4 oeillets
       7 oeuvre
-      5 of
-      1 off
       1 offenser
      11 offensive
       1 offert
@@ -5465,12 +6137,19 @@
      54 officiellement
       4 officielles
      13 officiels
+      1 off
       1 offrandes
      11 offre
       1 offres
       3 offrir
       1 offshore
+      5 of
       2 oiseau
+     54 où
+      2 o
+     52 où
+      2 o
+      1 où
       4 olivier
      11 olmert
       2 olympio
@@ -5480,10 +6159,10 @@
       9 ombre
       1 ombres
       2 omet
-     67 on
       1 onction
       1 ondimba
      26 ong
+     67 on
     293 ont
      66 onu
       3 onusien
@@ -5493,17 +6172,15 @@
       3 opportunité
       3 opposant
      18 opposants
-      7 oppose
+      6 oppose
+      2 opposée
+      1 oppose
       8 opposent
       5 opposer
      56 opposition
       6 opposé
-      2 opposée
       3 opposés
       1 opprimés
-      4 optimiste
-      1 option
-      2 optiques
       1 opéra
       2 opérant
       5 opérateurs
@@ -5511,67 +6188,73 @@
       3 opérationnels
      17 opérations
      13 opéré
-      7 or
+      4 optimiste
+      1 option
+      2 optiques
       1 orages
       7 orange
       5 oraux
       2 orbi
       5 orchestrées
       3 ordinaires
+      1 ordonnée
       4 ordonner
      16 ordonné
-      1 ordonnée
      46 ordre
       1 ordres
-      2 ore
       2 oreilles
+      2 ore
       4 ores
       1 organisateur
       2 organisateurs
      33 organisation
       1 organisations
       1 organisatrice
-     13 organise
+      1 organise
+      2 organisée
+      4 organise
+      2 organisée
+      8 organise
       2 organisent
-     10 organiser
       2 organisera
-      3 organisé
-      4 organisée
+     10 organiser
       5 organisées
-     27 orient
+      3 organisé
       2 orientale
+     27 orient
      37 origine
-      2 orly
      41 orléans
+      7 or
+      2 orly
       3 ormouz
       2 ormuz
       6 orsay
       1 osce
       1 oscillent
       2 ose
+      6 osée
       1 osservatore
       6 ossétie
-      6 osée
      37 otage
      56 otages
       2 otan
       3 otis
-    112 ou
       8 ouathi
       4 oublie
       2 oublié
      22 ouest
      26 oui
+    112 ou
       3 ould
-     13 ouragan
       1 ouragan katrina
+     13 ouragan
       3 oussama
       1 outils
      26 outre
-     40 ouvert
      11 ouverte
       5 ouvertement
       4 ouvertes
+     40 ouvert
       3 ouverts
      36 ouverture
       1 ouvrage
@@ -5586,24 +6269,25 @@
       2 oval
       2 over
       6 oxygène
-    107 où
-     12 pac
       4 pacifique
       1 pacifiquement
       2 pacifiste
       4 pacifistes
+     12 pac
       5 pacs
       1 pacte
       1 pactole
       5 pagaille
       1 page
+      3 péage
       3 pages
       3 paille
+      2 épais
      45 paix
-     39 pakistan
-     19 pakistanais
       8 pakistanaise
       1 pakistanaises
+     19 pakistanais
+     39 pakistan
       2 palacio
       8 palais
       2 palatine
@@ -5630,7 +6314,6 @@
      80 pape
       4 papouasie
       5 paquet
-    294 par
      13 paradis
       1 paraissait
       2 parallèlement
@@ -5651,20 +6334,25 @@
       3 parfois
       3 parfum
       1 parfums
-     12 pari
+      5 épargne
+      2 épargner
+      5 épargnées
+      6 épargné
       1 parie
-     86 paris
+     12 pari
       5 parisien
+     86 paris
       1 paritaire
-      2 park
       1 parker
+      2 park
       2 parks
       8 parla
       4 parlant
+    294 par
      12 parle
-     54 parlement
       5 parlementaire
       4 parlementaires
+     54 parlement
      10 parlent
       2 parler
       5 parlé
@@ -5673,10 +6361,9 @@
      11 parole
       4 parquet
       4 parrainé
-     22 part
       2 partage
-      2 partageront
       2 partagée
+      2 partageront
       4 partagés
       1 partait
       4 partant
@@ -5685,7 +6372,6 @@
       6 partenariat
       1 partenariats
       3 partent
-     64 parti
       1 participaient
       8 participant
       5 participants
@@ -5702,10 +6388,12 @@
       5 partiellement
       5 partiels
       1 parties
+     64 parti
      32 partir
-     11 partis
      22 partisans
+     11 partis
       2 partitions
+     22 part
       1 partout
       2 parus
       3 parvenir
@@ -5722,39 +6410,47 @@
      12 passant
       4 passants
       4 passation
-     35 passe
+      1 passée
+     20 passe
+      1 passée
+     15 passe
       2 passeport
      10 passeports
      14 passer
       5 passion
       8 passionné
      20 passé
-      2 passée
       3 passés
       7 pasteur
-      5 pat
       1 pathétique
       1 patiente
       4 patinoire
+      5 pat
       1 patriarche
       2 patrice
       6 patrick
       1 patrimoine
       4 patriotisme
-     28 patron
       5 patronat
+     28 patron
       2 patrons
       2 patrouiller
       1 patrouilles
+      1 épaule
      58 paul
       4 pause
       2 pauvre
       5 pauvres
       7 pauvreté
      15 payer
-    217 pays
       2 payées
+    217 pays
+      3 pêcher
+     16 pêcheurs
+      5 pédagogiques
       3 pdg
+      1 pédophiles
+      9 pédophilie
       1 peace
       7 peau
      33 peine
@@ -5772,15 +6468,15 @@
       4 pensés
      14 pentagone
       4 perben
+      9 percée
       1 percement
       6 perception
       1 percevez
       3 percutée
-      9 percée
       4 perdant
       5 perdent
-     34 perdu
       1 perdue
+     34 perdu
       6 peres
       1 performance
       5 perfusion
@@ -5792,11 +6488,12 @@
       1 permettrait
      17 permettre
      11 permis
-      9 perpétré
+      1 perçoivent
       2 perpétrée
       4 perpétrées
-      4 perpétrés
+      9 perpétré
       4 perpétré mercredi
+      4 perpétrés
      11 perpétuité
       2 perquisition
       1 perquisitionnés
@@ -5815,13 +6512,12 @@
       8 pertes
       4 perturbations
       3 perturber
-      1 perçoivent
       5 perçus
       2 pesaient
       2 pessimiste
       4 pessimistes
-     17 petit
       9 petite
+     17 petit
       5 petits
       2 petropavlovsk
      48 peu
@@ -5834,45 +6530,56 @@
      13 phase
       2 philadelphie
      11 philippe
-      2 philippin
      14 philippines
+      2 philippin
       4 philippins
-      7 photo
+      4 phénomène
       2 photographies
+      7 photo
      16 photos
       2 physiques
-      4 phénomène
       9 piano
       3 pib
+      3 pièces
+      4 épidémie
      23 pierre
+     10 piégée
+      5 piège
+      5 piégée
+      1 piège
+      1 piégée
+      3 piégées
+      2 piégé
       2 pilier
       4 pillages
       4 pillards
       1 pillée
+      4 épilogue
      12 pilote
       3 pilotes
       3 pilule
       2 pinault
       1 pinera
+      5 épingle
+      1 épinglé
       8 pinochet
       2 pionnière
      13 pire
       7 pires
+      2 épisode
      29 piste
+      1 épithètes
       2 pitoyable
-      3 pièces
-      6 piège
-      2 piégé
-     16 piégée
-      3 piégées
+     11 pékin
       1 pkk
       4 placard
-     77 place
+     15 place
+      1 placée
+     62 place
       2 placent
       8 placer
-      4 placé
-      1 placée
       1 placées
+      4 placé
       3 placés
       3 plage
       4 plages
@@ -5880,57 +6587,67 @@
       3 plaidant
      11 plaide
       1 plaider
-      5 plaidoiries
       6 plaidé
+      5 plaidoiries
       5 plaies
       4 plaignants
       1 plain
      15 plainte
       2 plaintes
-      4 plame
       2 plamegate
-     48 plan
+      4 plame
      13 planche
       1 plane
       2 planer
+     48 plan
       8 plans
-      6 planteurs
-      2 plantu
-      2 planète
       2 planétaire
       2 planétaires
+      2 planète
+      6 planteurs
+      2 plantu
       1 plaques
       6 plata
       1 plateaux
       3 plateforme
-      1 plausible
       5 plaît
-     19 plein
+      1 plausible
+      5 plébiscite
+      1 plébiscitent
      12 pleine
+     19 plein
       1 pleins
+      5 pèlerinage
+      7 pèlerins
       1 pleure
       1 plié
       1 plongeant
-      3 plongé
       6 plongée
+      3 plongé
       6 pluie
      21 pluies
      19 plupart
-    224 plus
     124 plusieurs
+    224 plus
       7 plutôt
-      5 plébiscite
-      1 plébiscitent
+     10 pénal
+      7 péninsule
+      2 pénitentiaire
+      2 pénètrent
+      6 pénétrer
+      5 pénétré
+      8 pénurie
+      1 pénuries
       3 poids
-      2 poignardé
       1 poignardée
+      2 poignardé
       3 poignée
       1 poil
-     35 point
       7 pointe
-      2 pointent
-      3 points
       4 pointée
+      2 pointent
+     35 point
+      3 points
       2 poison
       4 polaire
       4 polanski
@@ -5943,14 +6660,14 @@
       1 politico
      65 politique
      30 politiques
-      3 pollution
       1 polluées
+      3 pollution
+     44 polémique
+      1 polémiques
      25 pologne
      12 polonais
       1 polyclinique
       2 polygamie
-     44 polémique
-      1 polémiques
       1 pom
       3 pompage
       1 pompes
@@ -5958,10 +6675,11 @@
       1 pomppedda
       3 poncet
       2 ponctionner
-     15 pont
+      9 éponge
       1 ponte
      17 pontife
      15 pontificat
+     15 pont
       1 ponts
       1 pop
       1 popstar
@@ -5970,24 +6688,30 @@
       7 popularité
      16 population
       7 populations
+      8 époque
       4 pornographique
-     11 port
       4 portable
       4 portait
-     13 portant
       1 portant la
+     13 portant
      31 porte
       2 portent
      13 porter
+      1 portées
+      6 port
+      2 porté
+      2 port
+      1 porté
+      1 port
+      5 porté
+      2 port
       7 portrait
       5 portraits
+     10 portés
       3 ports
       5 portsmouth
       4 portugais
       7 portugal
-      8 porté
-      1 portées
-     10 portés
       5 pose
       5 posent
       2 poser
@@ -5999,17 +6723,17 @@
      12 position
       5 positions
       2 positive
+      9 posé
+     19 possède
       7 possibilité
       4 possibilités
      16 possible
      18 possibles
-     19 possède
-      6 post
      17 poste
       2 posten
       6 posthume
+      6 post
       5 postulent
-      9 posé
       2 potentiel
       9 potentiellement
       1 potentielles
@@ -6020,80 +6744,128 @@
     321 pour
       3 pourparlers
      17 pourquoi
-      3 pourra
      16 pourraient
      50 pourrait
+      3 pourra
       5 pourront
-     30 poursuit
       3 poursuite
       6 poursuites
+     30 poursuit
       2 poursuivait
      14 poursuivent
      15 poursuivi
      15 poursuivra
      29 poursuivre
       2 pourtant
+     13 épouse
+      5 poussée
       1 pousser
       1 poussière
       4 poussé
-      5 poussée
       3 pousuivent
      14 poutine
       3 pouvez
      33 pouvoir
       5 pouvoirs
+      1 époux
       1 power
+      7 pâques
       1 pradesh
       4 pragmatiques
+      6 préalable
+      2 préalables
       1 pratique
       3 pratiquement
-    206 premier
+      1 précédente
+      1 précédentes
+     10 précédent
+      1 précédents
+      1 prêche
+      7 précipitamment
+      5 précipitations
+      8 précise
+      3 précisent
+      4 précises
+      5 précisé
+      3 précis
+      4 précisément
+      1 prédateur
+      8 prédécesseur
+      4 prédécesseurs
+      2 prédestiné
+      4 prédicateurs
+      3 prédication
+      3 prédominent
+     22 père
+     10 premier
+      2  premier
+    196 premier
      17 premiers
     115 première
      23 premières
       2 prenaient
       5 prenait
       2 prenant
-     16 prend
+      2 prend
+      5 éprend
+     14 prend
      13 prendra
      14 prendre
       7 preneur
       2 preneurs
+      1 pérenne
+      4 pères
+      3 âpres
+      3 pères
      15 presque
-      3 press
-      1 pressant
       1 pressantes
+      1 pressant
      76 presse
      19 pression
       6 pressions
+      3 press
       2 pressurisation
       3 pressurisé
       2 prestations
       1 prestige
       7 preuve
       6 preuves
+      4 préfet
+      4 préférer
+      5 priée
       1 prient
      11 prier
+      1 priées
+      1 prié
+     11 péri
+      5 péril
       1 primaire
       4 primaires
       1 prime
       9 primes
       4 primordiale
      43 prince
-      4 princesse
       1 prince rainier
-     25 principal
+      4 princesse
       8 principale
       1 principales
+     25 principal
      15 principauté
      16 principaux
       4 principe
      13 printemps
+      8 période
       5 priorité
       6 priorités
-     55 pris
+     11 prière
+      9 prières
      34 prise
       7 prises
+     12 pris
+      2 priés
+     39 pris
+      1 priés
+      4 pris
       2 prisme
      71 prison
       3 prisonnier
@@ -6103,62 +6875,68 @@
      14 prisons
       2 pristina
       1 privatisation
+      7 privée
+      1 privées
       6 privilégie
       2 privilégient
       3 privilégier
       6 privé
-      7 privée
-      1 privées
      13 privés
       8 prix
       1 priz
-     11 prière
-      9 prières
-      1 prié
-      5 priée
-      1 priées
-      3 priés
-     30 pro
+      3 préjudice
+      2 préjudiciable
+      2 prélat
+      1 pré
+      1 prélever
+      4 prélèvement
+      6 prématurée
+      6 prônant
+      1 prônent
       1 probabilité
       8 probable
       4 probablement
       2 probité
+      1 problématique
      19 problème
      14 problèmes
-      1 problématique
+      1 préoccupait
+      2 préoccupant
+      2 préoccupations
+      1 préoccupé
+     19 procéder
+      6 procédé
+     14 procédure
+      4 procédures
      35 processus
-     17 prochain
      23 prochaine
       4 prochainement
       7 prochaines
+     17 prochain
       9 prochains
      57 proche
      16 proches
       2 proclamation
       4 proclamé
       2 procréation
-      9 procureur
     107 procès
-     19 procéder
-     14 procédure
-      4 procédures
-      6 procédé
+      9 procureur
       2 prodi
       1 producteur
       3 production
-      1 produit
       5 produite
       2 produites
+      1 produit
       4 profanation
       3 professent
      15 professeur
       4 professeurs
-      2 profil
       8 profile
+      2 profil
       1 profitant
-      5 profond
       6 profonde
       2 profondeur
+      5 profond
       4 profondément
      24 programme
       1 programmes
@@ -6173,16 +6951,18 @@
       2 progressé
       3 progrès
       1 proie
-     37 projet
+      2 projetée
+     32 projet
+      3 projeté
+      5 projet
       4 projets
       3 projette
-      3 projeté
-      2 projetée
+     30 pro
       7 prolifération
       1 prolongeait
       2 prolongent
-      4 prolonger
       3 prolongera
+      4 prolonger
      21 promet
       2 promettait
       4 promettent
@@ -6202,16 +6982,21 @@
       7 prophète
       1 proportion
       1 proportionnelle
-     21 propos
       5 proposant
-     10 propose
+      6 propose
+      3 proposée
+      4 propose
       7 proposent
       3 proposer
       5 proposition
      12 propositions
+      3 proposé
+      5 propos
+      1 proposé
+     10 propos
+      1 proposé
+      6 propos
       4 proposons
-      5 proposé
-      3 proposée
      10 propre
       3 propres
       2 propriétaire
@@ -6227,10 +7012,12 @@
       3 protestent
      26 protester
       3 protesté
-      1 protocolaire
-      2 protocole
       5 protéger
       1 protégé
+      1 protocolaire
+      2 protocole
+      1 pérou
+      2 éprouvantes
       6 prouver
       3 prouvé
       5 provenance
@@ -6246,49 +7033,18 @@
       3 provocateurs
       1 provocation
       7 provoquant
-     14 provoque
+      2 provoquée
+      3 provoque
+      3 provoquée
+      6 provoque
+      2 provoquée
+      2 provoque
+      3 provoquée
+      3 provoque
       1 provoquer
      35 provoqué
-     10 provoquée
       8 provoqués
       4 proximité
-      9 prudence
-      5 prudent
-     92 près
-      1 pré
-      6 préalable
-      2 préalables
-      7 précipitamment
-      5 précipitations
-      3 précis
-      8 précise
-      3 précisent
-      4 précises
-      5 précisé
-      4 précisément
-     10 précédent
-      1 précédente
-      1 précédentes
-      1 précédents
-      1 prédateur
-      2 prédestiné
-      4 prédicateurs
-      3 prédication
-      3 prédominent
-      8 prédécesseur
-      4 prédécesseurs
-      4 préfet
-      4 préférer
-      3 préjudice
-      2 préjudiciable
-      2 prélat
-      1 prélever
-      4 prélèvement
-      6 prématurée
-      1 préoccupait
-      2 préoccupant
-      2 préoccupations
-      1 préoccupé
       2 préparaient
       1 préparait
       1 préparatifs
@@ -6296,44 +7052,65 @@
       1 préparatoires
      12 prépare
       6 préparent
-      7 préparer
       1 préparerait
-      6 préparé
+      7 préparer
       3 préparées
+      6 préparé
       3 préparés
      25 présence
-     15 présent
       3 présentant
       1 présentateur
       2 présentation
-      9 présente
+      5 présente
+      4 présentée
+      4 présente
       5 présentent
       2 présenter
       1 présentes
-     18 présents
-     23 présenté
-      4 présentée
-      2 présentés
+      1 présent
+      3 présenté
+      5 présent
+      2 présenté
+      6 présent
+      6 présenté
+      1 présent
+     12 présenté
+      2 présent
+      9 présents
+      1 présentés
+      9 présents
+      1 présentés
       4 préservatifs
       1 préserver
       1 présidait
       3 présidant
+      3 présidée
      33 présidence
-    216 président
      16 présidente
       6 présidentiel
      57 présidentielle
       1 présidentielles
+    216 président
       4 présidents
       2 présidera
-      3 présidée
-     27 présumé
+     92 près
      10 présumée
+     27 présumé
      22 présumés
+     21 prête
       2 prétendants
       2 prétendre
       1 prétendu
+      2 prêtes
+     14 prêt
+      4 prêté
+      1 prêt
       1 prétoire
+      7 prêtre
+      7 prêtres
+      8 prêts
+      9 prudence
+      5 prudent
       5 préval
       4 prévenir
       1 prévention
@@ -6344,84 +7121,16 @@
       4 prévisions
       7 prévoit
       1 prévoyant
-     19 prévu
       7 prévue
       6 prévues
-      1 prêche
-     15 prêt
-     21 prête
-      2 prêtes
-      7 prêtre
-      7 prêtres
-      8 prêts
-      4 prêté
-      6 prônant
-      1 prônent
+     19 prévu
       3 psb
+      1 pèsent
       2 psg
       6 psychologique
       2 psychologiquement
       2 psychologiques
       3 psychose
-     32 pu
-     15 public
-     15 publication
-      4 publications
-     16 publics
-      6 publie
-      1 publient
-      4 publier
-     12 publique
-      7 publiquement
-      1 publiques
-     28 publié
-      7 publiée
-      1 publiées
-     13 publiés
-     13 pubs
-      5 pucallpa
-      2 pugnace
-     24 puis
-      2 puiser
-      2 puisqu
-      9 puissance
-      4 puissances
-      6 puissant
-      5 puissante
-      1 puits
-      3 pulmonaire
-      1 punis
-      1 purement
-      5 purgeait
-      1 putrides
-      3 putsch
-      4 putschistes
-      3 pyjama
-      7 pâques
-      5 pèlerinage
-      7 pèlerins
-     22 père
-      7 pères
-      1 pèsent
-      3 péage
-      5 pédagogiques
-      1 pédophiles
-      9 pédophilie
-     11 pékin
-      1 pélerins
-     10 pénal
-      7 péninsule
-      2 pénitentiaire
-      8 pénurie
-      1 pénuries
-      2 pénètrent
-      6 pénétrer
-      5 pénétré
-      1 pérenne
-     11 péri
-      5 péril
-      8 période
-      1 pérou
       1 pétersbourg
       3 pétitionnaires
      17 pétrole
@@ -6429,39 +7138,74 @@
       5 pétroliers
       8 pétrolière
       4 pétrolières
-      3 pêcher
-     16 pêcheurs
+     15 publication
+      4 publications
+     15 public
+     16 publics
+      6 publie
+      7 publiée
+      1 publient
+      4 publier
+      1 publiées
+     28 publié
+     12 publique
+      7 publiquement
+      1 publiques
+     13 publiés
+     13 pubs
+      5 pucallpa
+      2 pugnace
+      2 puiser
+     24 puis
+      2 puisqu
+      9 puissance
+      4 puissances
+      5 puissante
+      6 puissant
+      2 épuisés
+      1 puits
+     32 pu
+      3 pulmonaire
+      1 punis
+      1 purement
+      5 purgeait
+      1 putrides
+      4 putschistes
+      3 putsch
+      3 pyjama
+     95 qaïda
       3 qaida
       3 qatada
-      5 qatar
       8 qatariote
-     95 qaïda
+      5 qatar
       3 qcm
       6 qi
       3 qods
-    162 qu
       1 quadruple
       7 quai
       3 quais
+      4 qualifiée
       1 qualifient
      15 qualifié
-      4 qualifiée
       1 qualité
       5 quand
       8 quant
       3 quarantaine
       2 quarante
-      6 quart
       3 quartette
       7 quartier
       2 quartiers
+      6 quart
       3 quarts
      10 quasi
       4 quasiment
+      3 équatorien
       4 quatorze
       1 quatorzième
     101 quatre
      12 quatrième
+      2 québec
+      1 que la
     255 que
      32 quel
       7 quelle
@@ -6473,21 +7217,28 @@
       2 querelles
      30 question
      40 questions
-      1 que la
-    280 qui
+    234 qui
+      1  qui
+     46 qui
       6 quinzaine
      18 quinze
+     17 équipage
+      2 équipée
+     17 équipe
+     17 équipes
+      2 équitable
       7 quittait
      13 quitte
       6 quittent
      20 quitter
      38 quitté
+      4 équivalent
+    162 qu
      11 quoi
       1 quorum
      27 quotidien
       4 quotidienne
      11 quotidiens
-      2 québec
      11 rabais
      12 rabin
       5 rachat
@@ -6498,32 +7249,45 @@
      22 raconte
      13 racontent
       4 raconté
+      1 réacteur
+      1 réacteurs
+     13 réaction
+     16 réactions
+      1 réactivé
       8 radar
-     11 radical
       2 radicalement
       2 radicales
       1 radicalisées
       7 radicalisés
+     11 radical
       7 radicaux
-      6 radio
-      2 radios
-      2 radioscopie
       1 radiée
+      6 radio
+      2 radioscopie
+      2 radios
       6 rafah
       4 raffarin
+      3 réaffectés
       3 raffinerie
       2 raffineries
+      8 réaffirme
+     15 réaffirmé
      19 rafic
       1 raflant
       4 rafle
       8 rafsandjani
       1 rafting
       3 rage
+      4 réagi
+     15 réagir
+      5 réagissant
+      3 réagissent
+      1 réagit
       1 ragot
-      6 rahman
       3 rahmane
-      9 raid
+      6 rahman
       3 raide
+      9 raid
      21 raids
      10 rails
       3 raimondas
@@ -6533,22 +7297,31 @@
       2 raisonnable
      12 raisons
       1 rajeunissement
+      1 raï
       1 ralentissement
+      6 réalisateur
+      2 réalise
+      1 réalisée
+      5 réalisé
+      3 réalisés
       5 rallier
       1 rallonge
       2 rallonger
       3 ramassaient
      13 ramda
-      1 rame
       1 rameaux
+      1 rame
       2 ramené
       1 rames
+      1 réaménagée
+      1 réaménagement
       1 ramper
       7 ranch
       2 randonnée
       7 rang
       3 rangoun
       2 rangs
+      5 réanimation
      10 rançon
       3 raouf
       2 rapatriement
@@ -6559,68 +7332,100 @@
      18 rapidement
       1 rappatrié
       6 rappelant
-      4 rappelle
      13 rappelé
+      4 rappelle
       2 rappeur
-     33 rapport
       4 rapporte
+     33 rapport
       1 rapproche
       5 rapprochement
       1 rapprochent
       2 rapproché
+      1 réapprovisionner
      16 rapt
       2 rare
      13 rares
+      5 raïs
       1 rassemblant
       1 rassemble
+      2 rassemblée
       2 rassemblement
       2 rassemblements
       3 rassemblent
       1 rassembler
-      2 rassemblée
       2 rassemblées
       6 rassemblés
       3 rassurants
       4 rassure
      11 rassurer
       4 rassuré
+      3 ratées
      13 ratification
       3 ratifications
       6 ratifier
       8 ratifié
       1 ratko
+      3 raté
       3 rats
+      6 ratés
       3 rattachement
       1 rattraper
       3 rattrapé
       5 ratzinger
-      3 raté
-      3 ratées
-      6 ratés
+      3 ravagée
       1 ravage
       4 ravages
-      6 ravagé
-      3 ravagée
       5 ravagées
+      6 ravagé
       9 ravin
       2 ravir
       6 ravisseur
      27 ravisseurs
-     10 ray
       3 rayer
+     10 ray
       6 rayé
      22 raz
-      1 raï
-      5 raïs
+     12 rébellion
+     12 récemment
+      5 récente
+      2 récentes
+      9 récent
+      2 récents
+      1 réchauffement
+      7 récidive
+      3 récit
+      2 récits
+      5 réclamant
+      1 réclame
+      1 réclamée
+      7 réclame
+      5 réclament
+      2 réclamer
+     14 réclamé
+      1 réclamés
+      3 récoltés
+      4 récompense
+      3 récompenses
+     11 réconciliation
+      1 réconcilitation
+      3 récupérer
+      2 récupéré
+      2 récupérés
+      6 rédaction
       1 rda
       2 rdc
+      1 rééducation
+      1 réduction
+     12 réduire
+      4 réduite
+      7 réduit
       7 rebelles
       2 rebondir
       2 rebondissement
       1 rebours
+      4 rebranchée
       1 rebranchement
       1 rebranché
-      4 rebranchée
       1 rebrousser
       5 recadre
       4 recensés
@@ -6642,10 +7447,10 @@
       1 reconnaissant
       3 reconnaît
      12 reconnaître
-     31 reconnu
       5 reconnue
-      1 reconstitution
+     31 reconnu
       2 reconstitué
+      1 reconstitution
      16 reconstruction
      12 reconstruire
       1 reconverti
@@ -6653,42 +7458,51 @@
       1 records
       1 recourir
      11 recours
+      3 recréer
       3 recrudescence
       3 recrues
       9 recrutement
       3 recruter
-      3 recréer
       4 recteur
       1 recueillait
       2 recueille
       8 recueillement
-      3 recueilli
       4 recueillie
       3 recueillies
+      3 recueilli
       1 recueillir
       4 recule
-      2 red
       2 redevenant
       2 redit
+      2 red
+      1 redémarré
       1 redonneront
      10 redorer
       2 redoublement
       2 redoutaient
       1 redoutent
       1 redouter
-      1 redouté
       3 redoutées
+      1 redouté
       4 redoutés
-      1 redémarré
       3 refaire
       5 reflux
       4 refonte
       7 refoulé
-     19 refus
       8 refusant
       5 refuse
      19 refusent
-     29 refusé
+      6 refusé
+      2 refus
+      5 refusé
+     10 refus
+      5 refusé
+      3 refus
+      5 refusé
+      2 refus
+      2 refusé
+      2 refus
+      6 refusé
       2 regagner
       4 regain
       1 regard
@@ -6700,12 +7514,21 @@
       2 reichenhall
       2 reichstag
      12 reine
-     12 rejet
-     14 rejette
-      4 rejettent
-     14 rejeté
       3 rejetée
       2 rejetées
+      2 rejeté
+      2 rejet
+      3 rejeté
+      2 rejet
+      1 rejeté
+      6 rejet
+      3 rejeté
+      1 rejet
+      1 rejeté
+      1 rejet
+      4 rejeté
+     14 rejette
+      4 rejettent
       4 rejoindre
       6 rejoint
       4 rejugé
@@ -6718,118 +7541,128 @@
      19 relations
       1 relative
       4 relativement
+      5 relâcher
+      6 relâché
+     14 relâchés
+      5 ère
      10 relever
       3 relevé
       3 reliant
      29 religieuse
      10 religieux
       7 religion
+     11 réel
+      2 réelle
       2 relogement
-      5 relâcher
-      6 relâché
-     14 relâchés
       2 relève
       3 relèverait
       1 remaniée
       6 remarquer
       6 remercie
      13 remet
-     16 remis
      11 remise
+     16 remis
       4 remontait
-      7 remonte
-      2 remontée
+      1 remonte
+      1 remontée
+      6 remonte
+      1 remontée
       2 rempart
       2 remplacement
       6 remplacer
       1 remplacé
-      2 rempli
       2 remplies
+      2 rempli
       1 remportait
       2 remportant
       3 remporte
       5 remporterait
-     22 remporté
       3 remportées
+     22 remporté
       1 rencontrait
      20 rencontre
-      8 rencontrer
       1 rencontrera
+      8 rencontrer
       1 rencontres
-     10 rencontré
       4 rencontrées
-     10 rend
+     10 rencontré
       5 rendant
       4 rendez
-      1 rendra
+     10 rend
       2 rendraient
+      1 rendra
      27 rendre
-     32 rendu
       3 rendue
       1 rendues
+     32 rendu
       8 rendus
+      1 renforçant
+      3 renforcée
       2 renforce
+      1 renforcée
       7 renforcement
       9 renforcer
-      6 renforcé
-      4 renforcée
       1 renforcées
+      6 renforcé
       2 renfort
       9 renforts
-      1 renforçant
+      3 renégocier
+      5 rené
       4 renonce
       1 renoncer
       1 renonciation
       2 renoncé
       2 renoue
+      2 renouvelées
+      1 renouvelé
       1 renouvellement
       3 renouvellent
-      1 renouvelé
-      2 renouvelées
      17 renseignement
      15 renseignements
       1 rentre
+      5 rentrée
       1 rentrer
       3 rentré
-      5 rentrée
       7 renversé
-      1 renvoi
       2 renvoie
       2 renvoient
+      1 renvoi
       1 renvoyer
      11 renvoyé
       2 renvoyés
-      5 rené
-      3 renégocier
-     10 repart
+      1 reçoit
       2 reparti
       2 repartir
+     10 repart
       1 repas
       1 repassé
+      4 repêchés
       3 repetita
       5 replacer
       1 repli
-      2 report
       2 reportait
+      9 reportée
       5 reporter
       7 reporters
-      8 reporté
-      9 reportée
       3 reportées
+      5 reporté
+      2 report
+      3 reporté
       2 repose
       1 reposer
       1 repousser
       3 repoussé
       1 repoussés
       5 reprend
-      5 reprendra
       4 reprendrait
+      5 reprendra
      15 reprendre
       3 reprendront
       1 reprennent
-     29 repris
      33 reprise
      22 reprises
+     29 repris
+      1 repéré
       1 reproche
       8 reproduit
       2 reproposé
@@ -6839,17 +7672,15 @@
      21 représentants
       6 représente
       1 repubblica
-      1 repéré
-      4 repêchés
-      1 requis
       2 requise
+      1 requis
       4 rescapé
      15 rescapés
       3 rescousse
-     14 respect
       7 respecter
       2 respectifs
       3 respectivement
+     14 respect
       4 respectueux
       1 respiration
       3 respiratoires
@@ -6860,8 +7691,8 @@
      30 responsable
      28 responsables
       3 responsables syriens
-      1 ressenti
       3 ressentie
+      1 ressenti
       1 ressentir
       5 ressortissant
      15 ressortissants
@@ -6869,32 +7700,34 @@
       1 restant
       5 restaurants
       5 restaurer
-     49 reste
-      6 restent
-     10 rester
-     14 restera
-      3 resterait
-      5 restes
-      1 restrictives
-      2 resté
+     20 reste
       4 restée
+     29 reste
+      6 restent
+      3 resterait
+     14 restera
+     10 rester
+      5 restes
+      2 resté
+      1 restrictives
       2 restés
-      6 retard
-      1 retarder
-      5 retards
       1 retardée
+      1 retarder
+      6 retard
+      5 retards
       2 retenait
-      5 retenu
       8 retenue
+      5 retenu
       4 retenus
       2 retiendra
       2 retient
-      3 retire
-     10 retirer
-      1 retirerait
-      1 retiré
+      1 retire
       6 retirée
+      2 retire
+      1 retirerait
+     10 retirer
       2 retirées
+      1 retiré
       2 retirés
      54 retour
       7 retourne
@@ -6902,31 +7735,42 @@
       2 retourné
       5 retrace
       1 retracent
-     75 retrait
       1 retraite
+     75 retrait
       2 retranché
       5 retranchés
       4 retransmises
       1 retrouvailles
       2 retrouvait
-      7 retrouve
+      1 retrouvée
+      5 retrouve
+      1 retrouvée
+      1 retrouve
+      1 retrouvée
+      1 retrouve
       7 retrouvent
      13 retrouver
+      3 retrouvées
       1 retrouvez
      30 retrouvé
-      3 retrouvée
-      3 retrouvées
      19 retrouvés
+      5 reçue
+     10 reçu
+      1 reçus
       8 revanche
       1 revanché
+      2 revécu
       1 revenait
      13 revendication
       1 revendications
-     22 revendique
+     11 revendique
+      2 revendiquée
+      1 revendique
+      1 revendiquée
+     10 revendique
       3 revendiquent
       1 revendiquer
      44 revendiqué
-      3 revendiquée
       5 revenir
       5 revenu
       8 revers
@@ -6935,15 +7779,39 @@
       2 revigorer
       3 revivre
       2 revoir
-      7 revu
       7 revue
-      2 revécu
-      1 reçoit
-     10 reçu
-      5 reçue
-      1 reçus
+      7 revu
+      1 réexaminer
       1 rfa
+      7 réfléchit
+      2 réformateur
+      8 réforme
+      7 réformes
+      8 référence
+      3 référendaire
+     46 référendum
+      5 référendums
+      1 réfugier
+      3 réfugiés
+      1 régence
+     18 régime
+      1 régimes
+      2 régionales
+      2 régional
+     26 région
+     16 régions
       2 rg
+      2 réglée
+     10 règle
+      6 règlement
+      1 réglera
+      5 régler
+      1 règles
+      3 réglé
+      4 règnait
+      1 régnant
+     12 règne
+      9 régulièrement
       1 rhabiller
       1 rhin
       2 rhénanie
@@ -6957,6 +7825,8 @@
       3 rights
       2 rigoureuse
       3 rigoureux
+      1 réincarcération
+      1 réinstallation
       3 rio
       5 riposte
       3 ripostera
@@ -6968,22 +7838,32 @@
       5 ristourne
      12 rita
       3 rite
-      4 rival
+      2 réitère
+      1 réitérer
       2 rivale
+      4 rival
       4 rivaux
       1 rive
       3 rizkar
+      2 réélection
+     34 rôle
+      1 réélire
+      2 réélue
+      5 réélu
+      9 rênes
+      1 rénégociation
       1 robe
       2 robert
       3 roberto
       5 robertson
       2 robin
       2 robles
-      3 robot
       1 robotisé
+      3 robot
       2 roccasecca
      14 rocher
       7 rock
+      1 érodé
       7 rodney
       2 rodriguez
      10 roi
@@ -6995,141 +7875,32 @@
      20 rome
       4 rompt
       1 rompu
+      1 réopérée
       6 roquette
      18 roquettes
-      2 rosa
       1 rosaire
+      2 rosa
       4 rotenbourg
       3 roues
       8 rouge
       4 roulait
       3 roulant
      10 rouler
-      1 roumain
       1 roumaines
+      1 roumain
      19 roumains
      15 roumanie
       1 rousse
      14 route
       6 routes
       3 rouvert
+      1 réouverture
       5 rouvrir
       8 rove
-      2 roy
-      7 royal
       1 royales
+      7 royal
      52 royaume
-      7 rsf
-     14 rue
-      6 rues
-      4 rugova
-      1 ruines
-     12 rumeurs
-      3 rumsas
-      6 rumsfeld
-      4 rural
-      4 rushing
-     22 russe
-      1 russel
-      1 russell
-     12 russes
-     21 russie
-      3 ruth
-      6 rwanda
-      4 rwandais
-      5 ryad
-      1 rythme
-      2 râté
-     10 règle
-      6 règlement
-      1 règles
-      4 règnait
-     12 règne
-      1 réacteur
-      1 réacteurs
-     13 réaction
-     16 réactions
-      1 réactivé
-      3 réaffectés
-      8 réaffirme
-     15 réaffirmé
-      4 réagi
-     15 réagir
-      5 réagissant
-      3 réagissent
-      1 réagit
-      6 réalisateur
-      2 réalise
-      5 réalisé
-      1 réalisée
-      3 réalisés
-      1 réaménagement
-      1 réaménagée
-      5 réanimation
-      1 réapprovisionner
-     12 rébellion
-     12 récemment
-      9 récent
-      5 récente
-      2 récentes
-      2 récents
-      1 réchauffement
-      7 récidive
-      3 récit
-      2 récits
-      5 réclamant
-      8 réclame
-      5 réclament
-      2 réclamer
-     14 réclamé
-      1 réclamée
-      1 réclamés
-      3 récoltés
-      4 récompense
-      3 récompenses
-     11 réconciliation
-      1 réconcilitation
-      3 récupérer
-      2 récupéré
-      2 récupérés
-      6 rédaction
-      1 réduction
-     12 réduire
-      7 réduit
-      4 réduite
-     11 réel
-      2 réelle
-      1 réexaminer
-      7 réfléchit
-      2 réformateur
-      8 réforme
-      7 réformes
-      1 réfugier
-      3 réfugiés
-      8 référence
-      3 référendaire
-     46 référendum
-      5 référendums
-      1 régence
-     18 régime
-      1 régimes
-     26 région
-      2 régional
-      2 régionales
-     16 régions
-      5 régler
-      1 réglera
-      3 réglé
-      2 réglée
-      1 régnant
-      9 régulièrement
-      1 réincarcération
-      1 réinstallation
-      2 réitère
-      1 réitérer
-      1 rénégociation
-      1 réopérée
-      1 réouverture
+      2 roy
       2 répandue
      11 répercussions
       3 répertoriant
@@ -7142,23 +7913,24 @@
      26 réponse
      20 réponses
      13 répression
-      3 réprimer
       1 réprimée
+      3 réprimer
       1 réprésailles
-     11 républicain
+      5 répétition
      11 républicaine
+     11 républicain
       6 républicains
      25 république
       1 réputé
-      5 répétition
      34 réseau
       1 réseaux
       8 réserve
       4 réserves
      13 réservé
+      7 rsf
       3 réside
-      1 résident
       3 résidentiel
+      1 résident
       8 résidents
       1 résistance
       5 résisté
@@ -7175,59 +7947,70 @@
      10 rétablissement
       4 rétention
       8 réticences
+      2 râté
       4 rétrogradé
-      8 réuni
+     14 rue
+      6 rues
+      4 rugova
+      1 ruines
+     12 rumeurs
+      3 rumsas
+      6 rumsfeld
       5 réunie
       2 réunies
       3 réunification
+      8 réuni
      12 réunion
       2 réunions
-      5 réunir
       1 réunira
+      5 réunir
       1 réuniront
      23 réunis
       5 réunissait
       4 réunissent
       3 réunit
+      4 rural
+      4 rushing
+     22 russe
+      1 russel
+      1 russell
+     12 russes
+     21 russie
      12 réussi
       1 réussite
+      3 ruth
       2 réveil
       2 réveillon
       1 réveillonné
+      7 rêve
       4 révision
       2 révisionnisme
       4 révisé
+      1 révélation
+     15 révélations
+     20 révèle
+      3 révèlent
+      2 révéler
+      8 révélé
       3 révolte
       4 révolté
      20 révolution
       2 révolutionnaires
       5 révulse
       2 révulsé
-     20 révèle
-      3 révèlent
-      1 révélation
-     15 révélations
-      2 révéler
-      8 révélé
-      1 rééducation
-      2 réélection
-      1 réélire
-      5 réélu
-      2 réélue
+      4 rwandais
+      6 rwanda
       4 rééxaminer
-      9 rênes
-      7 rêve
-     34 rôle
-    256 s
-    217 sa
+      5 ryad
+      1 rythme
       8 saad
       1 saadoun
       1 sabaoui
       1 sabbah
       2 saboter
       3 sabrina
-      3 sac
       3 sacerdoce
+      3 sac
       1 sacre
       3 sacrifices
       2 sacrifiés
@@ -7240,12 +8023,12 @@
       2 sahel
       3 sain
       5 sains
-     20 saint
       4 sainte
       3 sainteté
+     20 saint
       4 saints
-      5 saisi
       5 saisie
+      5 saisi
       7 saisine
       3 saisir
       7 sait
@@ -7253,38 +8036,40 @@
       4 salafistes
       5 salam
       3 salariés
+    217 sa
       6 salle
       2 salles
       1 salon
       4 saluant
       2 salue
       1 saluer
-      2 salut
       5 salué
+      2 salut
       5 salve
       9 salves
       4 samarra
     142 samedi
       4 samuel
-      5 san
       1 sana
+      2 séance
       2 sanction
       2 sanctionné
      11 sanctions
       4 sanctuaire
       2 sandra
       1 sandri
-     19 sang
-      2 sanglant
      14 sanglante
+      2 sanglant
+     19 sang
       5 sanitaire
       1 sanitaires
+      5 san
       3 sanour
     120 sans
      17 santa
       2 santiago
-      1 santorin
      34 santé
+      1 santorin
       2 saoudien
       3 saoudienne
       2 saoudiennes
@@ -7294,19 +8079,19 @@
       8 sarkozy
       3 satan
       6 satisfaire
-      2 satisfait
       1 satisfaite
+      2 satisfait
       1 saturés
       3 sauf
       5 saufs
      14 sauter
       2 sauvegarder
+      1 sauvée
       9 sauver
       4 sauvetage
       2 sauvetages
       9 sauveteurs
       6 sauvé
-      1 sauvée
       2 sauvés
       5 savaient
       1 savait
@@ -7320,16 +8105,21 @@
       2 scellé
       4 scellés
       2 sceptiques
+      1 sécession
       6 schengen
      12 schiavo
       4 schiphol
       5 schockenhoff
-      1 schroeder
      46 schröder
+      1 schroeder
      11 schwarzenegger
       4 schwarzy
       4 sciences
       4 scientifiques
+     13 scénario
+     13 scénarios
+     25 scène
+      5 scènes
       7 scolaire
       1 scolaires
       4 score
@@ -7339,37 +8129,37 @@
       2 scruter
      32 scrutin
       2 scrutins
-     25 scène
-      5 scènes
-     13 scénario
-     13 scénarios
+      1 sécurisé
+      7 sécuritaire
+     96 sécurité
+      1 sédation
       3 sdf
       1 sdérot
-    283 se
       4 sean
       1 sebastian
-     29 second
      22 seconde
       6 secondes
+     29 second
       2 secoue
       4 secouent
+      9 secoué
       1 secouristes
      30 secours
+      3 secoués
       7 secousse
       4 secousses
-      9 secoué
-      3 secoués
       5 secret
      15 secrets
+     10 secrétaire
       3 secrète
       8 secrètes
-     10 secrétaire
       7 secteur
       2 secteurs
       5 securitas
-      6 sein
       2 seine
+      6 sein
       4 seize
+    283 se
       2 seleçao
       7 seller
       7 sellette
@@ -7383,21 +8173,21 @@
       2 semer
       1 semé
       1 senji
-      1 sens
       1 sensibilisée
       2 sensibilité
       3 sensibles
+      1 sens
       1 sentent
-      5 senti
       1 sentie
+      5 senti
       1 sentiment
       6 sentiments
-     34 sept
      58 septembre
       2 septième
-     62 sera
+     34 sept
      14 seraient
      37 serait
+     62 sera
       5 serbe
      11 serbes
       6 serbie
@@ -7408,8 +8198,9 @@
       5 sermonne
       2 serons
      17 seront
-      9 serré
       1 serrée
+      9 serré
+      1 se résoudre
       3 sert
       4 servant
      14 service
@@ -7418,10 +8209,10 @@
     183 ses
       3 session
       3 seuil
-     23 seul
      27 seule
       4 seulement
       4 seules
+     23 seul
       4 seuls
       5 seurat
       2 sexagénaire
@@ -7430,13 +8221,12 @@
       2 sexuel
       2 sexuelle
      23 sexuels
-      1 se résoudre
       5 sgrena
       2 shabbat
       1 shanghai
-     72 sharon
       7 sharonisme
       7 sharoniste
+     72 sharon
       6 sheehan
       2 shepherd
       4 sherpas
@@ -7447,38 +8237,43 @@
       7 shoot
       1 shore
       3 show
-     89 si
       1 sibérienne
       1 sicario
       3 sicile
+     15 siècle
+      6 siècles
       6 sida
       1 sidique
       4 sifflements
+     25 siège
+     16 sièges
+      2 signalée
       1 signal
       4 signalé
-      2 signalée
       1 signalés
       2 signature
-      7 signe
-      2 signer
+      4 signe
+      1 signée
+      3 signe
       2 signera
+      2 signer
       2 significatif
       1 significative
       4 signifie
       2 signifierait
       2 signifié
-      4 signoles
       8 signé
-      1 signée
-      4 sil
+      4 signoles
+     89 si
      14 silence
       5 silencieux
       4 sillage
+      4 sil
       5 silva
       5 silvio
       1 simeulue
-      5 simon
       3 simona
+      5 simon
       6 simple
       3 simplement
       4 simpson
@@ -7490,43 +8285,52 @@
       2 sine
       3 singapour
       7 singulier
-      8 sinistre
       3 sinistrée
+      8 sinistre
      12 sinistrées
      18 sinistrés
       1 sinon
      16 sirleaf
+     48 séisme
       4 sismique
       5 sismiques
      30 site
      14 sites
+      5 sitôt
      46 situation
+      1 située
       2 situe
       5 situé
-      1 située
-      5 sitôt
      53 six
       4 sixtine
-     15 siècle
-      6 siècles
-     25 siège
-     16 sièges
+      7 séjour
+      1 séjours
       1 ski
       1 sky
       4 slapping
       1 slave
+    256 s
+      4 sélection
+      1 sélectionner
       4 slikken
       2 slip
+      4 sèment
+      3 séminaire
+      4 sémite
      10 smoking
       4 sms
+      1 sénateurs
+     18 sénat
+      2 sénégalais
+      2 sénégal
      11 sniper
       3 sobre
-     15 social
      10 sociale
       1 socialisme
      11 socialiste
       6 socialistes
       3 socialites
+     15 social
      12 sociaux
       3 sociologue
      26 société
@@ -7534,20 +8338,19 @@
      10 socrate
       1 sodano
      10 sofres
-      1 soi
       1 soient
       4 soigné
+      1 soi
       7 soins
+     11 soirée
     148 soir
       1 soirs
-     11 soirée
      26 soit
       5 soixantaine
      14 soixante
       1 soixantième
-     14 sol
-     18 soldat
      10 soldate
+     18 soldat
      42 soldats
       2 sole
       6 solennelle
@@ -7556,40 +8359,41 @@
       4 solidarités
       6 solide
       6 solitaire
-      1 sollicitude pour
+     14 sol
       1 sollicité
+      1 sollicitude pour
       9 solution
       1 solutions
       1 sombrait
       3 sommant
+      6 sommée
       1 somme
       5 sommes
      56 sommet
       1 sommé
-      6 sommée
-    277 son
      12 sondage
      20 sondages
       1 sonde
       3 sondés
-      5 sonné
+    277 son
       3 sonnée
+      5 sonné
       3 sonore
     202 sont
       7 sophie
       2 sordide
-     26 sort
      14 sortant
       6 sortent
-     11 sorti
       8 sortie
+     11 sorti
      11 sortir
       4 sortis
+     26 sort
       1 sos
       3 sosoliso
       4 souche
-      2 soudan
       3 soudanaise
+      2 soudan
       1 soueïra
       3 souffle
       3 souffrait
@@ -7597,9 +8401,9 @@
       2 souffrant
       1 souffrent
       1 souffriraient
-      1 souhait
      13 souhaite
       3 souhaitent
+      1 souhait
       5 souhaité
       1 souk
       1 souks
@@ -7613,31 +8417,45 @@
       1 soumettre
       5 soumis
       3 soupe
-     22 soupçonné
       4 soupçonnées
+     22 soupçonné
       3 soupçonnés
      10 soupçons
       4 source
       5 sources
       4 sourd
       5 sourire
-     81 sous
       5 sousin
+     81 sous
      10 soussan
       3 soutenir
-      4 soutenu
       1 soutenue
+      4 soutenu
       2 souterrain
      35 soutien
       1 soutient
      12 souvenir
       5 souvent
-     27 souverain
       2 souverainiste
+     27 souverain
       5 souviennent
       7 souvient
       1 soviétique
       3 soyez
+      1 séparant
+      4 séparatiste
+      8 séparatistes
+      5 séparée
+      4 spécialisée
+      4 spécialisées
+      1 spécialisé
+     21 spécialiste
+      3 spécialistes
+      9 spécial
+      1 spéciaux
+      3 spécifique
+      3 spéculations
+      2 spécule
      16 spd
       2 spectaculaire
       9 spielberg
@@ -7649,43 +8467,45 @@
       6 sportif
       2 sprint
       4 spuiten
-      9 spécial
-     21 spécialiste
-      3 spécialistes
-      1 spécialisé
-      4 spécialisée
-      4 spécialisées
-      1 spéciaux
-      3 spécifique
-      3 spéculations
-      2 spécule
       3 square
+      4 séquestration
+      1 séquestre
       4 srebrenica
+      2 sûre
+      1 série d
+     51 série
+      7 sérieusement
+      3 sérieuses
+     11 sérieux
       6 sri
-      3 st
+      2 sûr
       1 stabilisation
       1 stabilisées
       4 stable
      10 stade
       9 stan
       2 stanley
-     30 star
       3 stark
+     30 star
       6 stars
       7 state
+      1 station balnéaire
       8 station
       4 stationnaire
       4 stations
-      1 station balnéaire
       6 statut
       5 stephen
       6 steven
       4 steward
       5 stewart
+      4 sétif
+      3 st
+      3 stèles
       5 stockholm
       4 stockwell
       2 stoiber
       4 stopper
+      6 stéphane
       2 stratèges
      12 stratégie
       6 straw
@@ -7693,57 +8513,57 @@
       2 stress
       1 stricte
       3 style
-      3 stèles
-      6 stéphane
-      2 su
-      9 subi
       2 subie
+      9 subi
       4 subir
       2 subis
       1 subissent
-      2 subit
       1 subite
+      2 subit
       1 submergé
       1 substance
+      5 succède
+      4 succèdent
+      1 succédera
+      4 succéder
      16 successeur
       2 successeurs
       6 succession
       3 successives
       1 succombé
-      5 succède
-      4 succèdent
      21 succès
-      4 succéder
-      1 succédera
+      1 suède
     102 sud
+      3 suédoise
       5 suez
       1 suffi
       1 suffit
       4 suffrage
      13 suffrages
+      2 suggérant
       4 suggère
       3 suggèrent
-      2 suggérant
      50 suicide
       1 suicides
       5 suicidé
      11 suis
      27 suisse
       9 suisses
-      8 suit
      41 suite
      11 suites
+      8 suit
       2 suivante
-      7 suivi
       1 suivie
+      7 suivi
       8 suivre
       1 suivront
       3 sujet
      12 sujets
+      2 su
       4 sulfureux
       3 sumatra
-     12 sun
       5 sunday
+     12 sun
       9 sunnite
      14 sunnites
       6 sunshine
@@ -7753,54 +8573,62 @@
       2 supplémentaires
       3 supporters
       2 supprimer
+      3 supérieurs
       1 suprématie
      36 suprême
-      3 supérieurs
-    311 sur
       4 surenchère
       3 surfeurs
+    311 sur
       4 surmonter
       1 surnomment
      25 surprise
       2 surprises
       1 surptise
-      2 surs
       4 sursis
+      2 surs
      14 surtout
+      4 survécu
       2 surveillaient
       2 surveillance
       1 surveillée
       2 survenir
-     10 survenu
       6 survenue
       1 survenues
+     10 survenu
       2 surviennent
       1 survient
      13 survivant
      23 survivants
       5 survol
-      4 survécu
       5 susanne
       3 susceptibles
      10 suscite
       2 susciter
      10 suscité
       1 suse
-     17 suspect
-     19 suspects
-      4 suspecté
+      1 suspect
+      2 suspecté
+      2 suspect
+      1 suspecté
+      3 suspect
+      1 suspecté
+     11 suspect
       2 suspectés
+     19 suspects
       9 suspend
       4 suspendre
-     14 suspendu
      10 suspendue
       1 suspendues
-      2 suspens
+     14 suspendu
       5 suspense
       2 suspension
+      2 suspens
       3 sussex
-      1 suède
-      3 suédoise
+      4 sévices
+      3 sévir
+      2 sévissent
+      6 sévit
+      7 sévèrement
       3 sydney
      13 symbole
       9 symbolique
@@ -7819,58 +8647,29 @@
      18 syrienne
      10 syriennes
       9 syriens
+      2 systématique
       4 système
       2 systèmes
-      2 systématique
-      4 sèment
-      2 séance
-      1 sécession
-      1 sécurisé
-      7 sécuritaire
-     96 sécurité
-      1 sédation
-     48 séisme
-      7 séjour
-      1 séjours
-      4 sélection
-      1 sélectionner
-      3 séminaire
-      4 sémite
-     18 sénat
-      1 sénateurs
-      2 sénégal
-      2 sénégalais
-      1 séparant
-      4 séparatiste
-      8 séparatistes
-      5 séparée
-      4 séquestration
-      1 séquestre
-     51 série
-      7 sérieusement
-      3 sérieuses
-     11 sérieux
-      1 série d
-      4 sétif
-      4 sévices
-      3 sévir
-      2 sévissent
-      6 sévit
-      7 sévèrement
-      2 sûr
-      2 sûre
-     49 t
-      1 taba
      16 tabac
       1 tabagisme
-      3 table
+      1 taba
       1 tableau
+      3 table
+      1 établie
+     11 établir
+      4 établissement
+      2 établissements
+      2 établissent
+      1 établit
       2 tacite
       9 tactique
       3 tactiques
       1 taddei
+      1 étages
+     68 étaient
       3 taipeh
       5 taire
+    130 était
       3 talabani
       9 taliban
       2 talibans
@@ -7881,18 +8680,24 @@
      14 tandis
       1 tanganyika
       5 tans
-     15 tant
+      4 tant
+      6 étant
+     11 tant
       2 tanzanie
+     14 étape
+      2 étapes
       4 tard
       7 tarek
       1 taroudant
+     73 état
       4 taux
       1 taversé
+      8 taïwan
       3 taxe
       3 taya
-      8 taïwan
       1 tbilissi
       2 tchadien
+      2 tâche
       5 tchèque
       5 tchétchène
       3 tchétchènes
@@ -7903,24 +8708,26 @@
       1 technologie
       2 technologies
       1 tectoniques
-     16 tel
+      2 éteintes
+      3 éteint
       4 telegraph
+     16 tel
       2 telle
       4 tels
       6 temoignages
       1 temporaire
       7 temporairement
       1 temporisé
-     32 temps
       3 températures
+     32 temps
      22 tempête
       5 tenace
       2 tenait
       2 tenant
       3 tenants
       2 tend
-      6 tendu
       3 tendue
+      6 tendu
       2 tenir
      17 tension
       9 tensions
@@ -7929,21 +8736,23 @@
       3 tentatives
      14 tente
       6 tentent
-      6 tenter
       3 tenteraient
+      6 tenter
      27 tenté
-      9 tenu
      12 tenue
       3 tenues
+      9 tenu
       4 tenus
+      1 ôter
      20 terme
       6 terminal
       1 terminator
-      9 termine
-      2 terminer
-      1 terminera
-      2 terminé
+      4 termine
       6 terminée
+      5 termine
+      1 terminera
+      2 terminer
+      2 terminé
      13 terrain
       2 terrains
       1 terras
@@ -7952,8 +8761,8 @@
       6 terres
       3 terrestre
       4 terreur
-     12 terri
       4 terrible
+     12 terri
      10 territoire
      13 territoires
      10 territoriales
@@ -7963,65 +8772,189 @@
      49 terroristes
       1 terry
       9 test
-      4 tests
       3 testé
+      4 tests
       1 texane
       9 texas
      35 texte
     115 tf1
+      3 töging
       2 tgv
-      9 thatcher
       9 thaïlande
+      9 thatcher
      20 the
       7 theo
       2 there
       3 thierry
+      5 thé
+      1 thèmes
       6 thomas
       1 thoracique
-      8 thriller
-      1 thèmes
-     20 thèse
-      5 thé
       3 théoriciens
       3 théorie
       3 théoriquement
+     42 téhéran
+      8 thriller
+     20 thèse
       5 théâtre
       4 tiananmen
       3 tiennent
       5 tient
       3 tiers
+      5 étiez
       3 tigre
       1 tikrit
      13 time
      19 times
       2 timide
       4 timochenko
-      2 tir
+      3 étincelles
       2 tirant
      16 tirer
-     17 tirs
-     14 tiré
       7 tirées
+      2 tiré
+      2 tir
+     12 tiré
+     17 tirs
       2 titre
+      2 été
+      2 t
+      2 été
+      1 t
+      1 été
+      1 t
+     13 été
+      1 t
+      1 été
+      1 t
+      1 été
+      1 t
+     11 été
+      1 t
+      1 été
+      1 t
+      1 été
+      1 t
+     22 été
+      1 t
+      1 été
+      1 t
+      1 été
+      1 t
+      1 été
+      1 t
+      1 été
+      1 t
+      1 été
+      1 t
+      1 été
+      1 t
+      1 été
+      1 t
+      2 été
+      1 t
+      1 été
+      1 t
+      1 été
+      1 t
+     50 été
+      1 t
+      1 été
+      1 t
+      1 été
+      1 t
+      2 été
+      1 t
+      1 été
+      1 t
+      9 été
+      1 t
+      1 été
+      1 t
+      1 été
+      1 t
+      4 été
+      1 t
+      1 été
+      1 t
+      1 été
+      1 t
+      1 été
+      1 t
+      1 été
+      1 t
+      6 été
+      1 t
+      4 été
+      1 t
+      1 été
+      1 t
+      1 été
+      1 t
+     48 été
+      1 t
+      1 été
+      1 t
+     20 été
+      2 t
+     41 été
+      1 t
+      1 été
+      1 t
+      1 été
+      1 t
+      1 été
+      1 t
+      1 été
+      1 t
+      1 été
+      1 t
+      1 été
+      1 t
+     26 été
+      3 télécommandée
+      1 été libéré
+     10 téléphone
+      2 téléphoniques
+      3 téléphoné
+      6 téléphérique
+      1 téléréalité
+      2 téléspectateurs
+      8 télévangéliste
+      7 télévisée
+      1 télévisées
+     42 télévision
+      2 télévisions
+      3 télévisé
+     16 témoignage
+     21 témoignages
+     10 témoigne
+      8 témoignent
+     18 témoigner
+      1 témoigné
+     16 témoin
+     19 témoins
+      1 ténacité
       3 tns
-      7 to
-      5 togo
       2 togolaise
+      5 togo
       4 toi
+      5 étoiles
       5 toilettes
      16 toit
       1 toits
       8 tokyo
+      7 to
      12 tollé
       5 tolérés
-      3 tom
       1 tombe
-      8 tomber
       3 tombée
+      8 tomber
       3 tombées
      10 tombés
-     11 ton
+      3 tom
       1 tonbridge
+     11 ton
       2 tonnerre
       4 tonnes
      52 tony
@@ -8032,53 +8965,58 @@
       9 torrentielles
       2 torrents
       3 torretta
-      6 tort
       4 tortel
       2 tortionnaire
+      6 tort
       4 torture
-      6 tortures
-      4 torturé
+      5 tortures
       3 torturées
-     17 total
+      1 tortures
+      4 torturé
       2 totale
       4 totalement
       3 totalité
+     17 total
       2 touaregs
-      6 touche
+      1 touchée
+      4 touche
+      3 touchée
+      2 touche
+      8 touchée
       6 toucher
-     11 touché
-     12 touchée
      17 touchées
+     11 touché
       5 touchés
       3 toueni
     100 toujours
-     57 tour
       2 tourisme
       5 touriste
      35 touristes
       8 touristique
       4 touristiques
+     57 tour
       5 tourmente
       6 tourne
+      5 tournée
       5 tournent
       1 tourner
-      5 tourné
-      5 tournée
       3 tournées
+      5 tourné
      54 tous
-    108 tout
-     49 toute
      11 toutefois
+     49 toute
      22 toutes
+    108 tout
       2 toxicologiques
       7 toxique
      10 tpi
       4 tpiy
-      6 trace
+      2 trace
+      2 tracée
+      4 trace
       9 traces
       6 trachéotomie
      10 tractations
-      2 tracée
       4 trade
       5 tradition
       3 traditionnel
@@ -8091,60 +9029,71 @@
       1 traduit
       7 trafalgar
       4 trafic
-      4 tragique
       5 tragédie
+      4 tragique
       1 traian
      31 train
       6 trains
-     14 trait
       3 traitement
      11 traitements
       4 traitent
-     21 traité
+     17 traité
+      4 trait
+      1 traité
+      1 trait
+      1 traité
+      9 trait
+      2 traité
       3 trajectoire
+     28 étranger
+     24 étrangers
+     18 étrangère
+     22 étrangères
       3 transaction
       6 transatlantique
       1 transfert
       2 transforme
       1 transformer
-      1 transformé
       2 transformées
+      1 transformé
+      2 transférée
       8 transférer
       3 transféré
-      2 transférée
       3 transférés
       1 transitent
       5 transition
       1 transitoire
-      6 transmis
       2 transmise
+      6 transmis
       4 transparence
-      7 transport
       7 transportait
       5 transportant
       4 transporter
-     17 transports
       2 transporté
+      7 transport
+     17 transports
      18 traque
       1 traquent
-     20 travail
       6 travaillait
       6 travaillant
+     20 travail
       5 travaille
-      3 travailler
       1 travailleraient
+      3 travailler
       9 travailliste
       7 travaillistes
       6 travaux
-     11 travers
       6 traverse
       3 traverser
-      1 traversé
       1 traversées
+      2 travers
+      1 traversé
+      9 travers
       4 travolta
       3 treize
       2 treizième
       1 trek
+    174 être
      11 tremblement
      10 trembler
       1 tremonti
@@ -8160,48 +9109,62 @@
      16 triple
       3 tripoli
       1 tristesse
-    168 trois
+      5 trône
      24 troisième
       1 troisièmes
+    168 trois
       1 trois reprises
+      2 étroits
+      3 troïka
       4 trombes
       6 trompé
-     24 trop
      18 tropicale
+     24 trop
+      4 troublée
       3 troubler
      11 troubles
-      4 troublée
      21 troupes
       3 trouvaient
       2 trouvait
       2 trouvant
-     12 trouve
+      2 trouve
+      1 trouvée
+     10 trouve
       4 trouvent
       7 trouver
      25 trouvé
-      1 trouvée
-      3 troïka
-      6 trump
      76 très
+      6 trump
      29 trêve
-      5 trône
      44 tsahal
       5 tsi
      16 tsunami
+     59 tête
+      6 têtes
+     11 tôt
       1 tua
      10 tuant
       5 tucker
+      6 étude
+      2 étudiante
+      1 étudient
+      3 étudier
+      1 étudié
+      6 tuée
       8 tue
-     42 tuer
+      5 tuée
       1 tuerie
+     42 tuer
+     34 tuées
      17 tueur
+     86 tué
       4 tulkarem
       1 tuninter
-      5 tunis
       1 tunisair
       6 tunisie
       2 tunisien
       2 tunisiennes
+      5 tunis
       1 tunnel
      16 turc
       5 turcs
@@ -8210,75 +9173,42 @@
       3 turques
      40 turquie
       3 tusk
-      1 tutsis
-     86 tué
-     11 tuée
-     34 tuées
      72 tués
-      4 tv
+      1 tutsis
       2 tv5
+      4 tv
       6 twin
       3 type
       7 typhon
       3 tyrol
-      8 tÉmoignages
-      2 tâche
-     42 téhéran
-      3 télécommandée
-     10 téléphone
-      2 téléphoniques
-      3 téléphoné
-      6 téléphérique
-      1 téléréalité
-      2 téléspectateurs
-      8 télévangéliste
-     42 télévision
-      2 télévisions
-      3 télévisé
-      7 télévisée
-      1 télévisées
-     16 témoignage
-     13 témoignages
-     10 témoigne
-      8 témoignent
-     18 témoigner
-      1 témoigné
-     16 témoin
-     19 témoins
-      1 ténacité
-     59 tête
-      6 têtes
-     11 tôt
-      3 töging
       3 u2
       1 udc
-     65 ue
       2 ue3
+     65 ue
      11 ukraine
       3 ukrainien
       1 ukrainienne
       3 ulster
      15 ultimatum
       1 ultime
-     12 ultra
       4 ultraconservateur
+     12 ultra
       2 ultranationalistes
       1 ultérieur
       2 ump
-    326 un
       2 unanime
      16 unanimité
-    325 une
-      3 unesco
       1 une bombe
       1 une brève
+    325 une
       1 une magnitude
-     49 uni
+      3 unesco
       2 unicef
       4 unie
      24 unies
       5 unifiée
       7 unilatéralement
+     49 uni
       1 uninominal
      65 union
      10 unions
@@ -8293,82 +9223,102 @@
       3 universitaire
       9 université
       3 universités
+    326 un
       2 uns
      10 uranium
-      3 urbain
       6 urbaines
+      3 urbain
       2 urbi
      31 urgence
-      1 urgent
       2 urgente
+      1 urgent
       2 urinaires
      29 urnes
       1 urss
-     11 us
       2 usa
       4 usine
+     11 us
       3 uss
       2 utilisation
-      8 utilisé
       2 utilisée
       1 utilisées
+      8 utilisé
       6 utilisés
       4 utopie
-     40 va
      10 vacances
       3 vaches
+     40 évacuation
+     14 évacuations
+      2 évacuée
+      1 évacuent
+      3 évacuer
+     14 évacuées
+      8 évacué
+     17 évacués
      26 vague
-      2 vain
       1 vaincre
       6 vaincu
       2 vaincus
+      2 vain
      21 vainqueur
       1 vainqueurs
-      6 val
       2 valables
+     40 va
       1 valence
       3 valeur
       2 validation
       2 validité
       4 validé
-      1 valls
+      6 val
       1 vallée
+      1 valls
       3 valoir
-      5 valse
       3 valéry
-     14 van
+      5 valse
+      2 évaluée
+      3 évaluer
       2 vandalisme
       4 vanity
+     14 van
       2 vannes
+      2 évanoui
       1 varsovie
       2 vasculaire
+      1 évasion
      23 vaste
-     35 vatican
       1 vaticane
       1 vaticanes
+     35 vatican
       1 vautours
+     15 vécu
+      2 vécut
       3 vecteurs
       4 vedette
-     34 veille
-      1 veillé
+     16 veille
       3 veillée
+     18 veille
+      1 veillé
       5 velours
       3 venaient
       2 venait
-      5 vend
       4 vendeurs
+      5 vend
     151 vendredi
       2 vendus
       7 venezuela
       1 vengeance
       6 venger
      17 venir
-      4 vent
       8 vente
       1 ventes
+      4 vent
      12 vents
-     10 venu
+      4 éventuel
+     12 éventuelle
+      8 éventuelles
+      3 éventuels
      17 venue
+     10 venu
      12 venus
       5 verbale
       2 verbales
@@ -8377,34 +9327,40 @@
       2 verra
       2 verront
       5 verrous
-    104 vers
+      2 versée
       2 versements
       7 verser
       1 versets
       6 version
       6 versions
       1 versé
-      2 versée
-     15 vert
+    104 vers
       3 vertement
       1 vertige
+     15 vert
       7 vertu
       2 vertus
      28 veulent
      64 veut
+      5 végétatif
+      9 véhicule
+      6 véhicules
+      1 véhémence
       3 via
      34 vice
      43 victime
      81 victimes
+      2 éviction
      70 victoire
       3 victorieuse
+      2 évidemment
       5 vides
       1 videur
-     61 vidéo
       1 vidéoconférence
+     61 vidéo
      10 vidéos
-     76 vie
       4 vieil
+     76 vie
       9 viendra
      19 vienne
      10 viennent
@@ -8427,41 +9383,43 @@
      71 ville
      27 villepin
      18 villes
-      1 vin
       2 vincent
       4 vinci
       2 vindicatif
-      4 vingt
      13 vingtaine
-      3 viol
+      4 vingt
+      1 vin
       1 violation
       4 violemment
      28 violence
      53 violences
-     17 violent
      11 violente
      16 violentes
+     17 violent
       3 violents
-      2 violer
       1 violerait
+      2 violer
+      1 violé
+      1 viol
+      1 violé
+      2 viol
       5 viols
-      2 violé
       5 virage
       1 vire
       2 virginie
       1 virtuose
-      4 virulent
       2 virulentes
+      4 virulent
       5 virus
-      3 vis
-      5 visa
       4 visage
       1 visaient
       2 visait
+      5 visa
      11 visant
       7 visas
       6 vise
       8 viserait
+      3 visées
       1 visible
       4 visiblement
       2 visions
@@ -8470,20 +9428,28 @@
       1 visiter
       7 visites
       3 visité
-      1 visu
-     18 visé
-      3 visées
+      6 visé
+      3 vis
+     12 visé
       6 visés
-      4 vit
-      6 vital
+      1 visu
       1 vitales
+      6 vital
+      4 évitant
       1 vitaux
       5 vite
+      4 évite
+      4 évitent
+     29 éviter
       5 vitesse
+      1 vit
+      1 évité
+      3 vit
       5 vitriol
+      1 évités
       1 vivait
-      9 vivant
       9 vivantes
+      9 vivant
      16 vivants
      14 vive
      10 vivement
@@ -8492,6 +9458,13 @@
       4 vivre
       5 vivres
       9 vladimir
+      1 vélo
+      2 vénalité
+      3 événement
+     14 événements
+      2 vénérée
+     10 vénézuélien
+      1 vénézuéliennes
       1 vocation
       1 vocations
       3 voeux
@@ -8505,26 +9478,38 @@
      18 voiture
       7 voitures
      25 voix
-     33 vol
       4 volatilisé
       2 voler
       7 volet
       7 volets
+     33 vol
       6 volontairement
       9 volontaires
       1 volontarisme
      14 volonté
       3 vols
+      2 évolue
+     16 évolution
+      2 évolutions
      24 vont
+      5 évoquaient
+      2 évoquait
+      1 évoquant
+     10 évoque
+      1 évoquent
+      6 évoquer
+      1 évoquées
+      5 évoqué
+      4 évoqués
      15 vos
       1 votants
+      1 votée
      34 vote
       2 votent
      19 voter
       1 voteront
       1 votes
      13 voté
-      1 votée
       3 voulaient
       8 voulait
       4 vouloir
@@ -8534,33 +9519,23 @@
       4 voyageur
       2 voyageurs
       2 voyous
+      1 évêque
+      9 évêques
       3 vrai
-      1 vrais
       5 vraisemblablement
-      3 vrp
-      2 vs
-     10 vu
-     13 vue
-     13 vues
-      3 vulnérable
-     15 vécu
-      2 vécut
-      5 végétatif
-      9 véhicule
-      6 véhicules
-      1 véhémence
-      1 vélo
-      2 vénalité
-      2 vénérée
-     10 vénézuélien
-      1 vénézuéliennes
-      1 vérifier
+      1 vrais
       2 vérifiée
+      1 vérifier
       4 véritable
       1 véritablement
       5 vérité
+      3 vrp
+      2 vs
       2 vêtements
-     42 w
+     13 vue
+     13 vues
+     10 vu
+      3 vulnérable
       1 wadowice
       4 wagons
       5 walesa
@@ -8582,6 +9557,7 @@
       2 windsor
       3 winner
       2 wisconsin
+     42 w
      12 wojtyla
       4 wonderwoman
       2 word
@@ -8591,280 +9567,37 @@
       2 xxe
       1 xxiii
       4 xxème
-     98 y
       3 yacine
-      1 yam
-      8 yama
       1 yamaguchi
+      8 yama
+      1 yam
       2 yamoussoukro
      29 yard
       4 yasser
       2 yeni
       3 yes
       9 yeux
-     40 york
+     98 y
+      2 yémen
       6 yorkais
+     40 york
       2 yorkshire
       4 yougoslavie
       4 young
       3 younès
      10 yucatan
       1 yves
-      2 yémen
       5 zacarias
       9 zambie
       2 zambienne
       1 zamboanga
      10 zapatero
+      1 zaïre
       4 zarkaoui
      38 zarqaoui
       6 zawahari
      15 zawahiri
-      1 zaïre
      25 zone
      21 zones
      13 zoophile
       4 zoophilie
-      2  de
-      3  devant
-      3  estime
-      2  premier
-      1  qui
-      1 «
-    328 à
-      4 àlondres
-     10 âge
-     10 âgé
-      1 âgée
-      3 âne
-      3 âpres
-      5 ça
-      5 ère
-      4 ébats
-      2 ébranle
-      4 ébranlée
-      4 écarte
-      2 écarter
-     10 écarté
-      2 écartés
-     12 échange
-      2 échanger
-      3 échanges
-      2 échangés
-      3 échappait
-     11 échappe
-      2 échappé
-      2 échauffourées
-      8 échec
-     18 échelle
-      1 écheveau
-      3 écho
-      2 échouer
-      1 échoué
-      1 éclabousse
-      5 éclaboussé
-      3 éclaboussée
-     10 éclair
-      1 éclaircissements
-      6 éclat
-      2 éclate
-      6 éclaté
-     15 école
-      7 écoles
-      3 écolière
-      2 écologiste
-      4 éconduit
-      2 économie
-      8 économique
-      4 économiques
-      6 économiste
-      1 écopé
-      2 écornée
-      1 écossaise
-      2 écoulée
-      3 écoulées
-      1 écourte
-      9 écoute
-      1 écouter
-      8 écoutes
-      2 écrans
-     12 écrase
-      2 écrasement
-     21 écrasé
-      2 écrit
-      4 écrivain
-      4 édifices
-     16 édition
-      3 éditorialistes
-      4 éducation
-     34 également
-      2 égalerait
-      6 égalité
-      2 égard
-      7 égarés
-      5 égide
-      4 église
-      6 églises
-      5 égoïsmes
-     10 égyptien
-     10 égyptienne
-      4 égyptiennes
-      2 égyptiens
-      3 égérie
-      1 élaborer
-      3 élaboré
-      4 élan
-      2 élargie
-      2 élargissement
-     19 électeurs
-     41 élection
-     48 élections
-      4 électoral
-     13 électorale
-      2 électorales
-      5 électorat
-      4 électricien
-     15 électricité
-      3 électrique
-      2 éleveur
-      1 élevé
-      6 élevée
-      1 élevés
-      2 éliminations
-      2 éliminer
-     18 élire
-      2 élisaient
-      3 élisent
-      3 élit
-      8 éloigne
-      2 éloigner
-      1 éloignée
-      2 éloignés
-     31 élu
-      6 élue
-      9 élus
-      2 élève
-      2 élèvent
-      1 élèverait
-     11 élèves
-      5 éléments
-      1 émaillées
-      1 émancipe
-      2 émergents
-      2 émeute
-     14 émeutes
-      6 émigrants
-      4 émigration
-      2 émigrés
-      6 éminence
-      2 émis
-     14 émission
-      2 émissions
-      2 émoi
-      8 émotion
-      4 émus
-     11 énergie
-      2 énergétique
-      2 énormes
-      2 énumère
-      2 épais
-      5 épargne
-      2 épargner
-      6 épargné
-      5 épargnées
-      1 épaule
-      4 épidémie
-      4 épilogue
-      5 épingle
-      1 épinglé
-      2 épisode
-      1 épithètes
-      9 éponge
-      8 époque
-     13 épouse
-      1 époux
-      5 éprend
-      2 éprouvantes
-      2 épuisés
-      3 équatorien
-     17 équipage
-     17 équipe
-     17 équipes
-      2 équipée
-      2 équitable
-      4 équivalent
-      1 érodé
-      1 établie
-     11 établir
-      4 établissement
-      2 établissements
-      2 établissent
-      1 établit
-      1 étages
-     68 étaient
-    130 était
-      6 étant
-     14 étape
-      2 étapes
-     73 état
-      3 éteint
-      2 éteintes
-      5 étiez
-      3 étincelles
-      5 étoiles
-     28 étranger
-     24 étrangers
-     18 étrangère
-     22 étrangères
-      2 étroits
-      6 étude
-      2 étudiante
-      1 étudient
-      3 étudier
-      1 étudié
-    294 été
-      1 été libéré
-     40 évacuation
-     14 évacuations
-      1 évacuent
-      3 évacuer
-      8 évacué
-      2 évacuée
-     14 évacuées
-     17 évacués
-      3 évaluer
-      2 évaluée
-      2 évanoui
-      1 évasion
-      4 éventuel
-     12 éventuelle
-      8 éventuelles
-      3 éventuels
-      2 éviction
-      2 évidemment
-      4 évitant
-      4 évite
-      4 évitent
-     29 éviter
-      1 évité
-      1 évités
-      2 évolue
-     16 évolution
-      2 évolutions
-      5 évoquaient
-      2 évoquait
-      1 évoquant
-     10 évoque
-      1 évoquent
-      6 évoquer
-      5 évoqué
-      1 évoquées
-      4 évoqués
-      3 événement
-     14 événements
-      1 évêque
-      9 évêques
-    174 être
-     17 île
-      1 îles
-      1 ôter
