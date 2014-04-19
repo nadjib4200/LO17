@@ -29,13 +29,20 @@ public class Main {
 				System.out.println("Lemme trouvé : " + mot + " = " + lemme);
 			// proximité
 			} else {
-				HashMap<String, Integer> res = lex.getPrefixList(mot);
-				if (!res.isEmpty()) {
+				HashMap<String, Integer> resPrefix = lex.getPrefixList(mot);
+				if (!resPrefix.isEmpty()) {
 					System.out.println("Les préfixes :");
-					Lexique.afficherLemmProxBest(res);
-				// levanstein
+					Lexique.afficherLemmProxBest(resPrefix);
+				// Levenshtein
 				} else {
-					
+					HashMap<String, Integer> resLev = lex.getLevenshteinList(mot);
+					if (!resLev.isEmpty()) {
+						System.out.println("Les couts Levenshtein sont :");
+						Lexique.afficherLemmLevenshteinBest(resLev);
+					// retourne mot
+					} else {
+						System.out.println("Aucun mot n'a été trouvé :");
+					}
 				}
 			}
 			System.out.println();
