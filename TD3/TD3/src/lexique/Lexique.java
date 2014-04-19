@@ -9,6 +9,8 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Properties;
 
+import javax.swing.text.MaskFormatter;
+
 public class Lexique {
 	
 	/**
@@ -180,10 +182,10 @@ public class Lexique {
 				d3 = dist[i][j - 1] + cout('\0', motLex.charAt(j - 1));
 				//System.out.print("d1 = " + d1 + " d2 = " + d2 + " d3 = " + d3);
 				
+				// pour la matrice des zéros
 //				int d11 = cout(mot.charAt(i - 1), motLex.charAt(j - 1));
 //				int d22 = cout(mot.charAt(i - 1), '\0');
 //				int d33 = cout('\0', motLex.charAt(j - 1));
-//				
 //				int min1 = Math.min(d11, d22);
 //				cout[i - 1][j - 1] = Math.min(min1, d33);
 				
@@ -201,13 +203,39 @@ public class Lexique {
 //			System.out.println();
 //		}
 
-		// affichage tableau couts
+//		int res_nb_zero_lignes = 0;
+//		boolean lig = false;
+//		// calcul nombre lignes où il y a des 0 dans la matrice des couts
 //		for (int i = 0; i < Math.abs(long1); i++) {
+//			lig = false;
 //			for (int j = 0; j < Math.abs(long2); j++) {
 //				System.out.print("(" + i + "," + j + ") = " + cout[i][j] + " "); 
+//				if (cout[i][j] == 0 && lig == false) {
+//					res_nb_zero_lignes++;
+//					lig = true;
+//				}
 //			}
 //			System.out.println();
 //		}
+//		System.out.println("Nombre de zéros - lignes - matrices des coûts : " + res_nb_zero_lignes);
+		
+//		int res_nb_zero_colonnes = 0;
+//		boolean col = false;
+//		// calcul nombre lignes où il y a des 0 dans la matrice des couts
+//		for (int i = 0; i < Math.abs(long2); i++) {
+//			col = false;
+//			for (int j = 0; j < Math.abs(long1); j++) {
+//				System.out.print("(" + i + "," + j + ") = " + cout[j][i] + " "); 
+//				if (cout[j][i] == 0 && col == false) {
+//					res_nb_zero_colonnes++;
+//					col = true;
+//				}
+//			}
+//			System.out.println();
+//		}
+//		System.out.println("Nombre de zéros - colonnes - matrices des coûts : " + res_nb_zero_colonnes);
+		
+//		System.out.println("Nombre lettres communes : " + Math.min(res_nb_zero_lignes, res_nb_zero_colonnes));
 		
 		distance = dist[long1][long2];
 //		System.out.println("Distance entre " + mot + " et " + motLex + " = " + distance);

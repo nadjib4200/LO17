@@ -48,7 +48,7 @@ public class Main {
 			System.out.println();
 		}
 		
-//		System.out.println("Res = " + lex.calculCoutLev("abbcc", "abcdefgh"));
+//		System.out.println("Coût Levenshtein : " + lex.calculCoutLev("abcdefgh", "abbcc"));
 		
 		// lire requete LN
 		// tokeniser requete
