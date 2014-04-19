@@ -26,18 +26,18 @@ public class Main {
 			String lemme = lex.getLemme(mot);
 			// lemme exist
 			if (lemme != null) {
-				System.out.println("Lemme trouvé : " + mot + " = " + lemme);
+				System.out.println("Ce mot est dans le lexique, son lemme est : " + lemme);
 			// prefix
 			} else {
 				HashMap<String, Integer> resPrefix = lex.getPrefixList(mot);
 				if (!resPrefix.isEmpty()) {
-					System.out.println("Les préfixes :");
+					System.out.println("[Méthode préfixe] La liste des meilleurs lemmes candidats :");
 					Lexique.afficherLemmProxBest(resPrefix);
 				// Levenshtein
 				} else {
 					HashMap<String, Integer> resLev = lex.getLevenshteinList(mot);
 					if (!resLev.isEmpty()) {
-						System.out.println("Les couts Levenshtein sont :");
+						System.out.println("[Méthode Levenshtein] La liste des meilleurs lemmes candidats :");
 						Lexique.afficherLemmLevenshteinBest(resLev);
 					// retourne mot
 					} else {

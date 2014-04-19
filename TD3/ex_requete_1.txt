@@ -1,0 +1,29 @@
+Saisie : grenade grenades granade grnade graanade graaanade
+J'ai saisi : grenade grenades granade grnade graanade graaanade
+Nombre de mots saisis : 6
+
+================== grenade
+Ce mot est dans le lexique, son lemme est : grenade
+
+================== grenades
+Ce mot est dans le lexique, son lemme est : grenade
+
+================== granade
+[Méthode préfixe] La liste des meilleurs lemmes candidats :
+(lemme : grands , prox : 66)
+(lemme : grande , prox : 66)
+(lemme : grandi , prox : 66)
+(lemme : grand , prox : 66)
+(lemme : graner , prox : 66)
+
+================== grnade
+[Méthode Levenshtein] La liste des meilleurs lemmes candidats :
+(lemme : grenade, cout lev : 1)
+
+================== graanade
+[Méthode Levenshtein] La liste des meilleurs lemmes candidats :
+(lemme : grande , cout lev : 2)
+(lemme : grenade, cout lev : 2)
+
+================== graaanade
+Aucun mot n'a été trouvé.
