@@ -44,7 +44,7 @@ public class Lexique {
 	public String getLemme(String mot) {
 		InputStreamReader isr = null;
 		try {
-			isr = new InputStreamReader(new FileInputStream("res/extrait_lexicA12.txt"), "UTF8");
+			isr = new InputStreamReader(new FileInputStream("res/lemm.txt"), "UTF8");
 		} catch (UnsupportedEncodingException | FileNotFoundException e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
