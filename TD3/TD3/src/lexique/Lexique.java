@@ -128,10 +128,11 @@ public class Lexique {
 		for (String motLex : properties.stringPropertyNames()) {
 
 			int distance = calculCoutLev(mot, motLex);
+//			System.out.println("Distance = " + mot + " - " + motLex + " => " + distance);
 			
 			if (distance < SEUILLEVENSHTEIN) {
 				String lemme = properties.getProperty(motLex);
-				if (lemmLevenshtein.containsKey(lemme) && distance > lemmLevenshtein.get(lemme)) {
+				if (lemmLevenshtein.containsKey(lemme) && distance < lemmLevenshtein.get(lemme)) {
 					lemmLevenshtein.put(lemme, distance);
 				} else if (!lemmLevenshtein.containsKey(lemme)) {
 					lemmLevenshtein.put(lemme, distance);
@@ -151,29 +152,29 @@ public class Lexique {
 	private int calculCoutLev(String mot, String motLex) {
 		int long1 = mot.length();
 		int long2 = motLex.length();
-		int d1, d2, d3, distance;
+		int d1 = 0, d2 = 0, d3 = 0, distance = 0;
 
 //		System.out.println("mot : " + mot + " (taille : " + long1 + ") - motLex : " + motLex + " (taille : " + long2 + ")");
 		
-		int[][] dist = new int[long1][long2];
+		int[][] dist = new int[long1 + 1][long2 + 1];
 		dist[0][0] = 0;
 		
 		// initialisation de la première colonne
-		for (int i = 1; i < Math.abs(long1); i++) {
-			dist[i][0] = dist[i - 1][0] + cout(mot.charAt(i),'\0');
+		for (int i = 1; i <= Math.abs(long1); i++) {
+			dist[i][0] = dist[i - 1][0] + cout(mot.charAt(i - 1),'\0');
 		}
 		
 		// initialisation de la première ligne
-		for (int j = 1; j < Math.abs(long2); j++) {
-			dist[0][j] = dist[0][j - 1] + cout('\0', motLex.charAt(j));
+		for (int j = 1; j <= Math.abs(long2); j++) {
+			dist[0][j] = dist[0][j - 1] + cout('\0', motLex.charAt(j - 1));
 		}
 		
 		// calcul de la distance de Levenshtein
-		for (int i = 1; i < Math.abs(long1); i++) {
-			for (int j = 1; j < Math.abs(long2); j++) {
-				d1 = dist[i -1][j - 1] + cout(mot.charAt(i), motLex.charAt(j));
-				d2 = dist[i -1][j] + cout(mot.charAt(i), '\0');
-				d3 = dist[i][j - 1] + cout('\0', motLex.charAt(j));
+		for (int i = 1; i <= Math.abs(long1); i++) {
+			for (int j = 1; j <= Math.abs(long2); j++) {
+				d1 = dist[i -1][j - 1] + cout(mot.charAt(i - 1), motLex.charAt(j - 1));
+				d2 = dist[i -1][j] + cout(mot.charAt(i - 1), '\0');
+				d3 = dist[i][j - 1] + cout('\0', motLex.charAt(j - 1));
 				//System.out.print("d1 = " + d1 + " d2 = " + d2 + " d3 = " + d3);
 				
 				d1 = Math.min(d1, d2);
@@ -182,7 +183,15 @@ public class Lexique {
 			}
 		}
 		
-		distance = dist[long1 - 1][long2 - 1];
+		// affichage tableau levenshtein
+//		for (int i = 0; i <= Math.abs(long1); i++) {
+//			for (int j = 0; j <= Math.abs(long2); j++) {
+//				System.out.print("(" + i + "," + j + ") = " + dist[i][j] + " "); 
+//			}
+//			System.out.println();
+//		}
+		
+		distance = dist[long1][long2];
 //		System.out.println("Distance entre " + mot + " et " + motLex + " = " + distance);
 
 		return distance;
@@ -274,6 +283,8 @@ public class Lexique {
 	 * @return
 	 */
 	public HashMap<String, Integer> constructLemmProxBest() {
+		// init
+		lemmProxBest = new HashMap<String, Integer>();
 		int proxMax = getMaxLemmProx();
 		Iterator<Map.Entry<String, Integer>> i = lemmProx.entrySet().iterator(); 
 		while (i.hasNext()) {
@@ -287,19 +298,19 @@ public class Lexique {
 	}
 	
 	/**
-	 * Retourne maximum Levenshtein
+	 * Retourne mininum Levenshtein
 	 * @return
 	 */
-	public int getMaxLemmLevenshtein() {
+	public int getMinLemmLevenshtein() {
 		Iterator<Map.Entry<String, Integer>> i = lemmLevenshtein.entrySet().iterator(); 
-		int levMax = 0;
-		while (i.hasNext()){
-		    int prox = i.next().getValue();
-		    if (prox > levMax) {
-		    	levMax = prox;
+		int levMin = SEUILLEVENSHTEIN;
+		while (i.hasNext()) {
+		    int lev = i.next().getValue();
+		    if (lev < levMin) {
+		    	levMin = lev;
 		    }
 		}
-		return levMax;
+		return levMin;
 	}
 	
 	/**
@@ -307,13 +318,15 @@ public class Lexique {
 	 * @return
 	 */
 	public HashMap<String, Integer> constructLemmLevenshteinBest() {
-		int levMax = getMaxLemmLevenshtein();
+		// init
+		lemmLevenshteinBest = new HashMap<String, Integer>();
+		int levMin = getMinLemmLevenshtein();
 		Iterator<Map.Entry<String, Integer>> i = lemmLevenshtein.entrySet().iterator(); 
 		while (i.hasNext()) {
 			String lemme = i.next().getKey();
-			int prox = lemmLevenshtein.get(lemme);
-		    if (prox == levMax) {
-		    	lemmLevenshteinBest.put(lemme, prox);
+			int lev = lemmLevenshtein.get(lemme);
+		    if (lev == levMin) {
+		    	lemmLevenshteinBest.put(lemme, lev);
 		    }
 		}
 		return lemmLevenshteinBest;
@@ -329,7 +342,7 @@ public class Lexique {
 		if (a == '\0' || b == '\0'){
 			return 1;
 		} else {
-			if(a == b){
+			if (a == b) {
 				return 0;
 			}
 		}

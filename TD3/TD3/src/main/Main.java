@@ -27,7 +27,7 @@ public class Main {
 			// lemme exist
 			if (lemme != null) {
 				System.out.println("Lemme trouvé : " + mot + " = " + lemme);
-			// proximité
+			// prefix
 			} else {
 				HashMap<String, Integer> resPrefix = lex.getPrefixList(mot);
 				if (!resPrefix.isEmpty()) {
@@ -41,7 +41,7 @@ public class Main {
 						Lexique.afficherLemmLevenshteinBest(resLev);
 					// retourne mot
 					} else {
-						System.out.println("Aucun mot n'a été trouvé :");
+						System.out.println("Aucun mot n'a été trouvé.");
 					}
 				}
 			}
