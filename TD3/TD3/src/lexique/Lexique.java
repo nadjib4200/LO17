@@ -89,7 +89,7 @@ public class Lexique {
 	 * @param motLex
 	 * @return
 	 */
-	private int calculProx(String mot, String motLex) {
+	public int calculProx(String mot, String motLex) {
 		int long1 = mot.length();
 		int long2 = motLex.length();
 
@@ -149,7 +149,7 @@ public class Lexique {
 	 * @param motLex
 	 * @return
 	 */
-	private int calculCoutLev(String mot, String motLex) {
+	public int calculCoutLev(String mot, String motLex) {
 		int long1 = mot.length();
 		int long2 = motLex.length();
 		int d1 = 0, d2 = 0, d3 = 0, distance = 0;
@@ -169,6 +169,9 @@ public class Lexique {
 			dist[0][j] = dist[0][j - 1] + cout('\0', motLex.charAt(j - 1));
 		}
 		
+		// matrice des couts lev
+//		int[][] cout = new int[long1 + 1][long2 + 1];
+		
 		// calcul de la distance de Levenshtein
 		for (int i = 1; i <= Math.abs(long1); i++) {
 			for (int j = 1; j <= Math.abs(long2); j++) {
@@ -176,6 +179,13 @@ public class Lexique {
 				d2 = dist[i -1][j] + cout(mot.charAt(i - 1), '\0');
 				d3 = dist[i][j - 1] + cout('\0', motLex.charAt(j - 1));
 				//System.out.print("d1 = " + d1 + " d2 = " + d2 + " d3 = " + d3);
+				
+//				int d11 = cout(mot.charAt(i - 1), motLex.charAt(j - 1));
+//				int d22 = cout(mot.charAt(i - 1), '\0');
+//				int d33 = cout('\0', motLex.charAt(j - 1));
+//				
+//				int min1 = Math.min(d11, d22);
+//				cout[i - 1][j - 1] = Math.min(min1, d33);
 				
 				d1 = Math.min(d1, d2);
 				dist[i][j] = Math.min(d1, d3);
@@ -187,6 +197,14 @@ public class Lexique {
 //		for (int i = 0; i <= Math.abs(long1); i++) {
 //			for (int j = 0; j <= Math.abs(long2); j++) {
 //				System.out.print("(" + i + "," + j + ") = " + dist[i][j] + " "); 
+//			}
+//			System.out.println();
+//		}
+
+		// affichage tableau couts
+//		for (int i = 0; i < Math.abs(long1); i++) {
+//			for (int j = 0; j < Math.abs(long2); j++) {
+//				System.out.print("(" + i + "," + j + ") = " + cout[i][j] + " "); 
 //			}
 //			System.out.println();
 //		}

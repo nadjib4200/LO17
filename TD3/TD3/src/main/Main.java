@@ -48,6 +48,8 @@ public class Main {
 			System.out.println();
 		}
 		
+//		System.out.println("Res = " + lex.calculCoutLev("abbcc", "abcdefgh"));
+		
 		// lire requete LN
 		// tokeniser requete
 		// lire chaque mot
