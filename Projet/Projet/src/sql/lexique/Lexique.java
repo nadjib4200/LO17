@@ -1,4 +1,4 @@
-package lexique;
+package sql.lexique;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
