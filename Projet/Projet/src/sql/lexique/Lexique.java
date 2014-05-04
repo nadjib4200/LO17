@@ -9,8 +9,6 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Properties;
 
-import javax.swing.text.MaskFormatter;
-
 public class Lexique {
 	
 	/**
@@ -41,10 +39,10 @@ public class Lexique {
 	/**
 	 * Constructor
 	 */
-	public Lexique(String fichierLexique) {
+	public Lexique() {
 		InputStreamReader isr = null;
 		try {
-			isr = new InputStreamReader(new FileInputStream(fichierLexique), "UTF8");
+			isr = new InputStreamReader(new FileInputStream("res/lemm_td2.txt"), "UTF8");
 		} catch (UnsupportedEncodingException | FileNotFoundException e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
@@ -131,10 +129,8 @@ public class Lexique {
 		// init
 		lemmLevenshtein = new HashMap<String, Integer>();
 		
-		// parcours ensemble des mots du lexique 
-		// et calcul levenshtein avec mot requete
+		// parcours ensemble des mots du lexique et calcul levenshtein avec mot requete
 		for (String motLex : properties.stringPropertyNames()) {
-
 			int distance = calculCoutLev(mot, motLex);
 //			System.out.println("Distance = " + mot + " - " + motLex + " => " + distance);
 			
