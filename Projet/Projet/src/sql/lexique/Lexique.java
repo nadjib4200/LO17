@@ -39,14 +39,12 @@ public class Lexique {
 	private static final int SEUILLEVENSHTEIN = 3;
 	
 	/**
-	 * Recupère le lemme associé à un mot
-	 * @param mot
-	 * @return
+	 * Constructor
 	 */
-	public String getLemme(String mot) {
+	public Lexique(String fichierLexique) {
 		InputStreamReader isr = null;
 		try {
-			isr = new InputStreamReader(new FileInputStream("res/lemm_td2.txt"), "UTF8");
+			isr = new InputStreamReader(new FileInputStream(fichierLexique), "UTF8");
 		} catch (UnsupportedEncodingException | FileNotFoundException e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
@@ -56,6 +54,14 @@ public class Lexique {
 		} catch (IOException e) {
 			System.out.println(e);
 		}
+	}
+
+	/**
+	 * Recupère le lemme associé à un mot
+	 * @param mot
+	 * @return
+	 */
+	public String getLemme(String mot) {
 //		afficherLexique();
 		return properties.getProperty(mot);
 	}

@@ -17,22 +17,48 @@ public class Main {
 	public static void main(String[] args) {
 		
 		// lexique
-		Lexique lexique = new Lexique();
+		Lexique lexique = new Lexique("res/lemm_td2.txt");
 		
+		// requete normalisée
+		String reqNormalisee = "";
+		
+		// mot question
+		String motQuestionEnCours = "";
+		
+		// question
+		String questionEnCours = "";
+
 		// lecture fichier questions
 		CatAmeliore fichierQuestions = new CatAmeliore("res/questions.txt");
-
-		String questionEnCours = "";
 		
 		// on parcours chaque question
 		while ((questionEnCours = fichierQuestions.getProchaineQuestion()) != null) {
 			
-			System.out.println("Question : " + questionEnCours);
-			
 			if (!questionEnCours.isEmpty()) {
-		
+				
+				System.out.println("=====================================");
+				System.out.println("Question : " + questionEnCours);
+				System.out.println("=====================================");
+				
 				// requete normalisée
-				String reqNormalisee = "";
+				reqNormalisee = "";
+				
+				// question en minuscules
+				questionEnCours = questionEnCours.toLowerCase();
+				
+				/**
+				 * Traitements sur la question
+				 */
+				// suppression du .
+				questionEnCours = questionEnCours.replaceAll("\\.", "");
+				// suppression du ?
+				questionEnCours = questionEnCours.replaceAll("\\?", "");
+				// suppression du "
+				questionEnCours = questionEnCours.replaceAll("\"", "");
+				// suppression du ,
+				questionEnCours = questionEnCours.replaceAll(",", "");
+				// suppression du ;
+				questionEnCours = questionEnCours.replaceAll(";", "");
 				
 				// tokeniser la question 
 				StringTokenizer st = new StringTokenizer(questionEnCours, " ");
@@ -41,9 +67,31 @@ public class Main {
 				
 				// parcours mots question
 				while (st.hasMoreTokens()) {
-					String mot = st.nextToken().toLowerCase();
-	//				System.out.println("================== " + mot);
-					String lemme = lexique.getLemme(mot);
+					motQuestionEnCours = st.nextToken();
+//					System.out.println("================== " + mot);
+					
+					/**
+					 * Traitements sur chaque token
+					 */
+					// suppression du d'
+					if ((motQuestionEnCours.charAt(0) == 'd') && (motQuestionEnCours.charAt(1) == '\'')) {
+						motQuestionEnCours = motQuestionEnCours.replaceAll("d'", "");
+					}
+					// suppression du l'
+					if ((motQuestionEnCours.charAt(0) == 'l') && (motQuestionEnCours.charAt(1) == '\'')) {
+						motQuestionEnCours = motQuestionEnCours.replaceAll("l'", "");
+					}
+					// suppression du j'
+					if ((motQuestionEnCours.charAt(0) == 'j') && (motQuestionEnCours.charAt(1) == '\'')) {
+						motQuestionEnCours = motQuestionEnCours.replaceAll("j'", "");
+					}
+					
+//					System.out.println("===***=============== " + mot);
+					
+					/**
+					 *  On récupère le lemme - méthode simple
+					 */
+					String lemme = lexique.getLemme(motQuestionEnCours);
 					// lemme exist
 					if (lemme != null) {
 	//					System.out.println("Ce mot est dans le lexique, son lemme est : " + lemme);
@@ -51,7 +99,10 @@ public class Main {
 						reqNormalisee = reqNormalisee.concat(lemme + " ");
 					// prefix
 					} else {
-						HashMap<String, Integer> resPrefix = lexique.getPrefixList(mot);
+						/**
+						 * On récupère liste lemmes - méthode préfix
+						 */
+						HashMap<String, Integer> resPrefix = lexique.getPrefixList(motQuestionEnCours);
 						if (!resPrefix.isEmpty()) {
 	//						System.out.println("[Méthode préfixe] La liste des meilleurs lemmes candidats :");
 	//						Lexique.afficherLemmProxBest(resPrefix);
@@ -61,7 +112,10 @@ public class Main {
 							reqNormalisee = reqNormalisee.concat(lemmeChoisi + " ");
 						// Levenshtein
 						} else {
-							HashMap<String, Integer> resLev = lexique.getLevenshteinList(mot);
+							/**
+							 * On récupère liste lemmes - méthode levenshtein
+							 */
+							HashMap<String, Integer> resLev = lexique.getLevenshteinList(motQuestionEnCours);
 							if (!resLev.isEmpty()) {
 	//							System.out.println("[Méthode Levenshtein] La liste des meilleurs lemmes candidats :");
 	//							Lexique.afficherLemmLevenshteinBest(resLev);
@@ -71,26 +125,40 @@ public class Main {
 								reqNormalisee = reqNormalisee.concat(lemmeChoisi + " ");
 							// retourne mot
 							} else {
+								/**
+								 * On retourne le mot
+								 */
 	//							System.out.println("Aucun mot n'a été trouvé.");
-								reqNormalisee = reqNormalisee.concat(mot + " ");
+								reqNormalisee = reqNormalisee.concat(motQuestionEnCours + " ");
 							}
 						}
 					}
 				}
 				
-				// on supprime espace début, fin de chaine 
-				// et les espaces en trop
-				// et on ajoute le point à la fin
+
+				/**
+				 * Quelques traitements sur la requete normalisée
+				 * 
+				 * on supprime espace début, fin de chaine (trim)
+				 * et les espaces en trop
+				 * et on ajoute le point à la fin s'il n'y est pas
+				 */
 				reqNormalisee = reqNormalisee.trim();
 				reqNormalisee = reqNormalisee.replaceAll(" {2,}"," ");
 				if (!(reqNormalisee.charAt(reqNormalisee.length() - 1) == '.')) {
 					reqNormalisee = reqNormalisee.concat(".");
 				}
+				
+				/**
+				 * Affichage requete normalisée
+				 */
 				System.out.println("=====================================");
 				System.out.println("Requête normalisée : " + reqNormalisee);
 				System.out.println("=====================================");
 				
-				// requete normalisée => affichage arbre
+				/**
+				 * Requete normalisée => affichage requete sql
+				 */
 		    	try{
 		    		tal_sqlLexer lexer = new tal_sqlLexer(new ANTLRReaderStream(new StringReader(reqNormalisee)));
 		      		CommonTokenStream tokens = new CommonTokenStream(lexer);
@@ -117,6 +185,6 @@ public class Main {
 			// Si rien trouvé, retourner mot
     	
 //		System.out.println("Coût Levenshtein : " + lex.calculCoutLev("abcdefgh", "abbcc"));
+		
 	}
-
 }
