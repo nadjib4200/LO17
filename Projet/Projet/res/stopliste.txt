@@ -64,3 +64,5 @@ un	stop
 w.	 
 W.	 
 y	stop
+et	stop
+ou	stop

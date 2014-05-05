@@ -12,7 +12,7 @@ public class LexiqueSimple {
 	/**
 	 * HashMap clé(mot)=valeur(lemme)
 	 */
-	private static Properties properties = new Properties();
+	private Properties properties = new Properties();
 	
 	/**
 	 * Constructor

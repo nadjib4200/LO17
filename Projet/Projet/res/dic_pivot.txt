@@ -73,5 +73,4 @@ email	email
 mail	email
 contenir	contenir
 vouloir	vouloir
-et	et
-ou	ou
+theme	theme

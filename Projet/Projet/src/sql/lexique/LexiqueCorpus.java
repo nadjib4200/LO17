@@ -9,7 +9,7 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Properties;
 
-public class Lexique {
+public class LexiqueCorpus {
 	
 	/**
 	 * HashMap clé(mot)=valeur(lemme)
@@ -39,7 +39,7 @@ public class Lexique {
 	/**
 	 * Constructor
 	 */
-	public Lexique() {
+	public LexiqueCorpus() {
 		InputStreamReader isr = null;
 		try {
 			isr = new InputStreamReader(new FileInputStream("res/lemm_td2.txt"), "UTF8");
