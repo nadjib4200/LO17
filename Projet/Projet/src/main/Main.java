@@ -8,8 +8,8 @@ import java.util.StringTokenizer;
 import org.antlr.runtime.ANTLRReaderStream;
 import org.antlr.runtime.CommonTokenStream;
 
-import antlr.output.tal_sqlLexer;
-import antlr.output.tal_sqlParser;
+import antlr.output.tal_sql6Lexer;
+import antlr.output.tal_sql6Parser;
 import sql.annexe.CatAmeliore;
 import sql.lexique.LexiqueCorpus;
 import sql.lexique.LexiqueSimple;
@@ -32,12 +32,34 @@ public class Main {
 	    return false;
 	}
 	
+	public static boolean isInteger(String s) {
+	    try { 
+	        Integer.parseInt(s); 
+	    } catch(NumberFormatException e) { 
+	        return false; 
+	    }
+	    // only got here if we didn't return false
+	    return true;
+	}
+	
 	public static void main(String[] args) {
 		
 		// les lexiques
 		LexiqueCorpus lexiqueLemmes = new LexiqueCorpus();
 		LexiqueSimple lexiquePivot = new LexiqueSimple("res/dic_pivot.txt");
 		LexiqueSimple lexiqueStop = new LexiqueSimple("res/stopliste.txt");
+		
+//		System.out.println("grand -- grenade");
+//		System.out.println("Coût Levenshtein : " + lexiqueLemmes.calculCoutLev("grand", "grenade"));
+//		System.out.println();
+//		System.out.println("grenade -- grands");
+//		System.out.println("Coût Levenshtein : " + lexiqueLemmes.calculCoutLev("grenade", "grands"));
+//		System.out.println();
+//		System.out.println("grenade -- grand");
+//		System.out.println("Coût Levenshtein : " + lexiqueLemmes.calculCoutLev("grenade", "grand"));
+//		System.out.println();
+//		System.out.println("grenade -- e");
+//		System.out.println("Coût Levenshtein : " + lexiqueLemmes.calculCoutLev("grenade", "e"));
 		
 		// strings
 		String questionEnCours = "";
@@ -76,7 +98,7 @@ public class Main {
 //				questionEnCours = questionEnCours.replaceAll("[\\p{Punct}ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÕÖÙÚÛÜÝàáâãäçèéêëìíîïñòóôõöùúûüýÿ]", "");
 				
 				// suppression du .
-				questionEnCours = questionEnCours.replaceAll("\\.", "");
+				questionEnCours = questionEnCours.replaceAll("\\w\\.\\s", "");
 				// suppression du ?
 				questionEnCours = questionEnCours.replaceAll("\\?", "");
 				// suppression du !
@@ -116,66 +138,70 @@ public class Main {
 					
 //					System.out.println("===***=============== " + motQuestionEnCours);
 					
-					// on traite seulement les mots d'au moins 2 lettres
-					if (motQuestionEnCours.length() > 1) {
-						if (lexiqueStop.getValeur(motQuestionEnCours) != null) {
-							reqNormalisee = reqNormalisee.concat(lexiqueStop.getValeur(motQuestionEnCours) + " ");
-//							System.out.println(motQuestionEnCours + " > stop mot");
-						} else {
-							if (lexiquePivot.getValeur(motQuestionEnCours) != null) {
-								String motPivot = lexiquePivot.getValeur(motQuestionEnCours);
-								// on ajoute le nouveau mot pivot dans la liste 
-								if (!search(motPivot, listeMotsPivot)) {
-									reqNormalisee = reqNormalisee.concat(motPivot + " ");
-									listeMotsPivot.add(motPivot);
-//									System.out.println("ajout pivot > " + motPivot);
-								} else { // mot pivot déjà existant, on ajoute le mot lui-même
-//									System.out.println("pivot déjà existant > " + motPivot);
-									reqNormalisee = reqNormalisee.concat(motQuestionEnCours + " ");
-								}
+					if (isInteger(motQuestionEnCours)) {
+						reqNormalisee = reqNormalisee.concat(motQuestionEnCours + " ");
+					} else {
+						// on traite seulement les mots d'au moins 2 lettres
+						if (motQuestionEnCours.length() > 1) {
+							if (lexiqueStop.getValeur(motQuestionEnCours) != null) {
+								reqNormalisee = reqNormalisee.concat(lexiqueStop.getValeur(motQuestionEnCours) + " ");
+	//							System.out.println(motQuestionEnCours + " > stop mot");
 							} else {
-								/**
-								 *  On récupère le lemme - méthode simple
-								 */
-								String lemme = lexiqueLemmes.getLemme(motQuestionEnCours);
-								// lemme exist
-								if (lemme != null) {
-				//					System.out.println("Ce mot est dans le lexique, son lemme est : " + lemme);
-									// on prend le lemme trouvé
-									reqNormalisee = reqNormalisee.concat(lemme + " ");
-								// prefix
+								if (lexiquePivot.getValeur(motQuestionEnCours) != null) {
+									String motPivot = lexiquePivot.getValeur(motQuestionEnCours);
+									// on ajoute le nouveau mot pivot dans la liste 
+									if (!search(motPivot, listeMotsPivot)) {
+										reqNormalisee = reqNormalisee.concat(motPivot + " ");
+										listeMotsPivot.add(motPivot);
+	//									System.out.println("ajout pivot > " + motPivot);
+									} else { // mot pivot déjà existant, on ajoute le mot lui-même
+	//									System.out.println("pivot déjà existant > " + motPivot);
+										reqNormalisee = reqNormalisee.concat(motQuestionEnCours + " ");
+									}
 								} else {
 									/**
-									 * On récupère liste lemmes - méthode préfix
+									 *  On récupère le lemme - méthode simple
 									 */
-									HashMap<String, Integer> resPrefix = lexiqueLemmes.getPrefixList(motQuestionEnCours);
-									if (!resPrefix.isEmpty()) {
-				//						System.out.println("[Méthode préfixe] La liste des meilleurs lemmes candidats :");
-				//						Lexique.afficherLemmProxBest(resPrefix);
-										// par défaut on prend le premier lemme trouvé
-										String lemmeChoisi = resPrefix.keySet().iterator().next();
-				//						System.out.println("Lemme choisi : " + lemmeChoisi);
-										reqNormalisee = reqNormalisee.concat(lemmeChoisi + " ");
-									// Levenshtein
+									String lemme = lexiqueLemmes.getLemme(motQuestionEnCours);
+									// lemme exist
+									if (lemme != null) {
+					//					System.out.println("Ce mot est dans le lexique, son lemme est : " + lemme);
+										// on prend le lemme trouvé
+										reqNormalisee = reqNormalisee.concat(lemme + " ");
+									// prefix
 									} else {
 										/**
-										 * On récupère liste lemmes - méthode levenshtein
+										 * On récupère liste lemmes - méthode préfix
 										 */
-										HashMap<String, Integer> resLev = lexiqueLemmes.getLevenshteinList(motQuestionEnCours);
-										if (!resLev.isEmpty()) {
-				//							System.out.println("[Méthode Levenshtein] La liste des meilleurs lemmes candidats :");
-//											Lexique.afficherLemmLevenshteinBest(resLev);
+										HashMap<String, Integer> resPrefix = lexiqueLemmes.getPrefixList(motQuestionEnCours);
+										if (!resPrefix.isEmpty()) {
+					//						System.out.println("[Méthode préfixe] La liste des meilleurs lemmes candidats :");
+					//						Lexique.afficherLemmProxBest(resPrefix);
 											// par défaut on prend le premier lemme trouvé
-											String lemmeChoisi = resLev.keySet().iterator().next();
-//											System.out.println("Lemme choisi : " + lemmeChoisi);
+											String lemmeChoisi = resPrefix.keySet().iterator().next();
+					//						System.out.println("Lemme choisi : " + lemmeChoisi);
 											reqNormalisee = reqNormalisee.concat(lemmeChoisi + " ");
-										// retourne mot
+										// Levenshtein
 										} else {
 											/**
-											 * On retourne le mot
+											 * On récupère liste lemmes - méthode levenshtein
 											 */
-				//							System.out.println("Aucun mot n'a été trouvé.");
-											reqNormalisee = reqNormalisee.concat(motQuestionEnCours + " ");
+											HashMap<String, Integer> resLev = lexiqueLemmes.getLevenshteinList(motQuestionEnCours);
+											if (!resLev.isEmpty()) {
+					//							System.out.println("[Méthode Levenshtein] La liste des meilleurs lemmes candidats :");
+	//											Lexique.afficherLemmLevenshteinBest(resLev);
+												// par défaut on prend le premier lemme trouvé
+												String lemmeChoisi = resLev.keySet().iterator().next();
+	//											System.out.println("Lemme choisi : " + lemmeChoisi);
+												reqNormalisee = reqNormalisee.concat(lemmeChoisi + " ");
+											// retourne mot
+											} else {
+												/**
+												 * On retourne le mot
+												 */
+					//							System.out.println("Aucun mot n'a été trouvé.");
+												reqNormalisee = reqNormalisee.concat(motQuestionEnCours + " ");
+											}
 										}
 									}
 								}
@@ -187,7 +213,7 @@ public class Main {
 				/**
 				 * Affichage requete normalisée 1
 				 */
-				System.out.println("Requête normalisée 1 : " + reqNormalisee);
+				System.out.println("Requête normalisée étape 1 : " + reqNormalisee);
 				
 				/**
 				 * Quelques traitements sur la requete normalisée
@@ -207,7 +233,7 @@ public class Main {
 				/**
 				 * Affichage requete normalisée 2
 				 */
-				System.out.println("Requête normalisée 2 : " + reqNormalisee);
+				System.out.println("Requête normalisée étape 2 : " + reqNormalisee);
 				
 				
 				/**
@@ -235,6 +261,8 @@ public class Main {
 				ArrayList<String> etouListe = new ArrayList<String>();
 				etouListe.addAll(etListe);
 				etouListe.addAll(ouListe);
+				etouListe.add("et");
+				etouListe.add("ou");
 				
 				String motSuivant = st3.nextToken();
 				
@@ -268,13 +296,16 @@ public class Main {
 					} else if (search(mot, ouListe)) {
 						isOu = true;
 						isEt = false;
+						if (mot.equals("date")) {
+							isOu = false;
+						}
 					}
 				}
 				
 				/**
 				 * Affichage requete normalisée 3
 				 */
-				System.out.println("Requête normalisée 3 : " + reqNormalisee2);
+				System.out.println("Requête normalisée étape 3 : " + reqNormalisee2);
 				System.out.println("=====================================");
 				
 				/**
@@ -282,9 +313,9 @@ public class Main {
 				 */
 				System.out.println("*****************");
 		    	try{
-		    		tal_sqlLexer lexer = new tal_sqlLexer(new ANTLRReaderStream(new StringReader(reqNormalisee2)));
+		    		tal_sql6Lexer lexer = new tal_sql6Lexer(new ANTLRReaderStream(new StringReader(reqNormalisee2)));
 		      		CommonTokenStream tokens = new CommonTokenStream(lexer);
-					tal_sqlParser parser = new tal_sqlParser(tokens);
+		      		tal_sql6Parser parser = new tal_sql6Parser(tokens);
 					String arbre = parser.listerequetes();
 					System.out.println(arbre);
 		    	} catch(Exception e) {  }

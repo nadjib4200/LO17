@@ -1,3 +1,14 @@
+Je voudrais s'il vous plaît l'article dont le titre est "Quelle belle journée, je voudrais bien chanter !" ou dont la date est le 6 février 2012 ou le 2 mars 2012 et dont le thème est "La star mondiale" ou dont l'email est "toto@gmail.com" et "tata@gmail.com".
+
+Je voudrais les articles contenant rouge.
+
+Je voudrais les articles contenant rouge et bleu.
+
+Je voudrais les articles parlant de rouge et bleu et dont l'email est jean@gmail.com ou paul@gmail.com.
+
+
+
+
 je voudrais les articles qui contiennent les mots "maison" "chaise"
 je voudrais les articles qui parlent de MJ
 je voudrais les araticles qui parlent de MJ
@@ -28,3 +39,8 @@ Quelles pages traitent des attentats à Baghdad.
  
 Quelles sont les pages traitant de Mickael Jackson ?
 Quelles sont les articles traitant de l'opération de Pape
+
+je voudrajis les articles parlant de bush a b c.
+je vdoudrai les articles parlant de michaeljackson;   ?!!
+je voudrais les articles contenant de "Quelle belle journee !"
+je voudrais les articles traitant de "J'apprends l'economie nationale"
