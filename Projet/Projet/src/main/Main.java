@@ -13,6 +13,7 @@ import antlr.output.tal_sql6Parser;
 import sql.annexe.CatAmeliore;
 import sql.lexique.LexiqueCorpus;
 import sql.lexique.LexiqueSimple;
+import sql.requete.InterrogPostgresql;
 
 
 public class Main {
@@ -48,6 +49,8 @@ public class Main {
 		LexiqueCorpus lexiqueLemmes = new LexiqueCorpus();
 		LexiqueSimple lexiquePivot = new LexiqueSimple("res/dic_pivot.txt");
 		LexiqueSimple lexiqueStop = new LexiqueSimple("res/stopliste.txt");
+		// base
+		InterrogPostgresql base = new InterrogPostgresql();
 		
 //		System.out.println("grand -- grenade");
 //		System.out.println("Coût Levenshtein : " + lexiqueLemmes.calculCoutLev("grand", "grenade"));
@@ -312,14 +315,28 @@ public class Main {
 				 * Requete normalisée => affichage requete sql
 				 */
 				System.out.println("*****************");
-		    	try{
+				String arbre = null;
+				try{
 		    		tal_sql6Lexer lexer = new tal_sql6Lexer(new ANTLRReaderStream(new StringReader(reqNormalisee2)));
 		      		CommonTokenStream tokens = new CommonTokenStream(lexer);
 		      		tal_sql6Parser parser = new tal_sql6Parser(tokens);
-					String arbre = parser.listerequetes();
+					arbre = parser.listerequetes();
 					System.out.println(arbre);
 		    	} catch(Exception e) {  }
 		    	System.out.println("*****************");
+		    	
+//		    	arbre = arbre.replaceAll("\\(", "");
+//		    	arbre = arbre.replaceAll("\\)", "");
+		    	arbre = arbre.replaceAll(" {2,}"," ");
+		    	arbre = arbre.trim();
+		    	arbre = arbre.concat(";");
+		    	
+		    	System.out.println("*****************");
+		    	System.out.println(arbre);
+		    	System.out.println("*****************");
+		    	
+				base.setRequete(arbre);
+				base.exec_sql();
 		    
 		    	System.out.println();
 			
