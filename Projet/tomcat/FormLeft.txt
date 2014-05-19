@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Lance requete!</title>
+</head>
+<body>
+<P>
+<form action = "servlet/LanceRequete" target = "right">
+<input type=text size=30 name=requete>
+<br>
+<input type=submit>
+</form>

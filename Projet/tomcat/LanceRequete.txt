@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>frasme de lance requete</title>
+</head>
+<frameset cols="30%,*">
+<frame src = "FormLeft.html" name = "left">
+<frame src = "servlet/LanceRequete" name = "right">
+</frameset>
+</html>
