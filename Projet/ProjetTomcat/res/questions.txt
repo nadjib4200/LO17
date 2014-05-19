@@ -1,0 +1,9 @@
+Je voudrais les articles possédant le terme pape.
+
+Je voudrais les rubriques possédant le terme pape.
+
+Je voudrais les articles contenant pape et contenant rome.
+
+Je voudrais les articles possédant le terme pape et email est agautier@tf1.fr.
+
+Combien d'articles parlent de pape.
