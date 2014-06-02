@@ -1,9 +1,11 @@
+Je voudrais les artivcles parlant de rougle et dont l'email est jean@gmail.com ou paul@gmail.com.
+
 Je voudrais les articles possédant le terme pape.
 
 Je voudrais les rubriques possédant le terme pape.
 
 Je voudrais les articles contenant pape et contenant rome.
 
-Je voudrais les articles possédant le terme pape et email est agautier@tf1.fr.
+Je voudrais les artivcles possédant le terme pape et email est paul@gmail.com.
 
 Combien d'articles parlent de pape.

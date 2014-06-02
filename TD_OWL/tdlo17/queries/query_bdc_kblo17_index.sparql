@@ -1,0 +1,9 @@
+PREFIX pf: <http://jena.hpl.hp.com/ARQ/property#>
+PREFIX lo17:    <http://www.owl-ontologies.com/lo17#>
+
+SELECT distinct ?resume
+WHERE {
+	?lit pf:textMatch ('+GUILLET' 0.8) .
+	?elt lo17:hasAuteur ?lit .
+	?elt lo17:hasResumeArticle ?resume 
+}

@@ -3,7 +3,7 @@ import java.io.*;
 import javax.servlet.*;
 import javax.servlet.http.*;
 
-import main.MainModifie;
+import main.MainTomcat;
 
 import java.sql.*;
 import java.io.*;
@@ -40,7 +40,15 @@ public class LanceRequete extends HttpServlet {
 
 	// recupere le contexte et la requete SQL
 	ServletContext context = getServletContext();
-	requete = MainModifie.getRequeteNormalisee(requete, context);
+	requete = MainTomcat.getRequeteNormalisee(requete, context);
+	
+	//requete = "SELECT distinct titreResume.article FROM titreResume, email WHERE mot = 'pape' AND email = 'r@tf1.fr' AND titreResume.article = email.article ORDER BY titreResume.article";
+	//requete = "SELECT distinct titreResume.article FROM titreResume, email WHERE mot = 'euro' AND email = 'r@tf1.fr' AND titreResume.article = email.article ORDER BY titreResume.article";
+	//requete = "SELECT distinct email FROM email";
+//	requete = "SELECT distinct titreResume.article FROM titreResume, email WHERE mot = 'euro' OR mot = 'france' AND email = 'r@tf1.fr' AND titreResume.article = email.article ORDER BY titreResume.article";
+//	requete = "SELECT count(titreResume.article) FROM titreResume, email WHERE mot = 'euro' AND email = 'r@tf1.fr' AND titreResume.article = email.article";
+	
+	//requete = "select distinct titreresume.article from titreresume, email where mot = 'pape' AND email = 'agautier@tf1.fr' AND titreResume.article = email.article";
 	
 	if (requete != null) {
 		// INSTALL/load the Driver (Vendor specific Code)
